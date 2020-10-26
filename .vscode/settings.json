@@ -1,0 +1,17 @@
+{
+    "spellright.language": [
+        "English (American)"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ],
+    "markdown-pdf.styles": [
+        "markdownStyle.css",
+    ],
+    "markdown-pdf.convertOnSave": true,
+    "markdown-pdf.convertOnSaveExclude": [
+        "template.md"
+    ]
+}
