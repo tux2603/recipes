@@ -3,10 +3,10 @@
 <small>Recipe by: ???, modified by the O'Connor clan</small>
 <small>Servings: ???</small>
 
-| Amount   | Ingredient                                            |
-| -------- | :---------------------------------------------------- |
-| ???     | ???                                          |
-| ???  | ???                                           |
+| Amount | Ingredient | Prep Notes |
+| ------ | :--------- | :--------- |
+| ???    | ???        |            |
+| ???    | ???        |            |
 
 - ???
 - ???

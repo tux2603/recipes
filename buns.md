@@ -3,16 +3,16 @@
 <small>Recipe by: allrecipes.com, modified by the O’Connor clan</small>
 <small>Servings: 6-10</small>
 
-| Amount             | Ingredient     |
-| ------------------ | :------------- |
-| 1 cup              | milk           |
-| 1/2 cups           | water          |
-| 1/4 cup            | butter         |
-| 4.5 cups           | flour, divided |
-| 1 scant tablespoon | yeast          |
-| 2 tablespoons      | sugar          |
-| 1.5 teaspoons      | salt           |
-| 1                  | egg            |
+| Amount             | Ingredient | Prep Notes |
+| ------------------ | :--------- | :--------- |
+| 1 cup              | milk       | warm       |
+| 1/2 cups           | water      | warm       |
+| 1/4 cup            | butter     |            |
+| 4.5 cups           | flour      | divided    |
+| 1 scant tablespoon | yeast      |            |
+| 2 tablespoons      | sugar      |            |
+| 1.5 teaspoons      | salt       |            |
+| 1                  | egg        |            |
 
 - in a saucepan, heat milk, water, and butter until melted and 110-120
 - in bowl of stand mixer, mix together 2 cups flour, yeast, sugar, and salt
