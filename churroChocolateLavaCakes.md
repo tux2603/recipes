@@ -24,6 +24,6 @@
 - once ganache is cooling, preheat oven to 350° and grease a large muffin tin
 - mix together all remaining dry ingredients in a large bowl, then add the egg, milk, melted butter, and remaining vanilla and whisk until combined into a thick (?) batter
 - mix the cinnamon and sugar together on a large plate. Divide the batter into equal pieces and roll each of the pieces in the cinnamon sugar mixture until combined
-- remove the cooled ganache from the refridgerator, and spoon a scoop into each of the muffin tin holes
+- remove the cooled ganache from the refrigerator, and spoon a scoop into each of the muffin tin holes
 - place the balls of dough into the muffin tin on top of the ganache
 - cook for ~20 minutes, until golden and a toothpick comes out clean
