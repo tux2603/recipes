@@ -20,4 +20,4 @@
 - mix heavy cream, egg, and bread in a large bowl to form a paste
 - add meatloaf mix, onion, allspice, nutmeg, pepper, brown sugar, salt, and baking powder, mixing with hand until well combined
 - using a #70 cookie scoop or tablespoon, form meatballs onto tray (makes 40-50 small meatballs)
-- bake 20-30 minutes until browned
+- bake 20-30 minutes until brown
