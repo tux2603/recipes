@@ -32,4 +32,4 @@ jobs:
           git config user.name "GitHub Action Auto Commit"
           git add recipes/index.md
           git commit -m 'Auto generate recipe index'
-          git subtree push --prefix=recipes origin gh-pages
+          git subtree push --force --prefix=recipes origin gh-pages
