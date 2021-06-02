@@ -10,7 +10,7 @@
     "markdown-pdf.styles": [
         "markdownStyle.css",
     ],
-    "markdown-pdf.convertOnSave": true,
+    "markdown-pdf.convertOnSave": false,
     "markdown-pdf.convertOnSaveExclude": [
         "template.md"
     ]
