@@ -32,8 +32,9 @@ jobs:
           pwd
           ls
           ls docs
-          date >docs/index.md
+          date >recipes/index.md
           git config user.email "tux2603@gmail.com"
           git config user.name "GitHub Action Auto Commit"
-          git add docs/index.md
+          git add recipes/index.md
           git commit -m 'Auto generate recipe index'
+          git subtree push --prefix=recipes origin gh-pages
