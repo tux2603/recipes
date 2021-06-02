@@ -3,18 +3,18 @@
 <small>Recipe by: Taste of Home, shared by Veronica O’Connor, modified by the O’Connor clan</small>
 <small>Servings: 6</small>
 
-| Amount           | Ingredient                              |
-| ---------------- | :-------------------------------------- |
-| 3 cups           | quick cooking oats                      |
-| 3/4 cups         | brown sugar, packed                     |
-| 2 teaspoons      | baking powder                           |
-| 1 scant teaspoon | salt                                    |
-| 1/2 teaspoon     | ground cinnamon                         |
-| 2                | eggs, beaten                            |
-| 1 cup            | milk                                    |
-| 1/2 cup          | butter, melted                          |
-| 1                | large apple, peeled, cored, and chopped |
-| 2 cups           | frozen fruit, chopped                   |
+| Amount           | Ingredient         | Prep Notes                 |
+| ---------------- | :----------------- | :------------------------- |
+| 3 cups           | quick cooking oats |                            |
+| 3/4 cups         | brown sugar        | packed                     |
+| 2 teaspoons      | baking powder      |                            |
+| 1 scant teaspoon | salt               |                            |
+| 1/2 teaspoon     | ground cinnamon    |                            |
+| 2                | eggs               | beaten                     |
+| 1 cup            | milk               |                            |
+| 1/2 cup          | butter             | melted                     |
+| 1                | large apple        | peeled, cored, and chopped |
+| 2 cups           | frozen fruit       | chopped                    |
 
 - preheat oven to 350
 - grease 9x13 pan

@@ -3,17 +3,17 @@
 <small>Recipe by: Cook's Illustrated May/June 2014, modified by the O'Connor clan</small>
 <small>Servings: 4</small>
 
-| Amount              | Ingredient                                   |
-| ------------------- | :------------------------------------------- |
-| 2.25 cups           | long grain white rice (eg, Jasmine, basmati) |
-| 4.5 tablespoons     | butter                                       |
-| 3 ounces (1/2 cups) | orzo                                         |
-| 1.5 cups            | onion, grated (or equivalent powdered)       |
-| 1.5 clove           | garlic, minced                               |
-| 3.75 cups           | chicken broth                                |
-| 1 teaspoon          | salt                                         |
-| 1/4 cups            | fresh minced parsley (much less when dried)  |
-| 1 pack | kielbasa (optional)
+| Amount              | Ingredient            | Prep Notes                               |
+| ------------------- | :-------------------- | :--------------------------------------- |
+| 2.25 cups           | long grain white rice | eg, Jasmine or basmati rice              |
+| 4.5 tablespoons     | butter                |                                          |
+| 3 ounces (1/2 cups) | orzo                  |                                          |
+| 1.5 cups            | onion                 | grated or diced                          |
+| 1.5 clove           | garlic                | minced                                   |
+| 3.75 cups           | chicken broth         |                                          |
+| 1 teaspoon          | salt                  |                                          |
+| 1/4 cups            | fresh parsley         | minced, much less if using dried parsley |
+| 1 pack              | kielbasa (optional)   |
 
 - Place rice in a bowl and pour hot tap water over it. Let stand for 15 minutes
 - Swish around the rice to release any extra starch and pour off water. Rinse with cold water 3 to 5 times

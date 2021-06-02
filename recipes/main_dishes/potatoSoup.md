@@ -3,14 +3,15 @@
 <small>Recipe by: unknown, modified by the O’Connor clan</small>
 <small>Servings: 6</small>
 
-| Amount     | Ingredient                  |
-| ---------- | :-------------------------- |
-| 1 pound    | bacon, chopped              |
-| 4-5 pounds | potatoes, peeled and cut up |
-| pinch      | pepper                      |
-| 1/4 cups   | dry minced onion            |
-| 3 cups     | milk                        |
-| 3 cups     | chicken broth               |
+| Amount     | Ingredient       | Prep Notes       |
+| ---------- | :--------------- | :--------------- |
+| 1 pound    | bacon            | chopped          |
+| 4-5 pounds | potatoes         | peeled and cubed |
+| pinch      | pepper           |                  |
+| 1/4 cups   | dry minced onion |                  |
+| 3 cups     | milk             |                  |
+| 3 cups     | chicken broth    |                  |
+|            | cheddar cheese   | to taste         |
 
 - brown the bacon on medium-high, remove onto a paper towel lined plate to cool
 - add potatoes to the pan with the bacon grease, stir

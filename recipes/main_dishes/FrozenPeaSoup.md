@@ -3,14 +3,14 @@
 <small>Recipe by: Cooks Illustrated, modified by the O'Connor clan</small>
 <small>Servings: 5</small>
 
-| Amount        | Ingredient                                            |
-| ------------- | :---------------------------------------------------- |
-| 4 tablespoons       | butter         |
-| 1 cup       | minced shallots (about 8 medium shallots)            |
-| 2 tablespoons    | flour        |
-| 3.5 cups      | chicken broth |
-| 2 pounds   | frozen peas                                         |
-| 1/2 cup | heavy cream (can substitute evaporated milk) |
+| Amount        | Ingredient      | Prep Notes                     |
+| ------------- | :-------------- | :----------------------------- |
+| 4 tablespoons | butter          |                                |
+| 1 cup         | minced shallots | about eight medium shallots    |
+| 2 tablespoons | flour           |                                |
+| 3.5 cups      | chicken broth   |                                |
+| 2 pounds      | frozen peas     |                                |
+| 1/2 cup       | heavy cream     | can substitute evaporated milk |
 
 - remove peas from freezer
 - heat butter in large pan over low heat until foaming; add shallots; cover and cook until softened, about 8-10 minutes, stirring occasionally

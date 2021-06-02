@@ -3,14 +3,14 @@
 <small>Recipe by: unknown, modified by the O’Connor clan</small>
 <small>Servings: 4</small>
 
-| Amount             | Ingredient          |
-| ------------------ | :------------------ |
-| 2.5 cups           | flour, divided      |
-| 1 tablespoon       | sugar               |
-| 1 scant tablespoon | yeast               |
-| 1 teaspoon         | salt                |
-| 1 cup              | warm water, 110-120 |
-| 2 tablespoons      | oil                 |
+| Amount             | Ingredient | Prep Notes  |
+| ------------------ | :--------- | :---------- |
+| 2.5 cups           | flour      | **divided** |
+| 1 tablespoon       | sugar      |             |
+| 1 scant tablespoon | yeast      |             |
+| 1 teaspoon         | salt       |             |
+| 1 cup              | warm water | 110-120°F   |
+| 2 tablespoons      | oil        |             |
 
 - preheat oven to 450
 - in bowl of stand mixer, combine 1 cup flour, sugar, yeast, salt

@@ -21,3 +21,5 @@
 - add meatloaf mix, onion, allspice, nutmeg, pepper, brown sugar, salt, and baking powder, mixing with hand until well combined
 - using a #70 cookie scoop or tablespoon, form meatballs onto tray (makes 40-50 small meatballs)
 - bake 20-30 minutes until brown
+
+- _note_: spices listed are for Swedish meatballs. If you want other meatballs, use different spices

@@ -3,12 +3,12 @@
 <small>Recipe by: Kate Barker, modified by the O’Connor clan</small>
 <small>Servings: 12</small>
 
-| Amount     | Ingredient    |
-| ---------- | :------------ |
-| 1 cup      | peanut butter |
-| 1 cup      | sugar         |
-| 1 teaspoon | vanilla       |
-| 1          | egg, beaten   |
+| Amount     | Ingredient    | Prep Notes |
+| ---------- | :------------ | :--------- |
+| 1 cup      | peanut butter |            |
+| 1 cup      | sugar         |            |
+| 1 teaspoon | vanilla       |            |
+| 1          | egg           | beaten     |
 
 - preheat oven to 350
 - mix all ingredients

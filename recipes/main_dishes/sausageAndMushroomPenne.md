@@ -3,15 +3,15 @@
 <small>Recipe by: Cook's Country December/January 2014, modified by the O'Connor clam</small>
 <small>Serves: 5</small>
 
-| Amount   | Ingredient              |
-| -------- | :---------------------- |
-| 1 pound  | Italian sausage         |
-| 1 pound  | white mushrooms         |
-| 2 cups   | chicken broth           |
-| 1 can    | diced tomatoes          |
-| 1 pound  | penne                   |
-| 3/4 cups | heavy cream             |
-| 1 wedge  | Parmesan cheese, grated |
+| Amount   | Ingredient      | Prep Notes |
+| -------- | :-------------- | :--------- |
+| 1 pound  | Italian sausage |            |
+| 1 pound  | white mushrooms |            |
+| 2 cups   | chicken broth   |            |
+| 1 can    | diced tomatoes  |            |
+| 1 pound  | penne           |            |
+| 3/4 cups | heavy cream     |            |
+| 1 wedge  | Parmesan        | grated     |
 
 - brown sausage in a skillet until no longer pink. Remove sausage and add sliced mushrooms. Cook until beginning to brown, then remove and set aside with the sausage
 - add broth, tomatoes, pasta, and cream to the now-empty skillet and bring to a boil. Reduce heat to a simmer and cover, stirring occasionally, until noodles are done, about 15 minutes

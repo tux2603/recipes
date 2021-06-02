@@ -3,21 +3,21 @@
 <small>Recipe by: the O’Connor clan</small>
 <small>Servings: 5</small>
 
-| Amount       | Ingredient                                                                 |
-| ------------ | :------------------------------------------------------------------------- |
-| 2-3 pounds   | roast, trimmed (can use beef or pork roast)                                |
-|              | flour                                                                      |
-| 2-4          | large potatoes, cut into large chunks                                      |
-| 6-8          | carrots, cut into large chunks                                             |
-| 2            | onions, cut into large chunks or chopped (whichever preferred for texture) |
-| 2 cups       | beef broth                                                                 |
-| 1/2 teaspoon | dried marjoram                                                             |
-| 1/2 teaspoon | dried basil                                                                |
-| 1/4 teaspoon | dried rosemary                                                             |
-| 1/4 teaspoon | dried thyme (or pinch powdered thyme)                                      |
-| 1 teaspoon   | garlic powder                                                              |
-| pinch        | pepper                                                                     |
-| dash         | Worcestershire sauce                                                       |
+| Amount       | Ingredient           | Prep Notes                                               |
+| ------------ | :------------------- | :------------------------------------------------------- |
+| 2-3 pounds   | roast                | trimmed, can use beef or pork roast                      |
+|              | flour                |                                                          |
+| 2-4          | large potatoes       | cut into large chunks                                    |
+| 6-8          | carrots              | cut into large chunks                                    |
+| 2            | onions               | cut into large chunks or chopped according to preference |
+| 2 cups       | beef broth           |                                                          |
+| 1/2 teaspoon | dried marjoram       |                                                          |
+| 1/2 teaspoon | dried basil          |                                                          |
+| 1/4 teaspoon | dried rosemary       |                                                          |
+| 1/4 teaspoon | dried thyme          |                                                          |
+| 1 teaspoon   | garlic powder        |                                                          |
+| pinch        | pepper               |                                                          |
+| dash         | Worcestershire sauce |                                                          |
 
 - preheat oven to 300
 - dredge meat in flour; brown

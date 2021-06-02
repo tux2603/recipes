@@ -3,19 +3,19 @@
 <small>Recipe by: Taste of Home magazine, modified by the O’Connor clan</small>
 <small>Servings: 5</small>
 
-| Amount            | Ingredient                                       |
-| ----------------- | :----------------------------------------------- |
-| 1 pound           | lean ground beef                                 |
-| 1 cup             | bread crumbs, seasoned                           |
-| 1/2 cup           | milk                                             |
-| 1/4 cup           | dry minced onion or 1.5 teaspoons onion powder   |
-| 1 teaspoon        | garlic powder                                    |
-| pinch             | pepper                                           |
-| 4                 | mozzarella cheese sticks, cut into 6 pieces each |
-| flour for rolling |
-| 1 tablespoon      | oil                                              |
-| 1 jar             | spaghetti sauce                                  |
-|                   | noodles or buns                                  |
+| Amount       | Ingredient               | Prep Notes                                     |
+| ------------ | :----------------------- | :--------------------------------------------- |
+| 1 pound      | lean ground beef         |                                                |
+| 1 cup        | seasoned bread crumbs    | can add seasoning if using normal bread crumbs |
+| 1/2 cup      | milk                     |                                                |
+| 1/4 cup      | dry minced onion         | can substitute 1.5 teaspoons onion powder      |
+| 1 teaspoon   | garlic powder            |                                                |
+| pinch        | pepper                   |                                                |
+| 4            | mozzarella cheese sticks | cut into six pieces each                       |
+| 1 cup        | flour                    | approximate, for rolling meatballs in          |
+| 1 tablespoon | oil                      |                                                |
+| 1 jar        | spaghetti sauce          |                                                |
+|              | noodles or subs          |                                                |
 
 - combine milk, bread crumbs (if you don’t have seasoned bread crumbs, add 1 teaspoon Italian seasoning), onion, garlic, and pepper
 - once bread crumbs are softened, mix in ground beef and form into 24 meatballs

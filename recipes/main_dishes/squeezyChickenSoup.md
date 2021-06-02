@@ -3,22 +3,22 @@
 <small>Recipe by: Cooks Country October/November 2012, modified by the O'Connor clan</small>
 <small>Servings: 6</small>
 
-| Amount        | Ingredient          |
-| ------------- | :------------------ |
-| 4             | chicken thighs      |
-| 1 teaspoon    | vegetable oil       |
-| 1             | onion, chopped fine |
-|               | salt                |
-|               | pepper              |
-| 8 cups        | chicken broth       |
-| 2.5 cups      | flour               |
-| 1/4 teaspoons | backing powder      |
-| 3             | large eggs, beaten  |
-| 1/2 cups      | half & half         |
-| 1/2 cups      | half & half         |
-| 1/2 cups      | water               |
-| 2 pounds      | yellow potatoes     |
-| 1 pound       | carrots             |
+| Amount        | Ingredient      | Prep Notes                                        |
+| ------------- | :-------------- | :------------------------------------------------ |
+| 4             | chicken thighs  | can substitute breast or tenderloin if necessaery |
+| 1 teaspoon    | vegetable oil   |                                                   |
+| 1             | onion           | chopped fine                                      |
+|               | salt            |                                                   |
+|               | pepper          |                                                   |
+| 8 cups        | chicken broth   |                                                   |
+| 2.5 cups      | flour           |                                                   |
+| 1/4 teaspoons | backing powder  |                                                   |
+| 3             | large eggs      | beaten                                            |
+| 1/2 cups      | half & half     |                                                   |
+| 1/2 cups      | half & half     |                                                   |
+| 1/2 cups      | water           |                                                   |
+| 2 pounds      | yellow potatoes |                                                   |
+| 1 pound       | carrots         |                                                   |
 
 - boil chicken until cooked, then remove from the water and shred it with forks.
 - put oil in a dutch oven and heat it. Add onions and cook until just beginning to brown

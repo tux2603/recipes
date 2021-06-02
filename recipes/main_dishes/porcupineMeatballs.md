@@ -3,17 +3,17 @@
 <small>Recipe by: Nancy Miller, modified by the O’Connor clan</small>
 <small>Servings: 4</small>
 
-| Amount       | Ingredient                                       |
-| ------------ | :----------------------------------------------- |
-| 1 pound      | ground beef                                      |
-| 1/2 cup      | rice                                             |
-| 1/4 cup      | dried minced onion                               |
-| 1 teaspoon   | powdered garlic                                  |
-| 1/2 teaspoon | basil                                            |
-| 1/4 teaspoon | pepper                                           |
-| 2 cans       | tomato soup                                      |
-| 2 cans       | water (fill the tomato soup cans after emptying) |
-| 1/4 cup      | rice                                             |
+| Amount       | Ingredient         | Prep Notes                 |
+| ------------ | :----------------- | :------------------------- |
+| 1 pound      | ground beef        |                            |
+| 1/2 cup      | rice               |                            |
+| 1/4 cup      | dried minced onion |                            |
+| 1 teaspoon   | powdered garlic    |                            |
+| 1/2 teaspoon | basil              |                            |
+| 1/4 teaspoon | pepper             |                            |
+| 2 cans       | tomato soup        |                            |
+| 2 cans       | water              | use empty tomato soup cans |
+| 1/4 cup      | rice               |                            |
 
 - mix beef, rice, seasonings; form into balls
 - add about 1 teaspoon oil to skillet and warm; brown meatballs
