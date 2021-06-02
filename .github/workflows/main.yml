@@ -33,5 +33,7 @@ jobs:
           ls
           ls docs
           date >docs/index.md
+          git config user.email "tux2603@gmail.com"
+          git config user.name "GitHub Action Auto Commit"
           git add docs/index.md
           git commit -m 'Auto generate recipe index'
