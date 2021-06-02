@@ -25,11 +25,13 @@ jobs:
       - uses: actions/checkout@v2
 
       # Runs a set of commands using the runners shell
-      - name: Try this, dunno how well it will work
+      - name: Autogenerate the index page for the recipes
         run: |
           git config user.email "tux2603@gmail.com"
           git config user.name "GitHub Action Auto Commit"
-          date >recipes/index.md
+          which python3
+          python3 --version
+          python3 scripts/generateIndex.py
           git add recipes/index.md
-          git commit -m 'Auto generate recipe index'
+          git commit -m 'Auto generated recipe index'
           git push origin `git subtree split --prefix=recipes main`:gh-pages --force
