@@ -27,7 +27,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Try this, dunno how well it will work
         run: |
-          echo Let's try just making an index file
+          echo "Let's try just making an index file"
           cd $GITHUB_WORKSPACE
           date >docs/index.md
           git add docs/index.md
