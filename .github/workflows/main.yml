@@ -28,7 +28,11 @@ jobs:
       - name: Try this, dunno how well it will work
         run: |
           echo "Let's try just making an index file"
+          echo "all right, how does this work"
           cd $GITHUB_WORKSPACE
+          pwd
+          ls
+          ls docs
           date >docs/index.md
           git add docs/index.md
           git commit -m 'Auto generate recipe index'
