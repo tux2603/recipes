@@ -27,11 +27,6 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Try this, dunno how well it will work
         run: |
-          echo "Let's try just making an index file"
-          echo "all right, how does this work"
-          pwd
-          ls
-          ls docs
           date >recipes/index.md
           git config user.email "tux2603@gmail.com"
           git config user.name "GitHub Action Auto Commit"
