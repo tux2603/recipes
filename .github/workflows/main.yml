@@ -30,6 +30,7 @@ jobs:
           date >recipes/index.md
           git config user.email "tux2603@gmail.com"
           git config user.name "GitHub Action Auto Commit"
+          git subtree pull --prefix=recipes origin gh-pages
           git add recipes/index.md
           git commit -m 'Auto generate recipe index'
-          git subtree push --force --prefix=recipes origin gh-pages
+          git subtree push --prefix=recipes origin gh-pages
