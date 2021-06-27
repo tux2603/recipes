@@ -21,7 +21,7 @@
 - brown pork chops in oil; transfer to 9x13 pan and sprinkle with pepper
 - deglaze skillet; pour over pork chops
 - add pears to pan; place a chunk of butter in the center of each pear half
-- drizzle oj over all; sprinkle with brown sugar and cinnamon; pour pear juice over all, trying not to wash away the cinnamon/brown sugar
+- drizzle orange juice over all; sprinkle with brown sugar and cinnamon; pour pear juice over all, trying not to wash away the cinnamon/brown sugar
 - cover with aluminum foil and bake at 350 for 20 minutes; uncover and bake an additional 20 minutes
 - remove from oven and plate the pork chops and pears; pour pan drippings into sauce pan
 - mix cornstarch and water; pour into saucepan, stirring constantly; cook on medium heat, stirring constantly, until thickened

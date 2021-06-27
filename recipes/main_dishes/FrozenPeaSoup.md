@@ -21,5 +21,5 @@
 - puree soup with an immersion blender (a blender or food processor will work if you work in small batches - return to pan)
 - stir in heavy cream before serving; season to taste with salt and pepper
 
-- _note_: serve with shredded parmesan or croutons if desired
+- _note_: serve with shredded Parmesan or croutons if desired
 
