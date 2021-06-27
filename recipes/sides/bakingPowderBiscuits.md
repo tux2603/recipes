@@ -6,12 +6,12 @@
 | Amount        | Ingredient      | Prep Notes |
 | ------------- | :-------------- | :--------- |
 | 2 cups        | flour           |            |
-| 1/2 teaspoons | salt            |            |
+| 1/2 teaspoon  | salt            |            |
 | 4 teaspoons   | baking powder   |            |
 | 1/2 teaspoon  | cream of tartar |            |
 | 2 tablespoons | sugar           |            |
 | 1/2 cup       | butter          |            |
-| 2/3 cups      | milk            |            |
+| 2/3 cup       | milk            |            |
 
 - preheat oven to 425°
 - mix together dry ingredients in a large mixing bowl, then cut in the butter and combine until the consistency of fresh bread crumbs

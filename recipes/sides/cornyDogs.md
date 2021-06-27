@@ -1,13 +1,13 @@
 # Corny Dogs
 
 <small>Recipe by: Veronica O’Connor, modified by the O’Connor clan</small>
-<small>Servings: 6</small>
+<small>Servings: 4</small>
 
 | Amount           | Ingredient       |
 | ---------------- | :--------------- |
 | 1 pack           | hot dogs, sliced |
 | 2 cups           | flour            |
-| 1/2 cups         | cornmeal         |
+| 1/2 cup          | cornmeal         |
 | 2 tablespoons    | sugar            |
 | 1 tablespoon     | baking powder    |
 | 1 scant teaspoon | salt             |
@@ -16,7 +16,7 @@
 | 4 tablespoons    | butter           |
 
 - preheat oven to 425
-- spray muffin tin or line with paper cups (about 20)
+- spray muffin tin or line with paper cups (about 18)
 - in large bowl, mix flour, cornmeal, sugar, baking powder, salt
 - in separate beat milk and egg until blended
 - melt butter, then beat into milk mixture

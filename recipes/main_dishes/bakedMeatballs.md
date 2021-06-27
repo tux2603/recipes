@@ -1,7 +1,7 @@
 # Baked Meatballs
 
 <small>Recipe by: Cooks Illustrated Jan/Feb 2009, modified by the O'Connor clan</small>
-<small>Servings: 6</small>
+<small>Servings: 5</small>
 
 | Amount        | Ingredient      | Prep Notes                          |
 | ------------- | :-------------- | :---------------------------------- |
@@ -10,8 +10,8 @@
 | 1             | egg             | beaten                              |
 | 2 slices      | white bread     | crusts removed and torn into chunks |
 | 1 teaspoon    | onion powder    |                                     |
-| 1/8 teaspoons | ground allspice |                                     |
-| 1/8 teaspoons | ground nutmeg   |                                     |
+| 1/8 teaspoon  | ground allspice |                                     |
+| 1/8 teaspoon  | ground nutmeg   |                                     |
 | pinch         | pepper          |                                     |
 | 1 teaspoon    | brown sugar     |                                     |
 | 1 teaspoon    | baking powder   |                                     |
@@ -20,6 +20,13 @@
 - mix heavy cream, egg, and bread in a large bowl to form a paste
 - add meatloaf mix, onion, allspice, nutmeg, pepper, brown sugar, salt, and baking powder, mixing with hand until well combined
 - using a #70 cookie scoop or tablespoon, form meatballs onto tray (makes 40-50 small meatballs)
+<<<<<<< Updated upstream:recipes/main_dishes/bakedMeatballs.md
 - bake 20-30 minutes until brown
 
 - _note_: spices listed are for Swedish meatballs. If you want other meatballs, use different spices
+=======
+- bake 20-30 minutes until browned
+
+
+- _note_: you can use 1/2 pound each lean ground pork and lean hamburger instead of the meatloaf mix
+>>>>>>> Stashed changes:bakedMeatballs.md

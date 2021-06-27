@@ -1,7 +1,7 @@
 # Beef Pot Pie
 
 <small>Recipe by: Elizabeth Powell, modified by the O’Connor clan</small>
-<small>Servings: 5</small>
+<small>Servings: 4</small>
 
 | Amount        | Ingredient            | Prep Notes                            |
 | ------------- | :-------------------- | :------------------------------------ |
@@ -14,7 +14,7 @@
 | 2 tablespoons | soy sauce             |                                       |
 | 2 cups        | beef stock            |                                       |
 | 2-3           | potatoes              | cubed                                 |
-| 2-4           | carrots, sliced       | sliced                                |
+| 2-4           | carrots               | sliced                                |
 | 1 can         | petite diced tomatoes |                                       |
 | 1 tablespoon  | cornstarch            |                                       |
 

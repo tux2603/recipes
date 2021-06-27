@@ -18,4 +18,4 @@
 - cover and let rise 15 minutes
 - shape into two round or oblong loaves on baking sheet
 - put baking sheet into **cold** oven, adding a pan of hot water to bottom shelf
-- heat oven to 400 (setting timer as soon as over is turned on), bake 40-50 minutes until golden brown and hollow sounding
+- heat oven to 400 (setting timer as soon as oven is turned on), bake 40-50 minutes until golden brown and hollow sounding
