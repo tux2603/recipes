@@ -7,8 +7,6 @@ on:
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -34,4 +32,4 @@ jobs:
           python3 scripts/generateIndex.py
           git add recipes/index.md
           git commit -m 'Auto generated recipe index'
-          git push origin `git subtree split --prefix=recipes main`:gh-pages --force
+          git push origin `git subtree split --prefix=recipes main --ignore-join --rejoin`:gh-pages --force
