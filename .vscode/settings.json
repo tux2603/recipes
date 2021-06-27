@@ -6,12 +6,5 @@
         "markdown",
         "latex",
         "plaintext"
-    ],
-    "markdown-pdf.styles": [
-        "markdownStyle.css",
-    ],
-    "markdown-pdf.convertOnSave": false,
-    "markdown-pdf.convertOnSaveExclude": [
-        "template.md"
     ]
 }
