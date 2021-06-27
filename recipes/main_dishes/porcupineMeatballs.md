@@ -1,6 +1,7 @@
 # Porcupine Meatballs
 
 <small>Recipe by: Nancy Miller, modified by the O’Connor clan</small>
+
 <small>Servings: 4</small>
 
 | Amount       | Ingredient         | Prep Notes                 |
@@ -19,5 +20,7 @@
 - add about 1 teaspoon oil to skillet and warm; brown meatballs
 - add soup, water, and extra rice to skillet; bring to boil; stir and reduce to simmer
 - cover and simmer 45 minutes to 1 hour or until rice is softened, stirring every 10-15 minutes
+
+---
 
 - _note_: increase cooking time by about 30 minutes if using brown rice

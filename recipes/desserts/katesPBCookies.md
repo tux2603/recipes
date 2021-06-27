@@ -1,6 +1,7 @@
 # Kate’s Peanut Butter Cookies
 
 <small>Recipe by: Kate Barker, modified by the O’Connor clan</small>
+
 <small>Servings: 6-8</small>
 
 | Amount     | Ingredient    | Prep Notes |

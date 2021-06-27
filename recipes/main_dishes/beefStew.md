@@ -1,6 +1,7 @@
 # Beef Stew
 
 <small>Recipe by: Taste of Home, modified by the O’Connor clan</small>
+
 <small>Servings: 5</small>
 
 | Amount        | Ingredient            | Prep Notes                               |

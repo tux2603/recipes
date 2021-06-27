@@ -1,6 +1,7 @@
 # Football Sandwiches
 
 <small>Recipe by: Cooks Country, modified by the O'Connor clan</small>
+
 <small>Servings: 4</small>
 
 | Amount        | Ingredient           | Prep Notes                 |

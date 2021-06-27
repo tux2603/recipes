@@ -1,6 +1,7 @@
 # Goop
 
 <small>Recipe by: Settlement Cookbook, modified by the O’Connor clan</small>
+
 <small>Servings: 4</small>
 
 ## Cake:
@@ -26,7 +27,7 @@
 | ------------ | :-------------------- | :------------------------------------------------------------------ |
 | 1/4 cup      | sugar                 |                                                                     |
 | 1/2 cup      | brown sugar           |                                                                     |
-| 3 oz         | unsweetened chocolate | finely chopped, can substitue 9 tablespoons cocoa powder in a pinch |
+| 3 oz         | unsweetened chocolate | finely chopped, can substitute 9 tablespoons cocoa powder in a pinch |
 | 1/4 teaspoon | salt                  |                                                                     |
 | 1 teaspoon   | vanilla               |                                                                     |
 | 1 cup        | boiling water         |                                                                     |

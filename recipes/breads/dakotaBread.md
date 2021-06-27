@@ -3,15 +3,15 @@
 <small>Recipe by: Cooks Country Apr/May 2013, modified by the O’Connor clan</small>
 <small>Servings: 8-10</small>
 
-| Amount        | Ingredient                               |
-| ------------- | :--------------------------------------- |
-| 1 cup         | hot water                                |
-| 1.5 cups      | seven grain or five grain hot cereal mix |
-| 2 tablespoons | honey                                    |
-| 2 tablespoons | vegetable oil                            |
-| 3.5 cups      | bread flour                              |
-| 1.5 teaspoons | salt                                     |
-| 1 teaspoon    | instant or rapid rise yeast              |
+| Amount        | Ingredient                               | Prep Notes                |
+| ------------- | :--------------------------------------- | :------------------------ |
+| 1 cup         | hot water                                |                           |
+| 1.5 cups      | seven grain or five grain hot cereal mix | can substitute five grain |
+| 2 tablespoons | honey                                    |                           |
+| 2 tablespoons | vegetable oil                            |                           |
+| 3.5 cups      | bread flour                              |                           |
+| 1.5 teaspoons | salt                                     |                           |
+| 1 teaspoon    | yeast                                    | instant or rapid rise     |
 
 - in bowl of stand mixer, combine water, cereal, honey, and oil; let stand 10 minutes
 - add flour, salt, and yeast; knead on medium-low until smooth and elastic, 4-8 minutes

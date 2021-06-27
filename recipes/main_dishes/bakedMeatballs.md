@@ -1,6 +1,7 @@
 # Baked Meatballs
 
 <small>Recipe by: Cooks Illustrated Jan/Feb 2009, modified by the O'Connor clan</small>
+
 <small>Servings: 5</small>
 
 | Amount        | Ingredient      | Prep Notes                          |
@@ -22,6 +23,7 @@
 - using a #70 cookie scoop or tablespoon, form meatballs onto tray (makes 40-50 small meatballs)
 - bake 20-30 minutes until browned
 
+---
+
 - _note_: spices listed are for Swedish meatballs. If you want other meatballs, use different spices
 - _note_: you can use 1/2 pound each lean ground pork and lean hamburger instead of the meatloaf mix
-- bake 20-30 minutes until browned

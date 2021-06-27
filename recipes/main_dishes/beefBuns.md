@@ -1,6 +1,7 @@
 # Beef Buns
 
 <small>Recipe by: Cooks Country June/July 2012, modified by the O'Connor clan</small>
+
 <small>Servings: 5</small>
 
 | Amount         | Ingredient       |     | Amount        | Ingredient      |

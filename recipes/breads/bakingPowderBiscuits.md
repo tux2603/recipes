@@ -1,6 +1,7 @@
 # Baking Powder Biscuits
 
 <small>Recipe by: Fannie Farmer, modified by the O'Connor clan</small>
+
 <small>Servings: 6</small>
 
 | Amount        | Ingredient      | Prep Notes |
@@ -19,6 +20,7 @@
 - form the dough into a square about half an inch thick, and cut into biscuits with a sharp knife
 - place on cooking tray and cook for about 15 minutes, until puffy and lightly browned
 
+---
 
 - _note_: you can add a little bit more milk to make drop biscuits
 - _note_: for softer biscuits, place them on the tray so that they're almost touching

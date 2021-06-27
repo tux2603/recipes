@@ -1,6 +1,7 @@
 # Pizza Crust
 
 <small>Recipe by: unknown, modified by the O’Connor clan</small>
+
 <small>Servings: 4</small>
 
 | Amount             | Ingredient | Prep Notes  |
@@ -9,7 +10,7 @@
 | 1 tablespoon       | sugar      |             |
 | 1 scant tablespoon | yeast      |             |
 | 1 teaspoon         | salt       |             |
-| 1 cup              | warm water | 110-120°F   |
+| 1 cup              | warm water | 110-120°    |
 | 2 tablespoons      | oil        |             |
 
 - preheat oven to 450
@@ -22,6 +23,8 @@
 - grease pan, then ease dough into pizza shape crust on pan
 - let rest 10 minutes, **prick crust**, then bake for 5 minutes
 - add toppings and bake for an additional 10 minutes or until cheese is melted and starting to turn golden brown
+
+---
 
 - _note_: this make 1 deep dish jelly roll pan size pizza
 - _note_: doubles well

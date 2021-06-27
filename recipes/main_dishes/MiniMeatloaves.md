@@ -1,6 +1,7 @@
 # Mini Meatloaves
 
 <small>Recipe by: Texas Beef Council, modified by the O'Connor clan</small>
+
 <small>Servings: 5</small>
 
 | Amount       | Ingredient        | Prep Notes                         |
@@ -8,10 +9,10 @@
 | 1 pound      | hamburger         |                                    |
 | 1 teaspoon   | onion powder      |                                    |
 | 1/2 teaspoon | garlic powder     |                                    |
-| 1/2 teaspoon | italian seasoning |                                    |
+| 1/2 teaspoon | Italian seasoning |                                    |
 | pinch        | pepper            |                                    |
 | 1/2 cup      | panko             | can substitute normal bread crumbs |
-| 1/4 cup      | parmesan          |                                    |
+| 1/4 cup      | Parmesan          |                                    |
 | 1            | egg               |                                    |
 |              | ketchup           |                                    |
 

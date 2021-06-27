@@ -1,6 +1,7 @@
 # English Muffin Bread
 
 <small>Recipe by: Cooks Country, modified by the O'Connor clan</small>
+
 <small>Servings: 4</small>
 
 | Amount       | Ingredient  | Prep Notes     |
@@ -21,5 +22,6 @@
 - uncover dough and cook until well browned, about 30 minutes. Rotate pans halfway through
 - turn out bread onto cooling rack and let cool
 
+---
 
 - _note_: dough is very sticky

@@ -1,6 +1,7 @@
 # Beef and Bean Burritos
 
 <small>Recipe by: Cook's Country April/May 2013, modified by the O'Connor clan</small>
+
 <small>Servings: 4</small>
 
 | Amount        | Ingredient            | Prep Notes          |

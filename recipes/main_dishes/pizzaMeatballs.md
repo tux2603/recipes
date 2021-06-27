@@ -1,6 +1,7 @@
 # Pizza Meatballs
 
 <small>Recipe by: Taste of Home magazine, modified by the O’Connor clan</small>
+
 <small>Servings: 5</small>
 
 | Amount       | Ingredient               | Prep Notes                                     |

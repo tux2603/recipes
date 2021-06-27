@@ -1,18 +1,19 @@
 # Soda Bread
 
 <small>Recipe by: O’Shea, modified by the O’Connor clan</small>
+
 <small>Servings: 8-10</small>
 
-| Amount       | Ingredient                    |
-| ------------ | :---------------------------- |
-| 4 cups       | flour                         |
-| 1 teaspoon   | baking soda                   |
-| 1 teaspoon   | baking powder                 |
-| 1/2 cups     | sugar                         |
-| 1/4 teaspoon | salt                          |
-| 1 stick      | butter, cut into small pieces |
-| 1.5 cups     | raisins, optional             |
-| 1.5 cups     | buttermilk, approximate       |
+| Amount       | Ingredient    | Prep Notes            |
+| ------------ | :------------ | :-------------------- |
+| 4 cups       | flour         |                       |
+| 1 teaspoon   | baking soda   |                       |
+| 1 teaspoon   | baking powder |                       |
+| 1/2 cups     | sugar         |                       |
+| 1/4 teaspoon | salt          |                       |
+| 1 stick      | butter        | cut into small pieces |
+| 1.5 cups     | raisins       | optional              |
+| 1.5 cups     | buttermilk    | approximate           |
 
 - preheat oven to 350
 - coat round cake pan with butter, then flour

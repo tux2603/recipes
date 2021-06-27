@@ -1,6 +1,7 @@
 # Sausage and Mushroom Penne
 
 <small>Recipe by: Cook's Country December/January 2014, modified by the O'Connor clam</small>
+
 <small>Serves: 5</small>
 
 | Amount   | Ingredient      | Prep Notes |

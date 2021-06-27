@@ -1,15 +1,16 @@
 # Cuban Bread
 
 <small>Recipe by: Real Mom Kitchen, modified by the O’Connor clan</small>
+
 <small>Servings: 8-10</small>
 
-| Amount             | Ingredient         |
-| ------------------ | :----------------- |
-| 5-6 cups           | flour, divided     |
-| 1 scant tablespoon | yeast              |
-| 2 tablespoons      | sugar              |
-| 2 teaspoons        | salt               |
-| 2 cups             | hot water, 110-120 |
+| Amount             | Ingredient | Prep Notes |
+| ------------------ | :--------- | :--------- |
+| 5-6 cups           | flour      | divided    |
+| 1 scant tablespoon | yeast      |            |
+| 2 tablespoons      | sugar      |            |
+| 2 teaspoons        | salt       |            |
+| 2 cups             | hot water  | 110-120°   |
 
 - in stand mixer bowl, mix 4 cups flour with the yeast, sugar, and, salt
 - pour in warm water and beat about 3 minutes

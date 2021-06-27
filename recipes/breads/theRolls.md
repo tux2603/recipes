@@ -1,17 +1,18 @@
 # The Rolls
 
 <small>Recipe by: Vera Miller, modified by the O’Connor clan</small>
+
 <small>Servings: 8-10</small>
 
-| Amount             | Ingredient                   |
-| ------------------ | :--------------------------- |
-| 1 scant tablespoon | yeast                        |
-| 1/2 cups           | sugar                        |
-| 1 teaspoon         | salt                         |
-| 2 cups             | water, lukewarm (110-120)    |
-| 1                  | egg, beaten                  |
-| 7 cups             | flour (approximate), divided |
-| 3 tablespoons      | butter, melted               |
+| Amount             | Ingredient | Prep Notes           |
+| ------------------ | :--------- | :------------------- |
+| 1 scant tablespoon | yeast      |                      |
+| 1/2 cups           | sugar      |                      |
+| 1 teaspoon         | salt       |                      |
+| 2 cups             | water      | 110-120°             |
+| 1                  | egg        | beaten               |
+| 7 cups             | flour      | approximate, divided |
+| 3 tablespoons      | butter     | melted               |
 
 - mix yeast, sugar, salt, and water in large bowl
 - add egg and half of the flour, stir, then add melted butter and remainder flour

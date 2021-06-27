@@ -1,6 +1,7 @@
 # Rice and Pasta Pilaf
 
 <small>Recipe by: Cook's Illustrated May/June 2014, modified by the O'Connor clan</small>
+
 <small>Servings: 4</small>
 
 | Amount              | Ingredient            | Prep Notes                               |
@@ -24,5 +25,7 @@
 - Add chicken broth and salt and bring to a boil. Reduce heat to low, cover, and cook until all the liquid is absorbed, about 10 minutes
 - remove from heat, place a dish towel over the top of the pan, and then replace the lid. Let stand for 10 minutes
 - Fluff rice with a fork, add parsley, and kielbasa if using
+
+---
 
 - _note_: Can serve with cheese and tortilla shells

@@ -1,6 +1,7 @@
 # Potato Soup
 
 <small>Recipe by: unknown, modified by the O’Connor clan</small>
+
 <small>Servings: 6</small>
 
 | Amount     | Ingredient       | Prep Notes       |

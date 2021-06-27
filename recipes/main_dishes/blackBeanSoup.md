@@ -1,6 +1,7 @@
 # Black Bean Soup
 
 <small>Recipe by: Valentin Schwaegerl, modified by the O’Connor clan</small>
+
 <small>Servings: 5</small>
 
 | Amount        | Ingredient           | Prep Notes                                    |
@@ -23,5 +24,6 @@
 - stir every half hour, adding more water if needed
 - serve with cheese, sour cream, and salsa
 
+----
 
--_note_: can be made in pressure cooker. decrease water to 2 quarts and cook on bean setting for 40 minutes with a natural pressure release.
+- _note_: can be made in pressure cooker. decrease water to 2 quarts and cook on bean setting for 40 minutes with a natural pressure release.

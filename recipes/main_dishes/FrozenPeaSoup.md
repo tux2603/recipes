@@ -1,6 +1,7 @@
 # Frozen Pea Soup
 
 <small>Recipe by: Cooks Illustrated, modified by the O'Connor clan</small>
+
 <small>Servings: 5</small>
 
 | Amount        | Ingredient      | Prep Notes                     |
@@ -20,6 +21,8 @@
 - uncover; reduce heat to medium-low and simmer for 5 minutes
 - puree soup with an immersion blender (a blender or food processor will work if you work in small batches - return to pan)
 - stir in heavy cream before serving; season to taste with salt and pepper
+
+---
 
 - _note_: serve with shredded Parmesan or croutons if desired
 

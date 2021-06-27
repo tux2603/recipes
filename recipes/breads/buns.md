@@ -1,6 +1,7 @@
 # Burger or Hot Dog Buns
 
 <small>Recipe by: allrecipes.com, modified by the O’Connor clan</small>
+
 <small>Servings: 6-10</small>
 
 | Amount             | Ingredient | Prep Notes |
@@ -25,6 +26,8 @@
 - cover and let rise for 30-50 minutes
 - preheat oven to 400
 - bake for 10-12 minutes until golden brown
+
+---
 
 - _note_: can substitute 1.5 cups whole wheat flour for white flour in this recipe and still have same texture
 - _note_: makes 16 hot dog buns (66-69g each)

@@ -1,6 +1,7 @@
 # Italian Sloppy Joes
 
 <small>Recipe by: Taste of Home, modified by the O’Connor clan</small>
+
 <small>Servings: 4</small>
 
 | Amount       | Ingredient             | Prep Notes  |

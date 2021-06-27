@@ -1,6 +1,7 @@
 # Churro Chocolate Lava Cakes
 
 <small>Recipe by: Tastemade, shared by the Zepfel clan</small>
+
 <small>Servings: 5 (but probably actually less :))</small>
 
 | Amount        | Ingredient    | Prep Notes  |

@@ -1,6 +1,7 @@
 # Chicken with a Twist
 
 <small>Recipe by: Veronica O’Connor, modified by the O’Connor clan</small>
+
 <small>Servings: 4</small>
 
 | Amount     | Ingredient             | Prep Notes |

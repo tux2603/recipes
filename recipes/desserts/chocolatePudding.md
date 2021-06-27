@@ -1,6 +1,7 @@
 # Chocolate Pudding
 
 <small>Recipe by: Cooks Country, February/March 2011, modified by the O'Connor clan</small>
+
 <small>Servings: never enough</small>
 
 | Amount        | Ingredient   | Prep Notes                                  |
@@ -20,5 +21,7 @@
 - reduce heat to medium-low and cook, whisking constantly, until thickened and large bubbles begin to appear (5-7 minutes)
 - take off heat and stir in vanilla, let cool in refrigerator for ~4 hours or freezer for ~1 hour
 - devour
+
+---
 
 - _note_: other extracts can be substituted for vanilla for other flavors of pudding

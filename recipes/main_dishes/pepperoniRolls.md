@@ -1,6 +1,7 @@
 # Pepperoni Rolls
 
 <small>Recipe by: Cooks Country, modified by the O'Connor clan</small>
+
 <small>Servings: 16 rolls</small>
 
 | Amount       | Ingredient       | Prep Notes                                    |

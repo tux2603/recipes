@@ -1,6 +1,7 @@
 # Fruity Baked Oatmeal
 
 <small>Recipe by: Taste of Home, shared by Veronica O’Connor, modified by the O’Connor clan</small>
+
 <small>Servings: 6</small>
 
 | Amount           | Ingredient         | Prep Notes                 |
@@ -23,5 +24,7 @@
 - add wet ingredients to the dry ingredients and stir to combine
 - stir in the apple and fruit
 - pour into prepared pan and bake, uncovered, 35-45 minutes until it no longer looks wet
+
+---
 
 - _note_: fruits that work nicely include peaches, cherries, blueberries
