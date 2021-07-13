@@ -21,7 +21,7 @@ jobs:
         run: |
           docker pull pandoc/alpine-latex
           [ -d recipes/pdf ] || mkdir recipes/pdf
-          for i in `find recipes -name '*.md'`; do 
+          for i in `find recipes -mindepth 2 -name '*.md'`; do 
             category=$(echo $i | awk -F/ '{print $2}')
             recipe=$(echo $i | awk -F/ '{print $3}' | awk -F. '{print $1}')
             
@@ -36,7 +36,7 @@ jobs:
           
       - name: Link to PDFs
         run: |
-          for i in `find recipes -name '*.md'`; do 
+          for i in `find recipes -mindepth 2 -name '*.md'`; do 
             category=$(echo $i | awk -F/ '{print $2}')
             recipe=$(echo $i | awk -F/ '{print $3}' | awk -F. '{print $1}')
             echo -e "\n\n[View PDF](/recipes/pdf/$category/$recipe.pdf)" >>"recipes/$category/$recipe.md"
