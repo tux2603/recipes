@@ -4,7 +4,7 @@ from datetime import datetime
 
 index_header = '''# Recipes
 
-A collection of recipes. I don't really know what to put here right now besides that. I'm still trying to get this file to work...
+A collection of recipes. Food is good, more coming soon.
 '''
 
 index_footer = '''
