@@ -1,0 +1,9 @@
+geometry:
+    - top=3cm
+    - bottom=3cm
+    - left=5cm
+    - right=5cm
+classoption: table
+header-includes: |
+    \rowcolors{2}{gray!10}{white}
+    \pagenumbering{gobble}

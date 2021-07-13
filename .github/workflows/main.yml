@@ -1,35 +1,55 @@
-# This is a basic workflow to help you get started with Actions
-
 name: CI
 
-# Controls when the action will run. 
 on:
-  # Triggers the workflow on push or pull request events but only for the main branch
   push:
     branches: [ main ]
 
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   generate-index:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
-      # Runs a set of commands using the runners shell
-      - name: Autogenerate the index page for the recipes
+      - name: Initialize git
         run: |
           git config user.email "tux2603@gmail.com"
           git config user.name "GitHub Action Auto Commit"
-          which python3
-          python3 --version
+
+      - name: Generate PDFs
+        run: |
+          docker pull pandoc/alpine-latex
+          [ -d recipes/pdf ] || mkdir recipes/pdf
+          for i in `find recipes -name '*.md'`; do 
+            category=$(echo $i | awk -F/ '{print $2}')
+            recipe=$(echo $i | awk -F/ '{print $3}' | awk -F. '{print $1}')
+            
+            [ -d "recipes/pdf/$category" ] || mkdir "recipes/pdf/$category"
+
+            (echo "---"; cat scripts/format.yml; echo "\n---\n"; cat "recipes/$category/$recipe.md") >/tmp/recipe.md
+            cat /tmp/recipe.md
+            docker run --rm -v /tmp:/tmp pandoc/alpine-latex /tmp/recipe.md -t pdf >"recipes/pdf/$category/$recipe.pdf"
+            git add "recipes/pdf/$category/$recipe.pdf"
+          done
+          git commit -m 'Generated pdf files'
+          
+      - name: Link to PDFs
+        run: |
+          for i in `find recipes -name '*.md'`; do 
+            category=$(echo $i | awk -F/ '{print $2}')
+            recipe=$(echo $i | awk -F/ '{print $3}' | awk -F. '{print $1}')
+            echo "\n\n[View PDF](/recipes/pdf/$category/$recipe.pdf)" >>"recipes/$category/$recipe.md"
+            git add "recipes/$category/$recipe.md"
+          done
+          git commit -m 'Add links to PDFs'
+          
+      - name: Autogenerate the index page for the recipes
+        run: |
           python3 scripts/generateIndex.py
           git add recipes/index.md
-          git commit -m 'Auto generated recipe index'
+          git commit -m 'Generated recipe index'
+
+      - name: Push new files to GitHub pages
+        run: |
           git push origin `git subtree split --prefix=recipes main --ignore-join --rejoin`:gh-pages --force
