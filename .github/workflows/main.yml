@@ -17,6 +17,16 @@ jobs:
           git config user.email "tux2603@gmail.com"
           git config user.name "GitHub Action Auto Commit"
 
+      - name: Remove any leftover PDF files
+        run: |
+          rm -rf recipes/pdf
+    
+      - name: Autogenerate the index page for the recipes
+        run: |
+          python3 scripts/generateIndex.py
+          git add recipes/index.md
+          git commit -m 'Generated recipe index'
+
       - name: Generate PDFs
         run: |
           docker pull pandoc/alpine-latex
@@ -43,12 +53,6 @@ jobs:
             git add "recipes/$category/$recipe.md"
           done
           git commit -m 'Add links to PDFs'
-
-      - name: Autogenerate the index page for the recipes
-        run: |
-          python3 scripts/generateIndex.py
-          git add recipes/index.md
-          git commit -m 'Generated recipe index'
 
       - name: Push new files to GitHub pages
         run: |
