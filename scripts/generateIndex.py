@@ -38,7 +38,7 @@ if __name__ == "__main__":
                     print(f'\n## {i.replace("_", " ").title()}\n', file=f)
 
                     for j in recipes:
-                        print(f'- [{j[0]}]({j[1]}) - [\[Download PDF\]](pdf/{j[1].replace(".md", ".pdf")})', file=f)
+                        print(f'- [{j[0]}]({j[1]}) - <small>[\[PDF\]](pdf/{j[1].replace(".md", ".pdf")})</small>', file=f)
 
             elif os.path.isfile(full_path):
                 uncategorized_recipes.append(i)
