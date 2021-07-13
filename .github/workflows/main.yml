@@ -27,7 +27,7 @@ jobs:
             
             [ -d "recipes/pdf/$category" ] || mkdir "recipes/pdf/$category"
 
-            (echo "---"; cat scripts/format.yml; echo "\n---\n"; cat "recipes/$category/$recipe.md") >/tmp/recipe.md
+            (echo "---"; cat scripts/format.yml; echo -e "\n---\n"; cat "recipes/$category/$recipe.md") >/tmp/recipe.md
             cat /tmp/recipe.md
             docker run --rm -v /tmp:/tmp pandoc/alpine-latex /tmp/recipe.md -t pdf >"recipes/pdf/$category/$recipe.pdf"
             git add "recipes/pdf/$category/$recipe.pdf"
@@ -39,11 +39,11 @@ jobs:
           for i in `find recipes -name '*.md'`; do 
             category=$(echo $i | awk -F/ '{print $2}')
             recipe=$(echo $i | awk -F/ '{print $3}' | awk -F. '{print $1}')
-            echo "\n\n[View PDF](/recipes/pdf/$category/$recipe.pdf)" >>"recipes/$category/$recipe.md"
+            echo -e "\n\n[View PDF](/recipes/pdf/$category/$recipe.pdf)" >>"recipes/$category/$recipe.md"
             git add "recipes/$category/$recipe.md"
           done
           git commit -m 'Add links to PDFs'
-          
+
       - name: Autogenerate the index page for the recipes
         run: |
           python3 scripts/generateIndex.py
