@@ -28,3 +28,4 @@
 
 - _note_: this make 1 deep dish jelly roll pan size pizza
 - _note_: doubles well
+- _note_: makes ~1 1/2 pounds of dough
