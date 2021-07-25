@@ -22,9 +22,10 @@
 - repeat the previous four steps with the remaining pound of dough
 - take each little ball of dough and brush lightly with the oil mixture to prevent sticking, then place in the Bundt pan
 - cover and allow to rise for ~30 minutes while preheating oven to 400°F. Adjust oven racks to mid-lower position
-- when oven is preheated and dough has had a chance to rise, place Bundt pan in oven and cook until browned, ~40 minutes
+- when oven is preheated and dough has had a chance to rise, place Bundt pan in oven and cook until browned, ~30 minutes
 - let cool for 10 minutes before removing from pan
 
 -----
 
 - _note_: serve with pizza sauce for dipping 
+- _note_: try subbing 9x13 pan and reduce cooking time to ~20 minutes
