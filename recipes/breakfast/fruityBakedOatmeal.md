@@ -27,4 +27,4 @@
 
 ---
 
-- _note_: fruits that work nicely include peaches, cherries, blueberries
+- _note_: fruits that work nicely include peaches, cherries, blueberries, raspberries
