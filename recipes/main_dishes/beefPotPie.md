@@ -21,9 +21,9 @@
 
 - brown meat in oil over high heat; add onion and garlic, saute until limp
 - add pepper, brown sugar, soy sauce, and beef stock; bring to boil
-- reduce heat, cover , and simmer until meat is tender, about 1 hour (stir every 15-20 minutes, adding water as necessary to maintain about 1.5 cups liquid)
+- reduce heat, cover, and simmer until meat is tender, about 1 hour (stir every 15-20 minutes, adding water as necessary to maintain about 1.5 cups liquid)
 - add potatoes, carrots, and tomatoes (if using cast iron pan, wait to add the tomatoes until right before adding the crust on top); continue to simmer for another 20 minutes
 - preheat oven to 450
 - dissolve cornstarch in 1/3 cup water; bring meat and veggies to boil then add cornstarch mixture, stirring constantly
-- pour mixture into pie pan and top with pie crust, cutting slits in top
+- pour mixture into pie pan and top with savory pie crust, cutting slits in top
 - bake at 450 for 20-30 minutes or until golden brown
