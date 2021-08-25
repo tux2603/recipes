@@ -25,5 +25,5 @@
 - add potatoes, carrots, and tomatoes (if using cast iron pan, wait to add the tomatoes until right before adding the crust on top); continue to simmer for another 20 minutes
 - preheat oven to 450
 - dissolve cornstarch in 1/3 cup water; bring meat and veggies to boil then add cornstarch mixture, stirring constantly
-- pour mixture into pie pan and top with savory pie crust, cutting slits in top
+- pour mixture into pie pan and top with [savorypiecrust](../main_dishes/savoryPieCrust.md), cutting slits in top.
 - bake at 450 for 20-30 minutes or until golden brown
