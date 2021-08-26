@@ -16,7 +16,7 @@
 | dash         | Worcestershire sauce |                                          |
 | 1 jar        | spaghetti sauce      |                                          |
 
-- mix ingredients in large bowl; shape into small meatballs (about 24)
+- mix first 8 ingredients in large bowl; shape into small meatballs (about 24)
 - arrange on microwave safe plate 1 inch apart; cover with paper towels
 - microwave on high 4-6 minutes (depending on strength of microwave) until they look cooked
-- empty sauce into pan; add microwaved meatballs; cover and cook at medium heat for 5 minutes; stir; reduce heat to low and simmer for an additional 10-20 minutes
+- empty sauce into pan; add microwaved meatballs; cover and cook at medium heat for 5 minutes or until sauce is bubbling; stir; reduce heat to low and simmer for an additional 10-20 minutes

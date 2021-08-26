@@ -9,7 +9,7 @@
 | 4 cups       | flour         |                       |
 | 1 teaspoon   | baking soda   |                       |
 | 1 teaspoon   | baking powder |                       |
-| 1/2 cups     | sugar         |                       |
+| 1/2 cup      | sugar         |                       |
 | 1/4 teaspoon | salt          |                       |
 | 1 stick      | butter        | cut into small pieces |
 | 1.5 cups     | raisins       | optional              |
