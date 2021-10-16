@@ -12,7 +12,7 @@
 | 2 teaspoons   | baking powder         |                |
 | 1/2 teaspoon  | salt                  |                |
 | 2/3 cup       | sugar                 |                |
-| 1/4 cup       | milk                  |                |
+| 1/2 cup       | milk                  |                |
 | 1 oz          | unsweetened chocolate | finely chopped |
 | 2 tablespoons | butter                | melted         |
 | 1.5 teaspoons | vanilla               |                |
