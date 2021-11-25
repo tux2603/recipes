@@ -7,7 +7,7 @@
 | Amount             | Ingredient | Prep Notes           |
 | ------------------ | :--------- | :------------------- |
 | 1 scant tablespoon | yeast      |                      |
-| 1/2 cups           | sugar      |                      |
+| 1/2 cup            | sugar      |                      |
 | 1 teaspoon         | salt       |                      |
 | 2 cups             | water      | 110-120°             |
 | 1                  | egg        | beaten               |

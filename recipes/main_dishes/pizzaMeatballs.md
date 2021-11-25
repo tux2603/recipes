@@ -13,7 +13,7 @@
 | 1 teaspoon   | garlic powder            |                                                |
 | pinch        | pepper                   |                                                |
 | 4            | mozzarella cheese sticks | cut into six pieces each                       |
-| 1 cup        | flour                    | approximate, for rolling meatballs in          |
+| 1/2 cup      | flour                    | approximate, for rolling meatballs in          |
 | 1 tablespoon | oil                      |                                                |
 | 1 jar        | spaghetti sauce          |                                                |
 |              | noodles or subs          |                                                |

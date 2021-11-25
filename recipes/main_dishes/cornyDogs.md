@@ -14,12 +14,12 @@
 | 1 scant teaspoon | salt          |            |
 | 2                | eggs          |            |
 | 1 cup            | milk          |            |
-| 4 tablespoons    | butter        |            |
+| 4 tablespoons    | butter        | melted     |
 
 - preheat oven to 425
 - spray muffin tin or line with paper cups (about 18)
 - in large bowl, mix flour, cornmeal, sugar, baking powder, salt
-- in separate beat milk and egg until blended
-- melt butter, then beat into milk mixture
+- in separate bowl beat milk and egg until blended
+- melt butter, then mix into milk mixture
 - stir milk mixture into dry ingredients, then add hot dogs
 - pour into prepared tin and bake 12-15 minutes or until golden brown

@@ -18,5 +18,5 @@
 - mix soup and sour cream
 - remove from oven and pour off any drippings
 - pour soup mixture over all, making sure to completely cover chicken
-- bake another 30 minutes
+- bake another 30 minutes or until tender
 - serve over noodles

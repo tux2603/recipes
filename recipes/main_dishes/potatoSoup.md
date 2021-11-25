@@ -9,7 +9,7 @@
 | 1 pound    | bacon            | chopped          |
 | 4-5 pounds | potatoes         | peeled and cubed |
 | pinch      | pepper           |                  |
-| 1/4 cups   | dry minced onion |                  |
+| 1/4 cup    | dry minced onion |                  |
 | 3 cups     | milk             |                  |
 | 3 cups     | chicken broth    |                  |
 |            | cheddar cheese   | to taste         |
@@ -22,3 +22,6 @@
 - mash potatoes until soup is a smooth texture with small lumps
 - add up to 1 cup milk or cream to soup if it needs thinned
 - serve with browned bacon and cheese
+
+_note_: can use a whole onion, minced, if preferred. chop and cook gently over medium heat in the bacon grease until softened before adding the potatoes. do not let onions brown.
+_note_: original recipe calls for 1 teaspoon parsley added before serving. we quite often forget this, so it's a to taste type of ingredient.

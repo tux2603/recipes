@@ -13,9 +13,10 @@
 | 1 teaspoon    | onion powder    |                                     |
 | 1/8 teaspoon  | ground allspice |                                     |
 | 1/8 teaspoon  | ground nutmeg   |                                     |
-| pinch         | pepper          |                                     |
+| 1/8 teaspoon  | pepper          |                                     |
 | 1 teaspoon    | brown sugar     |                                     |
 | 1 teaspoon    | baking powder   |                                     |
+| 1 teaspoon    | salt            |                                     |
 
 - preheat oven to 400
 - mix heavy cream, egg, and bread in a large bowl to form a paste
@@ -25,5 +26,6 @@
 
 ---
 
-- _note_: spices listed are for Swedish meatballs. If you want other meatballs, use different spices
+- _note_: spices listed are for Swedish meatballs. It also works well for German meatballs. If you want other meatballs, consider omiting brown sugar and use different spices
 - _note_: you can use 1/2 pound each lean ground pork and lean hamburger instead of the meatloaf mix
+- _note_: these freeze well for up to 6 months
