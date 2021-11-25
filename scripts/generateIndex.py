@@ -28,10 +28,7 @@ if __name__ == "__main__":
             # We don't need to include the index in the recipes
             full_path = os.path.join('recipes', i)
 
-            if i in ('_config.yml', 'index.md', 'pdf', 'CNAME'):
-                continue
-
-            elif os.path.isdir(full_path):
+            if os.path.isdir(full_path):
                 recipes = sorted((get_recipe_name(os.path.join(full_path, j)), os.path.join(i, j)) for j in os.listdir(full_path))
 
                 if recipes:
@@ -40,7 +37,7 @@ if __name__ == "__main__":
                     for j in recipes:
                         print(f'- [{j[0]}]({j[1]}) - <small>[\[PDF\]](pdf/{j[1].replace(".md", ".pdf")})</small>', file=f)
 
-            elif os.path.isfile(full_path):
+            elif os.path.isfile(full_path) and full_path.endswith('.md') and i not in ('index.md',) :
                 uncategorized_recipes.append(i)
 
         if uncategorized_recipes:
