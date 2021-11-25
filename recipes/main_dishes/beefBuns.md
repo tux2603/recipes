@@ -4,16 +4,24 @@
 
 <small>Servings: 5</small>
 
-| Amount         | Ingredient       |     | Amount        | Ingredient      |
-| -------------- | :--------------- | --- | ------------- | :-------------- |
-| 4 teaspoons    | vegetable oil    |     | 1/2 cups      | whole milk      |
-| 2 pounds       | lean ground beef |     | 1/2 cups      | water           |
-|                | salt             |     | 6 tablespoons | unsalted butter |
-|                | pepper           |     | 1/4 cups      | sugar           |
-| 1              | onion            |     | 3.5-3.75 cups | flour           |
-| 1/2 small head | cabbage, chopped |     | 1 tablespoon  | yeast           |
-| 1 cup          | chicken broth    |     | 1/2 teaspoon  | salt            |
-| 8 ounces       | co-jack          |     | 1             | large egg, beaten|
+| Amount         | Ingredient      | Prep Notes |
+| -------------- | :-------------- | :--------- |
+| 4 teaspoons    | vegetable oil   |            |
+| 2 pounds       | ground beef     | lean       |
+|                | salt            |            |
+|                | pepper          |            |
+| 1              | onion           |            |
+| 1/2 small head | cabbage         | chopped    |
+| 1 cup          | chicken broth   |            |
+| 8 ounces       | co-jack         |            |
+| 1/2 cups       | whole milk      |            |
+| 1/2 cups       | water           |            |
+| 6 tablespoons  | unsalted butter |            |
+| 1/4 cups       | sugar           |            |
+| 3.5-3.75 cups  | flour           |            |
+| 1 tablespoon   | yeast           |            |
+| 1/2 teaspoon   | salt            |            |
+| 1              | large egg       | beaten     |
 
 - heat oil in a dutch oven until just smoking. Add beef, 1 teaspoon salt, and 1 teaspoon pepper and cook until liquid evaporates and meat begins to sizzle (10-15 minutes). Drain meat in colander and set aside.
 - add remaining 2 teaspoons of oil to the dutch oven and heat until shimmering. Add onion and cook until it just begins to brown.

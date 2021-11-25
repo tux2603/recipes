@@ -4,17 +4,24 @@
 
 <small>Servings: 5</small>
 
-| Amount         | Ingredient       |     | Amount        | Ingredient      |
-| -------------- | :--------------- | --- | ------------- | :-------------- |
-| 1 tablespoon   | vegetable oil    |     | 1 cup         | whole milk      |
-| 2              | onions, chopped  |     | 1 tablespoon  | yeast           |
-| 2 pounds       | lean ground beef |     | 2 tablespoons | sugar           |
-| 1 small head   | cabbage, chopped |     | 2 cups        | flour           |
-| 1 teaspooon    | chicken powder   |     | 1.75 teaspoons| baking powder   |
-| 1 tablespoon   | flour            |     | 1/2 teaspoon  | salt            | 
-| 2 tablespoons  | dijon mustard    |     | 2 tablespoons | butter, melted  |
-| 8 ounces       | co-jack          |     
-|                | salt/pepper      |
+| Amount         | Ingredient     | Prep Notes |
+| -------------- | :------------- | :--------- |
+| 1 tablespoon   | vegetable oil  |            |
+| 2              | onions         | chopped    |
+| 2 pounds       | ground beef    | lean       |
+| 1 small head   | cabbage        | chopped    |
+| 1 teaspooon    | chicken powder |            |
+| 1 tablespoon   | flour          |            |
+| 2 tablespoons  | dijon mustard  |            |
+| 8 ounces       | co-jack        |            |
+|                | salt/pepper    | to taste   |
+| 1 cup          | whole milk     |            |
+| 1 tablespoon   | yeast          |            |
+| 2 tablespoons  | sugar          |            |
+| 2 cups         | flour          |            |
+| 1.75 teaspoons | baking powder  |            |
+| 1/2 teaspoon   | salt           |            |
+| 2 tablespoons  | butter         | melted     |
 
 - dough
 - wake up the yeast - warm 1/4 cup milk to about 110 degrees (15-20 seconds in the microwave). Stir in the yeast and 1 tablespoon sugar. Let sit about about 5 minutes or until the mixture is bubbly.
