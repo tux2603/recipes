@@ -28,7 +28,7 @@ if __name__ == "__main__":
             # We don't need to include the index in the recipes
             full_path = os.path.join('recipes', i)
 
-            if i in ('_config.yml', 'index.md', 'pdf'):
+            if i in ('_config.yml', 'index.md', 'pdf', 'CNAME'):
                 continue
 
             elif os.path.isdir(full_path):
