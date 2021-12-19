@@ -18,3 +18,7 @@
 - add the flour, cocoa powder, and salt and mix until just combined
 - load the cookie dough into the dough press and dispense
 - bake at 350° for 5-7 minutes
+
+--- 
+
+- _note_: for the pampered chef cookie press, press the cookies directly onto a cold or room temperature baking sheet while applying pressure to the plunger
