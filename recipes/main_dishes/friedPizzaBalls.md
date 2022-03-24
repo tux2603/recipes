@@ -9,7 +9,7 @@
 | 3 cups  | flour           |                   |
 | 1 cup   | water           | hot, around 150°F |
 | 1/4 cup | olive oil       |                   |
-| 1 tsp   | sugar           |                   |
+| 1 tsp   | salt            |                   |
 | 1 lb    | mozzarella      | block is good     |
 | 5 oz    | mini pepperoni  |                   |
 | 2       | eggs            | beaten            |
@@ -17,7 +17,7 @@
 | lots    | oil             | for frying        |
 |         | spaghetti sauce | for dipping       |
 
-- mix flour, water, oil, sugar, and salt in a large bowl, knead until smooth and stretchy
+- mix flour, water, oil, and salt in a large bowl, knead until smooth and stretchy
 - let dough rest for 30 minutes or so
 - roll dough out into 20" by 15" rectangle and cut into 32 pieces
 - cut mozzarella into 32 chunks, place one chunk on each piece of dough
