@@ -24,3 +24,9 @@
 ---
 
 - _note_: this freezes well. follow the recipe, but don't cook the bread. divide bread slices into single servings (2-3 slices each) and wrap each serving in foil. put these into a freezer bag and freeze for up to 3 months. to bake, place foil wrapped servings into oven and bake for about 20 minutes.
+
+<!-- Tags:
+- bread
+- easy
+- vegetarian
+-->

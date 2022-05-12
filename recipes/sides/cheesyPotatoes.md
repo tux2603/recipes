@@ -17,3 +17,10 @@
 - mix together hash browns, CoM soup, sour cream, butter, and cheddar in a 9x13" baking dish
 - sprinkle crushed potato chips on top
 - bake for one hour
+
+<!-- Tags:
+- cheese
+- potato
+- vegetarian
+- easy
+-->

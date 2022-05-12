@@ -20,3 +20,8 @@
 - cover and simmer, stirring every 10 minutes, for 30-40 minutes
 - stir in remaining 1 tablespoon butter, remaining 1/3 cup half & half, and Parmesan; salt and pepper to taste
 
+<!-- Tags:
+- cheese
+- vegetarian
+-->
+
