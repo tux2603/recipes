@@ -1,5 +1,10 @@
 // A bunch of WORDS
-start: title source servings ingredients_header ingredients steps (_DIVIDER notes)?
+start: header_block ingredients_block instructions_block tags_block?
+
+header_block: title source servings
+ingredients_block: ingredients_header ingredients
+instructions_block: steps (_DIVIDER notes)?
+tags_block: tag_header tags tag_footer
 
 title: "#" WORDS _NEWLINES?
 source: "<small>" "Recipe by:" WORDS "</small>" _NEWLINES?
@@ -7,16 +12,21 @@ servings: "<small>" "Servings:" WORDS "</small>" _NEWLINES?
 
 ingredients_header: "|" "Amount" "|" "Ingredient" "|" "Prep Notes" "|" _NEWLINES? "|" "-"+ "|" ":" "-"+ "|" ":" "-"+ "|" _NEWLINES?
 ingredients: ingredient+ _NEWLINES?
-ingredient: "|" ingredient_amount? "|" ingredient_name? "|" ingredient_notes? "|" _NEWLINES?
+ingredient: "|" ingredient_amount? "|" ingredient_name? "|" ingredient_notes? "|" _NEWLINES
 ingredient_amount: quantity? measurement?
 ingredient_name: WORDS
 ingredient_notes: WORDS
 
-steps: step+ _NEWLINES?
-step: "- " WORDS _NEWLINES?
+steps: step (_NEWLINES step)* _NEWLINES?
+step: "- " WORDS
 
-notes: note+ _NEWLINES?
-note: "- " "_note_:" WORDS _NEWLINES?
+notes: note (_NEWLINES note)* _NEWLINES?
+note: "- " "_note_:" WORDS
+
+tag_header: "<!--" "Tags:" _NEWLINES
+tags: tag+ _NEWLINES?
+tag: "-" WORDS _NEWLINES
+tag_footer: "-->" _NEWLINES?
 
 
 quantity: FRACTION

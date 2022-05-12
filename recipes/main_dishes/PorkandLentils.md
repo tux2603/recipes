@@ -20,7 +20,7 @@
 
 - brown pork in oil; if using fresh onion, add and cook until softened; if using fresh garlic, add and cook about 30 seconds
 - transfer browned items to pot and add remaining ingredients; stir, cover, and cook (see notes) until lentils are soft and pork is fork tender
-  
+
 ---
 
 - _note_: if making in crock pot, cook on higher temperature for 4-5 hours
