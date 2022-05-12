@@ -29,7 +29,7 @@ jobs:
       - name: Autogenerate the index page for the recipes
         run: |
           python3 scripts/generateIndex.py
-          git add recipes/index.md
+          git add recipes/index.html
           git commit -m 'Generated recipe index'
 
       - name: Generate PDFs
