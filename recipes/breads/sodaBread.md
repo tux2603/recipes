@@ -22,3 +22,11 @@
 - add buttermilk gradually until mass is pliable but not soggy (looks like sugar cookie dough)
 - shape mass into pan and cut cross on top
 - bake 50-60 minutes until crust is golden brown and cut no longer looks wet
+
+<!-- Tags:
+- bread
+- side
+- easy
+- snack
+- vegetarian
+-->

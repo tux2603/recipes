@@ -63,7 +63,10 @@ class Recipe:
 
 
 def to_tag(string):
-    tag = string.replace('&', 'and')
+    # remove anything in parentheses
+    tag = re.sub(r'\([^)]*\)', '', string)
+    tag = tag.replace('&', 'and')
+    tag = tag.strip()
     tag = ''.join([c.lower() if c.isalnum() else '-' for c in tag])
     tag = re.sub(r'-+', '-', tag)
 
@@ -125,7 +128,8 @@ if __name__ == "__main__":
                         tags = set()
                         for recipe_list in recipes.values():
                             for recipe in recipe_list:
-                                tags.update((i.title() for i in recipe.get_tags()))
+                                tags.update((to_tag(i).replace('-', ' ').title() for i in recipe.get_tags()))
+                        tags = sorted(list(tags))
 
                         for tag in tags:
                             option(tag)
@@ -136,7 +140,8 @@ if __name__ == "__main__":
                         ingredients = set()
                         for recipe_list in recipes.values():
                             for recipe in recipe_list:
-                                ingredients.update((i.title() for i in recipe.get_ingredients()))
+                                ingredients.update((to_tag(i).replace('-', ' ').title() for i in recipe.get_ingredients()))
+                        ingredients = sorted(list(ingredients))
 
                         for ingredient in ingredients:
                             option(ingredient)

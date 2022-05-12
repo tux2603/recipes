@@ -19,3 +19,10 @@
 - drop ~1/4 cup blobs of dough onto the baking sheet
 - bake until tops of biscuits are golden brown, 12-14 minutes
 - let cool for five minutes
+
+<!-- Tags:
+- biscuit
+- side
+- easy
+- vegetarian
+-->

@@ -22,3 +22,10 @@
 - preheat oven to 375
 - bake 20-25 minutes or until golden brown
 - rub tops of rolls with butter as soon as they come out of the oven
+
+<!-- Tags:
+- roll
+- snack
+- vegetarian
+- side
+-->

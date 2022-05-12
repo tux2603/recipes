@@ -20,3 +20,9 @@
 - whisk eggs into milk in a medium bowl or measuring cup. Stir in melted butter and pour into dry ingredients and combine
 - poor batter into a greased 9" x 9" pan
 - cook for 30-50 minutes, usually will take around 40, until an inserted knife comes out clean
+
+<!-- Tags:
+- side
+- vegetarian
+- easy
+-->

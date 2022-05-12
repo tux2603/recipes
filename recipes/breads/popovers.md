@@ -18,3 +18,8 @@
 - remove hot popover pan from oven and divide melted butter evenly into each cup
 - fill cups with batter and bake for 10 minutes
 - reduce heat to 375° and cook an additional 20-30 minutes
+
+<!-- Tags:
+- side
+- vegetarian
+-->

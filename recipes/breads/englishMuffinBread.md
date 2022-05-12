@@ -25,3 +25,8 @@
 ---
 
 - _note_: dough is very sticky
+
+<!-- Tags:
+- bread
+- vegetarian
+-->

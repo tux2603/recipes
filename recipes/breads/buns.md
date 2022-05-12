@@ -34,3 +34,13 @@
 - _note_: makes 30 sliders (33-36g each)
 - _note_: makes 45 small rolls for group snack (25-28g each)
 - _note_: makes 12 large hamburger buns
+
+<!-- Tags:
+- buns
+- side
+- hot dog
+- hamburger
+- roll
+- snack
+- vegetarian
+-->

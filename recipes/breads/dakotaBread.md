@@ -22,3 +22,9 @@
 - place pan filled with hot water on lowest shelf (if only one shelf, a small pan next to or on the sheet can work)
 - **Reduce oven heat to 375**, bake until crust is golden brown and bread registers 200 (and/or sounds hollow), 40-50 minutes
 - cool with tea towel over the top on wire rack
+
+<!-- Tags:
+- bread
+- vegetarian
+- fiber
+-->

@@ -24,3 +24,10 @@
 
 - _note_: you can add a little bit more milk to make drop biscuits
 - _note_: for softer biscuits, place them on the tray so that they're almost touching
+
+<!-- Tags:
+- biscuit
+- side
+- vegetarian
+- easy
+-->
