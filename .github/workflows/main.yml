@@ -20,6 +20,10 @@ jobs:
       - name: Remove any leftover PDF files
         run: |
           rm -rf recipes/pdf
+
+      - name: Install dependencies
+        run: |
+          pip install lark
     
       - name: Autogenerate the index page for the recipes
         run: |
