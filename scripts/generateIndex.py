@@ -77,7 +77,7 @@ if __name__ == "__main__":
 
         if os.path.isdir(full_path):
             recipes[i] = []
-            
+
             for j in os.listdir(full_path):
                 recipe_path = os.path.join(full_path, j)
                 recipe = Recipe(recipe_path)
@@ -122,6 +122,9 @@ if __name__ == "__main__":
                         h2(category.replace('_', ' ').title())
 
                         with ul():
+                            # sort the recipe list
+                            recipe_list.sort(key=lambda i: i.get_name())
+                            
                             for recipe in recipe_list:
                                 classes = ['tag-' + to_tag(i) for i in recipe.get_tags()]
                                 classes.extend(['ing-' + to_tag(i) for i in recipe.get_ingredients()])
