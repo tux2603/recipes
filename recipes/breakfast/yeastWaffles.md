@@ -31,3 +31,12 @@
 - _note_: extra batter can be stored covered in the fridge for up to 3 days. Cooled leftover waffles freeze well. Use the toaster to warm them back up straight from the freezer.
 - _note_: for the butter, you want to melt it then let it cool just enough to not kill your yeast - it should still be liquidy, but won't be as clear as freshly melted butter - this will take 5-10 minutes
 - _note_: makes about eight waffles in Ryan's waffle iron
+
+<!-- Tags:
+- long
+- side
+- snack
+- dessert
+- vegetarian
+- plaid crepe
+-->

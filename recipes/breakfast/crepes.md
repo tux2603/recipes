@@ -22,3 +22,13 @@
 - _note_: the basic ratio for crepes is, by weight, 1 part liquid : 1 part egg : 1/2 part flour
 - _note_: batter can be stored in the fridge for up to 3 days. 
 - _note_: if making sweet crepes, add a pinch of salt, 1 tablespoon of sugar, and 1/2 teaspoon vanilla. If making savory crepes, add 1/2 teaspoon of salt - the liquid can be changed from milk to chicken or beef broth if you want more flavor
+
+<!-- Tags:
+- crepe
+- snack
+- vegetarian
+- side
+- dessert
+- easy
+- skinny pancake
+-->

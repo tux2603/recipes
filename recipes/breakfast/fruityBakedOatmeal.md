@@ -28,3 +28,9 @@
 ---
 
 - _note_: fruits that work nicely include peaches, cherries, blueberries, raspberries
+
+<!-- Tags:
+- fiber
+- fruit
+- vegetarian
+-->

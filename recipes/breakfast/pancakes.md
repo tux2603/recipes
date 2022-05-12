@@ -25,3 +25,12 @@
 - _note_: you can replace half the milk with buttermilk or yogurt. You can replace up to 1/4 of the flour with wheat flour.
 - _note_: this makes a thicker pancake. If you want thinner pancakes, add up to 2 tablespoons more milk. Thicker pancakes can more easily carry additions such as chocolate chips or blueberries - add these after you pour batter onto griddle unless everyone wants exactly the same additions.
 - _note_: extra batter can be stored covered in the fridge for up to 3 days. 
+
+<!-- Tags:
+- easy
+- side
+- dessert
+- vegetarian
+- snack
+- fat crepe
+-->
