@@ -129,7 +129,7 @@ if __name__ == "__main__":
                         for recipe_list in recipes.values():
                             for recipe in recipe_list:
                                 tags.update((to_tag(i).replace('-', ' ').title() for i in recipe.get_tags()))
-                        tags = sorted(list(tags))
+                        tags = sorted(list(tags), key=lambda i: to_tag(i))
 
                         for tag in tags:
                             option(tag)
@@ -141,7 +141,7 @@ if __name__ == "__main__":
                         for recipe_list in recipes.values():
                             for recipe in recipe_list:
                                 ingredients.update((to_tag(i).replace('-', ' ').title() for i in recipe.get_ingredients()))
-                        ingredients = sorted(list(ingredients))
+                        ingredients = sorted(list(ingredients), key=lambda i: to_tag(i))
 
                         for ingredient in ingredients:
                             option(ingredient)
