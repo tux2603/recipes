@@ -117,6 +117,31 @@ if __name__ == "__main__":
                 h1('Recipes', id='recipes')
                 p('A collection of recipes. Food is good. More food coming soon')
 
+                with section(cls='filters'):
+                    # make two drop down for tags and ingredients
+                    with select(id='tags', name='tags'):
+                        option('All Tags')
+
+                        tags = set()
+                        for recipe_list in recipes.values():
+                            for recipe in recipe_list:
+                                tags.update((i.title() for i in recipe.get_tags()))
+
+                        for tag in tags:
+                            option(tag)
+
+                    with select(id='ingredients', name='ingredients'):
+                        option('All Ingredients')
+
+                        ingredients = set()
+                        for recipe_list in recipes.values():
+                            for recipe in recipe_list:
+                                ingredients.update((i.title() for i in recipe.get_ingredients()))
+
+                        for ingredient in ingredients:
+                            option(ingredient)
+
+
                 for category, recipe_list in recipes.items():
                     with section(id=category.replace('_', '-').lower()):
                         h2(category.replace('_', ' ').title())
@@ -129,7 +154,7 @@ if __name__ == "__main__":
                                 classes = ['tag-' + to_tag(i) for i in recipe.get_tags()]
                                 classes.extend(['ing-' + to_tag(i) for i in recipe.get_ingredients()])
                                 with li(cls=' '.join(classes)) as dom:
-                                    a(recipe.get_name(), href=recipe.get_path())
+                                    a(recipe.get_name(), href=recipe.get_path().replace('.md', '.html'))
                                     small().add(a('[PDF]', href=recipe.get_path().replace('.md', '.pdf')))
 
                                     if not recipe.is_valid():
