@@ -1,6 +1,6 @@
 # Popovers
 
-<small>Recipe by: The Ratio Cookbook<, modified by the O'Connor clan</small>
+<small>Recipe by: The Ratio Cookbook, modified by the O'Connor clan</small>
 
 <small>Servings: 2-4</small>
 

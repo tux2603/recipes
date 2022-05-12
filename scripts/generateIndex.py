@@ -36,6 +36,7 @@ def check_format(file_path):
             parser.parse(recipe_file.read())
             return True
         except Exception as e:
+            print(e)
             return False
 
 if __name__ == "__main__":
