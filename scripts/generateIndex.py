@@ -75,9 +75,9 @@ if __name__ == "__main__":
     for i in os.listdir('recipes'):
         full_path = os.path.join('recipes', i)
 
-        recipes[i] = []
-
         if os.path.isdir(full_path):
+            recipes[i] = []
+            
             for j in os.listdir(full_path):
                 recipe_path = os.path.join(full_path, j)
                 recipe = Recipe(recipe_path)
@@ -127,7 +127,7 @@ if __name__ == "__main__":
                                 classes.extend(['ing-' + to_tag(i) for i in recipe.get_ingredients()])
                                 with li(cls=' '.join(classes)) as dom:
                                     a(recipe.get_name(), href=recipe.get_path())
-                                    small.add(a('[PDF]', href=recipe.get_path().replace('.md', '.pdf')))
+                                    small().add(a('[PDF]', href=recipe.get_path().replace('.md', '.pdf')))
 
                                     if not recipe.is_valid():
                                         small('syntax error recipe couldn\'t be scanned')
