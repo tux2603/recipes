@@ -41,5 +41,5 @@
 - cookie
 - chocolate
 - mint
-- vegatarian
+- vegetarian
 -->
