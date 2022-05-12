@@ -28,3 +28,8 @@
 - combine white and brown sugar, chocolate, salt, and vanilla; spread evenly over first mixture
 - pour boiling water over this, but do NOT stir
 - bake for 50 minutes or until cake tests done
+
+<!-- Tags:
+- chocolate
+- cake
+-->

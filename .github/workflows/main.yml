@@ -24,6 +24,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install lark
+          pip install dominate
     
       - name: Autogenerate the index page for the recipes
         run: |

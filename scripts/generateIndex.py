@@ -3,65 +3,148 @@ import os
 from datetime import datetime
 import re
 from pprint import pprint
-from lark import Lark
+from lark import Lark, Token
+from dominate import document
+from dominate.tags import *
 
-index_header = '''# Recipes
+class Recipe:
 
-A collection of recipes. Food is good, more coming soon.
-'''
+    with open('scripts/format.lark') as f:
+        parser = Lark(f.read(), parser='lalr')
 
-index_footer = '''
-'''
+    def __init__(self, path):
+        self.path = path
+        
+        # Open up the files for the recipe and the grammer
+        with open(self.path) as f:
+            data = f.read()
 
-with open('scripts/format.lark') as f:
-    parser = Lark(f.read())
-
-def get_recipe_name(file_path):
-    with open(file_path, 'r') as recipe_file:
-        for line in recipe_file.readlines():
-            line = line.strip()
-            if line[0] == '#':
-                return line[1:].strip()
-
-def get_ingredients(file_path):
-    # Ingredients will be in the middle column of the table
-    with open(file_path, 'r') as recipe_file:
-        # Make a regex to find all three column tables
-        r = re.compile(r'\|\s*(.*?)\s*\|\s*(.*?)\s*\|\s*(.*?)\s*\|')
-        return [i[1] for i in r.findall(recipe_file.read())[2:]]
-
-def check_format(file_path):
-    with open(file_path) as recipe_file:
+        # Parse the data
         try:
-            parser.parse(recipe_file.read())
-            return True
+            self._tree = Recipe.parser.parse(data)
+            self._syntax_valid = True
         except Exception as e:
-            print(e)
-            return False
+            self._syntax_valid = False
+
+        # print(self._tree)
+
+    def get_name(self):
+        if not self._syntax_valid:
+            return self.path.split('/')[-1].split('.')[0]
+
+        for i in self._tree.find_pred(lambda i: i.data == 'title'):
+            name = ' '.join(i.scan_values(lambda i: isinstance(i, Token)))
+        return name
+
+    def get_ingredients(self):
+        if not self._syntax_valid:
+            return []
+            
+        ingredients = []
+        for i in self._tree.find_pred(lambda i: i.data == 'ingredient_name'):
+            ingredients.append(' '.join(i.scan_values(lambda i: isinstance(i, Token))).strip())
+        return ingredients
+
+    def get_tags(self):
+        if not self._syntax_valid:
+            return []
+
+        tags = []
+        for i in self._tree.find_pred(lambda i: i.data == 'tag'):
+            tags.append(' '.join(i.scan_values(lambda i: isinstance(i, Token))).strip())
+        return tags
+
+    def is_valid(self):
+        return self._syntax_valid
+
+    def get_path(self):
+        return os.path.sep + os.path.join(*(self.path.split('/')[1:]))
+
+
+
+def to_tag(string):
+    tag = string.replace('&', 'and')
+    tag = ''.join([c.lower() if c.isalnum() else '-' for c in tag])
+    tag = re.sub(r'-+', '-', tag)
+
+    return tag
 
 if __name__ == "__main__":
+    # First, find and parse all the recipes and build them into a list
+    recipes = {}
+    for i in os.listdir('recipes'):
+        full_path = os.path.join('recipes', i)
 
-    with open(os.path.join('recipes/index.md'), 'w') as f:
-        print(index_header, file=f)
+        recipes[i] = []
 
-        for i in sorted(os.listdir('recipes')):
-            # We don't need to include the index in the recipes
-            full_path = os.path.join('recipes', i)
+        if os.path.isdir(full_path):
+            for j in os.listdir(full_path):
+                recipe_path = os.path.join(full_path, j)
+                recipe = Recipe(recipe_path)
+                recipes[i].append(recipe)
 
-            if os.path.isdir(full_path):
-                recipes = sorted((get_recipe_name(os.path.join(full_path, j)), os.path.join(i, j)) for j in os.listdir(full_path))
+    doc = document(title='Index | Recipes')
 
-                if recipes:
-                    print(f'\n## {i.replace("_", " ").title()}\n', file=f)
+    with doc.head:
+        meta(charset='utf-8')
+        meta(http_equiv='X-UA-Compatible', content='IE=edge')
+        meta(name='viewport', content='width=device-width, initial-scale=1')
 
-                    for j in recipes:
-                        ingredients = get_ingredients(os.path.join('recipes', j[1])) 
-                        classes = ' '.join(i.lower().replace(' ', '-') for i in ingredients)
-                        valid_format = check_format(os.path.join('recipes', j[1]))
-                        entry_string = f'- <span class="recipe-link {classes}"> [{j[0]}]({j[1]}) - <small>[\[PDF\]](pdf/{j[1].replace(".md", ".pdf")})</small> {"" if valid_format else "<small>syntax error, file not scanned!</small>"} </span>'
-                        print(entry_string, file=f)
+        meta(property='og:title', content='Recipes')
+        meta(property='og:locale', content='en_US')
+        meta(name='description', content='Food is good')
+        meta(property='og:description', content='Food is good')
+        link(rel='canonical', href='https://recipes.tux2603.me/')
+        meta(property='og:url', content='https://recipes.tux2603.me/')
+        meta(property='og:site_name', content='recipes')
+        meta(property='og:type', content='website')
+        meta(name='twitter:card', content='summary')
+        meta(property='twitter:title', content='Recipes')
 
+        link(rel='stylesheet', href='/assets/css/style.css?v=6f706bcd2c3d3c7c0c7cc57bb7b954adf9ad8ea2')
 
-        print(f'\n<small>Auto-generated from [the source](https://github.com/tux2603/recipes) at {datetime.now().strftime("%d/%m/%Y %H:%M:%S")} UTC</small>\n', file=f)
+    with doc:
+        with div(cls='wrapper'):
+            with header():
+                h1().add(a('recipes', href='https://recipes.tux2603.me/'))
+                p('Food is good')
+                
+                with p(cls='view'):
+                    with a('View the Project on GitHub', href='https://github.com/tux2603/recipes'):
+                        small('tux2603/recipes')
 
-        print(index_footer, file=f)
+            with section():
+                h1('Recipes', id='recipes')
+                p('A collection of recipes. Food is good. More food coming soon')
+
+                for category, recipe_list in recipes.items():
+                    with section(id=category.replace('_', '-').lower()):
+                        h2(category.replace('_', ' ').title())
+
+                        with ul():
+                            for recipe in recipe_list:
+                                classes = ['tag-' + to_tag(i) for i in recipe.get_tags()]
+                                classes.extend(['ing-' + to_tag(i) for i in recipe.get_ingredients()])
+                                with li(cls=' '.join(classes)) as dom:
+                                    a(recipe.get_name(), href=recipe.get_path())
+                                    small.add(a('[PDF]', href=recipe.get_path().replace('.md', '.pdf')))
+
+                                    if not recipe.is_valid():
+                                        small('syntax error recipe couldn\'t be scanned')
+
+                with p().add(small()) as timestamp:
+                    timestamp.add('Auto-generated from ')
+                    timestamp.add(a('the source', href='https://github.com/tux2603/recipes'))
+                    timestamp.add(f'at {datetime.now()}')
+
+            with footer():
+                with p() as dom:
+                    dom.add('This project is maintained by ')
+                    dom.add(a('tux2603', href='https://github.com/tux2603'))
+
+                with p().add(small()) as dom:
+                    dom.add('Hosted on GitHub Pages - Theme by')
+                    dom.add(a('orderedlist', href='https://github.com/orderedlist'))
+
+    with open('recipes/index.html', 'w') as f:
+        print(doc.render(xhtml=True), file=f)
