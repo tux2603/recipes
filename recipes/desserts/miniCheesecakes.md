@@ -25,3 +25,11 @@
 - _note_: can serve with all sorts of toppings, like chocolate shavings, maraschino cherries, jams, etc
 - _note_: mini variation - use mini nilla wafers, mini muffin cups and start checking for doneness at 10 minutes
 - _note_: makes about 12 regular size cakes or about 48 mini cakes
+
+<!-- Tags:
+- cake
+- cheesecake
+- side
+- easy
+- vegetarian
+-->

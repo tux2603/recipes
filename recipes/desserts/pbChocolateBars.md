@@ -22,3 +22,11 @@
 ---
 
 - _note_: if filling is too sticky, add in more graham crackers
+
+<!-- Tags:
+- chocolate
+- peanut butter
+- cookie
+- vegetarian
+- easy
+-->

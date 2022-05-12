@@ -35,3 +35,8 @@
 - _note_: pumpkin pie leftovers need to be refrigerated. Holds nicely in fridge for 2 days.
 - _note_: extra filling can be refrigerated for 1 day or frozen for 1 week.
 - _note_: if you have extra plain pumpkin puree, it can freeze for up to 6 months.
+
+<!-- Tags:
+- pie
+- vegetarian
+-->

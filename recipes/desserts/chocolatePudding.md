@@ -25,3 +25,9 @@
 ---
 
 - _note_: other extracts can be substituted for vanilla for other flavors of pudding
+
+<!-- Tags:
+- chocolate
+- vegetarian
+- snack
+-->

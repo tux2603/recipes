@@ -28,3 +28,9 @@
 - remove the cooled ganache from the refrigerator, and spoon a scoop into each of the muffin tin holes
 - place the balls of dough into the muffin tin on top of the ganache
 - cook for ~20 minutes, until golden and a toothpick comes out clean
+
+<!-- Tags:
+- cake
+- chocolate
+- vegetarian
+-->

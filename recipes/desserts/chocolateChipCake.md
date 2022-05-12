@@ -28,3 +28,9 @@
 ---
 
 - _note_: this recipe is a measure then sift recipe. If you don't have a sifter handy, just stir them together before adding to the mixer bowl
+
+<!-- Tags:
+- cake
+- chocolate
+- vegetarian
+-->

@@ -36,3 +36,10 @@
 - _note_: #50 scoop is a good size.
 - _note_: For soft cookies, don't overbake. 
 - _note_: #70 cookie scoop, makes about 80 cookies
+
+<!-- Tags:
+- cookie
+- chocolate
+- mint
+- vegatarian
+-->

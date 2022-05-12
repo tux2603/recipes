@@ -22,3 +22,9 @@
 ---
 
 - _note_: for the pampered chef cookie press, press the cookies directly onto a cold or room temperature baking sheet while applying pressure to the plunger
+
+<!-- Tags:
+- chocolate
+- cookie
+- vegetarian
+-->

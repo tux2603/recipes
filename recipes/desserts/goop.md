@@ -32,4 +32,5 @@
 <!-- Tags:
 - chocolate
 - cake
+- vegetarian
 -->

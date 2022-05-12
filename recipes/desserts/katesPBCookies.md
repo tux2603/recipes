@@ -16,3 +16,10 @@
 - makes about 30 cookies with small scoop (all fit on same sheet)
 - flatten cookies with fork tines, then lightly sprinkle with additional sugar
 - bake 10-12 minutes
+
+<!-- Tags:
+- peanut butter
+- cookie
+- vegetarian
+- easy
+-->

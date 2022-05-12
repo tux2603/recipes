@@ -26,3 +26,8 @@
 ---
 
 - _note_: to substitute all purpose flour for cake flour, remove 2 tablespoons from each cup. Either way, your cake will be more level if you *sift* the flour into the measuring cup
+
+<!-- Tags:
+- cake
+- vegetarian
+-->

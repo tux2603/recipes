@@ -21,3 +21,9 @@
 
 - _note_: this is a little more frosting than is needed for a standard round cake as it was sized for odd shaped cakes
 - _note_: can add more milk if needed for spreading consistency. add 1/4 teaspoon at a time if needed. if it needs to be stiffer, add more powdered sugar a tablespoon at a time
+
+<!-- Tags:
+- cake
+- vegetarian
+- frosting and icing
+-->

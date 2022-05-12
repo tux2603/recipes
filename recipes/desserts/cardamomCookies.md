@@ -34,3 +34,9 @@
 - _note_: Original recipe places a cashew half on top of each cookie.
 - _note_: Tastes good with blackberry jelly.
 - _note_: The 1/8 inch cookie makes a crispier cookie. If the dough is rolled thicker (~1/4 inch), it makes a softer, shortbread-like cookie. 
+
+<!-- Tags:
+- cookie
+- biscuit
+- vegetarian
+-->

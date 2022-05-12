@@ -31,3 +31,10 @@
 - _note_: if your recipe calls for a partially baked crust, it may want you to put the filling into a hot crust (like pumpkin pie). 
 - _note_: you can substitute all butter into your crust. It won't be quite as flaky, but it's still a yummy crust.
 - _note_: if you refrigerate your dough for longer than an hour, you may have to let it sit a few minutes to warm up just enough to be able to roll it.
+
+<!-- Tags:
+- easy
+- crust
+- pie
+- vegetarian
+-->

@@ -19,3 +19,11 @@
 - once the butter and chocolate are melted add the cream mixture and stir to combine
 - continue stirring until the mixture over low heat until smooth and warm
 - remove from heat and stir in the vanilla 
+
+<!-- Tags:
+- chocolate
+- dessert
+- sauce
+- frosting and icing
+- vegetarian
+-->
