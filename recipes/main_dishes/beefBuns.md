@@ -40,4 +40,6 @@
 - bake the beef buns for 15-20 minutes or until golden brown, switching and rotating the trays halfway through.
 - let sit for 15 minutes before eating
 
--_note:_ 1/2 head small cabbage should yield about 4 cups of shredded cabbage
+---
+
+- _note_: 1/2 head small cabbage should yield about 4 cups of shredded cabbage

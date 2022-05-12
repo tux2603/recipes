@@ -6,7 +6,6 @@
 
 | Amount        | Ingredient            | Prep Notes          |
 | ------------- | :-------------------- | :------------------ |
-| kebab                                                       |
 | 1/2 cups      | pine nuts             | optional            |
 | 4 cloves      | minced garlic         | or 2 teaspoons powder|
 | 1.5 teaspoons | paprika               |                     |
@@ -22,7 +21,6 @@
 | 1 teaspoon    | mint                  |                     |
 | 2 pounds      | ground lamb           |                     |
 | 1.5 teaspoons | unflavored gelatin    |                     |
-| sauce                                                       |
 | 1 cup         | plain yogurt          |                     |
 | 2 tablespoons | lemon juice           |                     |
 | 2 tablespoons | tahini                |                     |
@@ -35,11 +33,10 @@
 - form into 10 cylinders
 - if grilling, insert skewers and refrigerate for at least 1 hour; grill over hot fire, 45 degree angle with grate; cook until browned and meat releases from grate, 4-7 minutes, flip and cook until browned on second side and meat reads 160, about 6 minutes longer
 - if baking, place on cookie sheet to bake similar to mini meatloaves; preheat to 350; bake for 20-30 minutes
-- 
-- _note:_ can use hamburger or meatloaf mix in place of lamb; if using other ground meat, increase garlic to 5 cloves, paprika to 2 teaspoons, and cumin to 2 teaspoons
 
 ---
+
+- _note_: can use hamburger or meatloaf mix in place of lamb; if using other ground meat, increase garlic to 5 cloves, paprika to 2 teaspoons, and cumin to 2 teaspoons
 - _note_: can use vanilla yogurt instead of plain; whole milk yogurt tastes best, but lowfat works
 - _note_: can use cilantro in place of coriander
 - _note_: serves nicely on small or medium wraps; also goes well with spinach (or lettuce) as a topper
-- 

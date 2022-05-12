@@ -58,7 +58,7 @@ if __name__ == "__main__":
                         ingredients = get_ingredients(os.path.join('recipes', j[1])) 
                         classes = ' '.join(i.lower().replace(' ', '-') for i in ingredients)
                         valid_format = check_format(os.path.join('recipes', j[1]))
-                        entry_string = f'- <span class="recipe-link {classes}"> [{j[0]}]({j[1]}) - <small>[\[PDF\]](pdf/{j[1].replace(".md", ".pdf")})</small> {"" if valid_format else "<small>! syntax error</small>"} </span>'
+                        entry_string = f'- <span class="recipe-link {classes}"> [{j[0]}]({j[1]}) - <small>[\[PDF\]](pdf/{j[1].replace(".md", ".pdf")})</small> {"" if valid_format else "<small>syntax error, file not scanned!</small>"} </span>'
                         print(entry_string, file=f)
 
 
