@@ -29,3 +29,9 @@
 - add everything except the flour and water to cooking pot; bring to boil
 - cover and cook until beef is tender (1-2 hours on simmer on stove top, 2-3 in oven at 375, 4-6 hours in crock pot)
 - blend flour and water until no clumps; stir into stew mixture; increase heat and stir until mixture thickens
+
+<!-- Tags:
+- beef
+- stew and soup
+- potato
+-->

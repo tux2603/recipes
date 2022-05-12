@@ -27,3 +27,11 @@
 - cover and let rise for 30-60 minutes, depending on how puffy you want them
 - brush rolls with egg mixture if sprinkle with sesame seeds if you're using them. Bake until golden brown, about 24-28 minutes, rotating halfway
 - let cool for 15 minutes before serving
+
+<!-- Tags:
+- pepperoni
+- roll
+- bread
+- freezable
+- portable
+-->

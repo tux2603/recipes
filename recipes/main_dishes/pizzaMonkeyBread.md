@@ -29,3 +29,12 @@
 
 - _note_: serve with pizza sauce for dipping 
 - _note_: try subbing 9x13 pan and reduce cooking time to ~20 minutes
+
+<!-- Tags:
+- pepperoni
+- cheese
+- roll
+- bread
+- freezable
+- portable
+-->

@@ -36,3 +36,8 @@
 -  _note_: you can soften about 12 ounces frozen mirepoix in place of the onions
 -  _note_: you can substitute parsnips for some of the carrots
 -  _note_: you can substitute boneless beef short ribs; if you do this, use beef stock instead of chicken stock; you can also choose to switch out the red pepper flakes in favor of thyme
+
+<!-- Tags:
+- pork
+- mild
+-->

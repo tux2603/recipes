@@ -23,3 +23,10 @@
 - brush sauce over rolls. Let sit for about ten minutes
 - cover the rolls with aluminum foil and cook for 10 minutes. Remove the aluminum foil and cook for another 5 minutes
 - let cool for ten minutes
+
+<!-- Tags:
+- ham
+- cheese
+- sandwich
+- freezable
+-->

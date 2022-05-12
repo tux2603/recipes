@@ -25,3 +25,10 @@
 - heat oil in a skillet until shimmering. Add cutlets and cook until browned and cooked through, ~2-3 minutes per side
 - cut rolls open and place on a baking sheet. Put the chicken in the center of the rolls, then top with the sauce and mozzarella cheese
 - place in the oven until mozzarella cheese is melted and bubbling, ~3-5 minutes
+
+<!-- Tags:
+- chicken
+- sandwich
+- fried
+- freezable
+-->

@@ -28,3 +28,12 @@
 - reduce heat to low and cook 30-40 minutes until meatballs are cooked through
 - stir every 10 minutes, adding sauce if necessary
 - serve with cheese over noodles or on sub buns
+
+<!-- Tags:
+- beef
+- hamburger
+- cheese
+- tomato sauce
+- pasta
+- sandwich
+-->

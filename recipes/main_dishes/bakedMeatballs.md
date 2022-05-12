@@ -29,3 +29,11 @@
 - _note_: spices listed are for Swedish meatballs. It also works well for German meatballs. If you want other meatballs, consider omiting brown sugar and use different spices
 - _note_: you can use 1/2 pound each lean ground pork and lean hamburger instead of the meatloaf mix
 - _note_: these freeze well for up to 6 months
+
+<!-- Tags:
+- meatball
+- beef
+- hamburger
+- pork
+- freezable
+-->

@@ -22,3 +22,9 @@
 - drain the noodles and set aside. Melt butter in now empty pot, then add the flour, dry mustard, and powdered onion and heat until lightly browned and aromatic
 - slowly add the milk to the butter and flour mixture to make a roux. Bring to a boil and simmer until the consistency of heavy cream
 - add cheese to the milk mixture and let melt. Stir in the noodles, kielbasa, and **Dijon mustard**
+
+<!-- Tags:
+- cheese
+- pasta
+- kielbasa
+-->

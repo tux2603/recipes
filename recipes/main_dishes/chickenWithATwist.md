@@ -20,3 +20,10 @@
 - pour soup mixture over all, making sure to completely cover chicken
 - bake another 30 minutes or until tender
 - serve over noodles
+
+<!-- Tags:
+- chicken
+- bacon
+- casserole
+- easy
+-->

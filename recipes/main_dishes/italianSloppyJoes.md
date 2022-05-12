@@ -16,3 +16,10 @@
 - brown ground meat; drain
 - add remaining ingredients; bring to boil; reduce heat to low, cover and simmer about 30 minutes; stirring occasionally
 - serve on rolls with mozzarella
+
+<!-- Tags:
+- sausage
+- sandwich
+- tomato sauce
+- easy
+-->

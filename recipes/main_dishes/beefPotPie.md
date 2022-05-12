@@ -27,3 +27,9 @@
 - dissolve cornstarch in 1/3 cup water; bring meat and veggies to boil then add cornstarch mixture, stirring constantly
 - pour mixture into pie pan and top with [savory pie crust](../main_dishes/savoryPieCrust.md), cutting slits in top.
 - bake at 450 for 20-30 minutes or until golden brown
+
+<!-- Tags:
+- beef
+- pie
+- potato
+-->

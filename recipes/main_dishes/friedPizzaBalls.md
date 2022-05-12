@@ -28,3 +28,12 @@
 - roll the dough balls in egg and then in breadcrumbs until they are well coated
 - place the dough balls in the oil until they are browned and start to float
 - place on a tray to cool, serve with spaghetti sauce
+
+<!-- Tags:
+- pizza
+- pepperoni
+- cheese
+- dough
+- fried
+- freezable
+-->

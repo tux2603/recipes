@@ -43,3 +43,11 @@
 ---
 
 - _note_: 1/2 head small cabbage should yield about 4 cups of shredded cabbage
+
+<!-- Tags:
+- beef
+- hamburger
+- cheese
+- portable
+- freezable
+-->

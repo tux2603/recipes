@@ -23,3 +23,9 @@
 - melt butter, then mix into milk mixture
 - stir milk mixture into dry ingredients, then add hot dogs
 - pour into prepared tin and bake 12-15 minutes or until golden brown
+
+<!-- Tags:
+- hot dogs
+- muffin
+- easy
+-->

@@ -22,3 +22,11 @@
 - form into 8-10 small balls; place on baking sheet and flatten slightly
 - bake 15-20 minutes; internal temperature to 160; cover in ketchup and cook an additional 5 minutes
 
+<!-- Tags:
+- hamburger
+- beef
+- meatloaf
+- easy
+- freezable
+-->
+

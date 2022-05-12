@@ -36,3 +36,8 @@
 - stir mashed bean mixture into meat mixture and cook until all the liquid has evaporated
 - stir in remaining beans, lime juice and 3/4 teaspoon of salt, remove from heat, and set aside
 - assemble burritos as desired. Broil burritos if desired
+
+<!-- Tags:
+- beef
+- hamburger
+-->

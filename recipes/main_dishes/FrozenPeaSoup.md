@@ -26,3 +26,10 @@
 
 - _note_: serve with shredded Parmesan or croutons if desired
 
+<!-- Tags:
+- stew and soup
+- peas
+- fiber
+- easy
+-->
+
