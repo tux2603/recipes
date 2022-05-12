@@ -37,7 +37,9 @@
 - if baking, place on cookie sheet to bake similar to mini meatloaves; preheat to 350; bake for 20-30 minutes
 - 
 - _note:_ can use hamburger or meatloaf mix in place of lamb; if using other ground meat, increase garlic to 5 cloves, paprika to 2 teaspoons, and cumin to 2 teaspoons
-- _note:_ can use vanilla yogurt instead of plain; whole milk yogurt tastes best, but lowfat works
-- _note:_ can use cilantro in place of coriander
-- _note:_ serves nicely on small or medium wraps; also goes well with spinach (or lettuce) as a topper
+
+---
+- _note_: can use vanilla yogurt instead of plain; whole milk yogurt tastes best, but lowfat works
+- _note_: can use cilantro in place of coriander
+- _note_: serves nicely on small or medium wraps; also goes well with spinach (or lettuce) as a topper
 - 

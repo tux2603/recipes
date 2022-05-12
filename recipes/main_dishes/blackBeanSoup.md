@@ -24,7 +24,7 @@
 - stir every half hour, adding more water if needed
 - serve with cheese, sour cream, salsa, and salt and pepper to taste
 
-----
+---
 
 - _note_: can be made in pressure cooker. decrease water to 1.5 quarts and cook on bean setting for 45 minutes with a natural pressure release.
 - _note_: original recipe calls for 1/4 cup dry sherry to be added before serving. we usually skip this.

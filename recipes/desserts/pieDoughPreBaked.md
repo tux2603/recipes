@@ -26,7 +26,7 @@
 - carefully remove the foil and weights. Note these will be VERY hot. If you can, gather the foil together and lift everything out at once. MAKE SURE YOU USE OVEN MITTS TO DO THIS.
 - If your recipe calls for a partially baked crust, continue baking uncovered until very light golden brown, another 4-6 minutes after uncovering. If your recipe calls for a fully baked crust, continue baking uncovered until golden brown, another 8-12 minutes after uncovering.
 
------
+---
 
 - _note_: if your recipe calls for a partially baked crust, it may want you to put the filling into a hot crust (like pumpkin pie). 
 - _note_: you can substitute all butter into your crust. It won't be quite as flaky, but it's still a yummy crust.

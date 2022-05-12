@@ -1,6 +1,6 @@
 # Fried Pizza Balls
 
-<small>Recipe by Owen O'Connor</small>
+<small>Recipe by: Owen O'Connor</small>
 
 <small>Servings: 32 pizza balls</small>
 

@@ -19,6 +19,6 @@
 - melt chocolate chips with remaining 2 tablespoons peanut butter and pour over peanut butter mixture
 - refrigerate for half an hour
 
-----------------------------------------------------------------
+---
 
-- _notes_: if filling is too sticky, add in more graham crackers
+- _note_: if filling is too sticky, add in more graham crackers

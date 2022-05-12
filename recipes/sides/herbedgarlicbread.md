@@ -21,4 +21,6 @@
 - cut loaf into slices. brush each side with butter mixture, then sprinkle with herb mixture.
 - wrap in foil. bake until heated through, 10-15 minutes
 
-_note_: this freezes well. follow the recipe, but don't cook the bread. divide bread slices into single servings (2-3 slices each) and wrap each serving in foil. put these into a freezer bag and freeze for up to 3 months. to bake, place foil wrapped servings into oven and bake for about 20 minutes.
+---
+
+- _note_: this freezes well. follow the recipe, but don't cook the bread. divide bread slices into single servings (2-3 slices each) and wrap each serving in foil. put these into a freezer bag and freeze for up to 3 months. to bake, place foil wrapped servings into oven and bake for about 20 minutes.

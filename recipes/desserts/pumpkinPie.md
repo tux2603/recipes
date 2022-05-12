@@ -4,19 +4,19 @@
 
 <small>Servings: 1 9 inch pie</small>
 
-| Amount          | Ingredient                                 |
-| --------------- | :----------------------------------------- |
-| 1               | [Prebaked Pie Crust](pieDoughPreBaked.md)  |
-| 16-20 ounces    | plain canned pumpkin puree                 |
-| 1 cup           | dark brown sugar                           |
-| 1 teaspoon      | ginger                                     |
-| 1 teaspoon      | cinnamon                                   |
-| 1/2 teaspoon    | nutmeg                                     |
-| pinch           | ground cloves                              |
-| 1/2 teaspoon    | salt                                       |
-| 2/3 cup         | heavy cream                                |
-| 2/3 cup         | milk                                       |
-| 4               | eggs                                       |
+| Amount       | Ingredient                                | Prep Notes |
+| ------------ | :---------------------------------------- | :--------- |
+| 1            | [Prebaked Pie Crust](pieDoughPreBaked.md) |            |
+| 16-20 ounces | plain canned pumpkin puree                |            |
+| 1 cup        | dark brown sugar                          |            |
+| 1 teaspoon   | ginger                                    |            |
+| 1 teaspoon   | cinnamon                                  |            |
+| 1/2 teaspoon | nutmeg                                    |            |
+| pinch        | ground cloves                             |            |
+| 1/2 teaspoon | salt                                      |            |
+| 2/3 cup      | heavy cream                               |            |
+| 2/3 cup      | milk                                      |            |
+| 4            | eggs                                      |            |
 
 - follow the directions for a partially baked pie crust
 - while the crust is baking, make filling
@@ -30,7 +30,7 @@
 - cool to room temperature, 1-2 hours
 - serve or refrigerate until ready to serve.
 
------
+---
 
 - _note_: pumpkin pie leftovers need to be refrigerated. Holds nicely in fridge for 2 days.
 - _note_: extra filling can be refrigerated for 1 day or frozen for 1 week.

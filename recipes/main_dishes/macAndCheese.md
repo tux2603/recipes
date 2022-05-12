@@ -1,6 +1,6 @@
 # Mac and Cheese
 
-<small>Recipe from: The New Best Recipe, modified by the O'Connor clan</small>
+<small>Recipe by: The New Best Recipe, modified by the O'Connor clan</small>
 
 <small>Servings: 6</small>
 

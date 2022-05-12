@@ -14,7 +14,7 @@
 | 3.75 cups           | chicken broth         |                                          |
 | 1 teaspoon          | salt                  |                                          |
 | 1/4 cups            | fresh parsley         | minced, much less if using dried parsley |
-| 1 pack              | kielbasa (optional)   |
+| 1 pack              | kielbasa (optional)   ||
 
 - Place rice in a bowl and pour hot tap water over it. Let stand for 15 minutes
 - Swish around the rice to release any extra starch and pour off water. Rinse with cold water 3 to 5 times

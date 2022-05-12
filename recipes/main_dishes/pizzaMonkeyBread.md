@@ -25,7 +25,7 @@
 - when oven is preheated and dough has had a chance to rise, place Bundt pan in oven and cook until browned, ~30 minutes
 - let cool for 10 minutes before removing from pan
 
------
+---
 
 - _note_: serve with pizza sauce for dipping 
 - _note_: try subbing 9x13 pan and reduce cooking time to ~20 minutes

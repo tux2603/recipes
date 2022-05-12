@@ -30,7 +30,7 @@
 - when meat is tender, uncover and cook an additional 10-20 minutes until liquid is reduced to liking
 - serve with [polenta](../sides/polenta.md)
 
------
+---
 
 - _note_: if you can't find boneless country style ribs, bone-in works; increase the amount to 3 pounds to account for the weight of the bones; there will be a little more grease; you can remove the bones before serving or just serve bone-in
 -  _note_: you can soften about 12 ounces frozen mirepoix in place of the onions

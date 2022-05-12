@@ -20,7 +20,7 @@
 - bake for 15 minutes, then let cool on a wire rack
 - refrigerate when completely cool, keeps in fridge for about 5 days
 
------
+---
 
 - _note_: can serve with all sorts of toppings, like chocolate shavings, maraschino cherries, jams, etc
 - _note_: mini variation - use mini nilla wafers, mini muffin cups and start checking for doneness at 10 minutes

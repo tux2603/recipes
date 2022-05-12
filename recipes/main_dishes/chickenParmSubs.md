@@ -1,6 +1,6 @@
 # Chicken Parmesan Subs
 
-<small>Recipes by: Cook's Country October/November 2012, modified by the O'Connor clan</small>
+<small>Recipe by: Cook's Country October/November 2012, modified by the O'Connor clan</small>
 
 <small>Servings: 4</small>
 
