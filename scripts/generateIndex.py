@@ -155,7 +155,7 @@ if __name__ == "__main__":
                                 classes.extend(['ing-' + to_tag(i) for i in recipe.get_ingredients()])
                                 with li(cls=' '.join(classes)) as dom:
                                     a(recipe.get_name(), href=recipe.get_path().replace('.md', '.html'))
-                                    small().add(a('[PDF]', href=recipe.get_path().replace('.md', '.pdf')))
+                                    small().add(a('[PDF]', href='/pdf' + recipe.get_path().replace('.md', '.pdf')))
 
                                     if not recipe.is_valid():
                                         small('syntax error recipe couldn\'t be scanned')
