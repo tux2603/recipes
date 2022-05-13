@@ -126,8 +126,8 @@ if __name__ == "__main__":
 
                 with section(cls='filters'):
                     # make two drop down for tags and ingredients
-                    with select(id='tags', name='tags'):
-                        option('All Tags')
+                    with select(id='tags', name='tags', multiple='multiple'):
+                        option('All Tags', value='all')
 
                         tags = set()
                         for recipe_list in recipes.values():
@@ -138,8 +138,8 @@ if __name__ == "__main__":
                         for tag in tags:
                             option(tag, value=f'tag-{to_tag(tag)}')
 
-                    with select(id='ingredients', name='ingredients'):
-                        option('All Ingredients')
+                    with select(id='ingredients', name='ingredients', multiple='multiple'):
+                        option('All Ingredients', value='all')
 
                         ingredients = set()
                         for recipe_list in recipes.values():
@@ -173,7 +173,7 @@ if __name__ == "__main__":
                 with p().add(small()) as timestamp:
                     timestamp.add('Auto-generated from ')
                     timestamp.add(a('the source', href='https://github.com/tux2603/recipes'))
-                    timestamp.add(f'at {datetime.now()}')
+                    timestamp.add(f' at {datetime.now()}')
 
             with footer():
                 with p() as dom:

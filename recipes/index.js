@@ -1,37 +1,73 @@
 // Run when the page is loaded
 $(document).ready(function() {
-    var filter_recipes = function(visible_class) {
+    var filterRecipes = function(requiredClasses) {
+        //If visible class is a string, make it an array
+        if (typeof requiredClasses === 'string') {
+            requiredClasses = [requiredClasses];
+        }
+
+        console.log(requiredClasses);
+
         $(".recipe").each(function() {
-            // If the recipe has the visible class, show it
-            // else, set it to hidden
-            if ($(this).hasClass(visible_class)) {
+            // If the recipe has all of the required classes, show it
+            var hasAllClasses = true;
+            var recipe = $(this);
+
+            requiredClasses.forEach(function(requiredClass) {
+                console.log("Checking for class: \"" + requiredClass + "\"");
+                if (!recipe.hasClass(requiredClass)) {
+                    console.log("has class: " + requiredClass);
+                    hasAllClasses = false;
+                }
+            });
+            
+            if (hasAllClasses) {
                 $(this).show();
             }
+
             else {
                 $(this).hide();
             }
         });
+
+        // Check to see if any of the recipe sections need to be hidden
+        $(".recipe-section").each(function() {
+            if ($(this).find(".recipe:visible").length === 0) {
+                $(this).hide();
+            }
+
+            else {
+                $(this).show();
+            }
+        });
+    };
+
+    var updateDisplayedRecipes = function() {
+        // Silly hack so that if no tags or ingredients are selected, all recipes are displayed
+        var required_classes = ['recipe'];
+
+        $("#tags option:selected").each(function() {
+            if ($(this).val() != "all") {
+                required_classes.push($(this).val());
+            }
+        });
+
+        $("#ingredients option:selected").each(function() {
+            if ($(this).val() != "all") {
+                required_classes.push($(this).val());
+            }
+        });
+
+        filterRecipes(required_classes);
+    };
+
+    var showAllRecipes = function() {
+        $(".recipe").show();
     };
 
     // Run when the select element with id tags is changed
-    $("#tags").change(function() {
-        console.log("Tags changed");
-        
-        // Print out all of the selected tags
-        $("#tags option:selected").each(function() {
-            console.log($(this).val());
-            filter_recipes($(this).val());
-        });
-    });
+    $("#tags").change(updateDisplayedRecipes);
 
     // Run when the select element with id ingredients is changed
-    $("#ingredients").change(function() {
-        console.log("Ingredients changed");
-
-        // Print out all of the selected ingredients
-        $("#ingredients option:selected").each(function() {
-            console.log($(this).val());
-            filter_recipes($(this).val());
-        });
-    });
+    $("#ingredients").change(updateDisplayedRecipes);
 });
