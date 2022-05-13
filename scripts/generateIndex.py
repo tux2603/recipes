@@ -127,7 +127,7 @@ if __name__ == "__main__":
                 with section(cls='filters'):
                     # make two drop down for tags and ingredients
                     with select(id='tags', name='tags', multiple='multiple'):
-                        option('All Tags', value='all')
+                        option('All Tags', value='all', selected='selected')
 
                         tags = set()
                         for recipe_list in recipes.values():
@@ -139,7 +139,7 @@ if __name__ == "__main__":
                             option(tag, value=f'tag-{to_tag(tag)}')
 
                     with select(id='ingredients', name='ingredients', multiple='multiple'):
-                        option('All Ingredients', value='all')
+                        option('All Ingredients', value='all', selected='selected')
 
                         ingredients = set()
                         for recipe_list in recipes.values():

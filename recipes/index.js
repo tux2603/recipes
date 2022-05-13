@@ -29,7 +29,6 @@ $(document).ready(function() {
         // Check to see if any of the recipe sections need to be hidden
         $(".recipe-section").each(function() {
             $(this).show();
-            console.log($(this).find(".recipe:visible").length);
             if ($(this).find(".recipe:visible").length === 0) {
                 $(this).hide();
             }
