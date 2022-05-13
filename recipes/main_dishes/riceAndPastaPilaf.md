@@ -29,3 +29,11 @@
 ---
 
 - _note_: Can serve with cheese and tortilla shells
+
+<!-- Tags:
+- pasta
+- kielbasa
+- easy
+- cheese
+- rice
+-->

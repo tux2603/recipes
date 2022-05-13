@@ -27,3 +27,10 @@
 - remove from oven and plate the pork chops and pears; pour pan drippings into sauce pan
 - mix cornstarch and water; pour into saucepan, stirring constantly; cook on medium heat, stirring constantly, until thickened
 
+<!-- Tags:
+- pork
+- pork chops
+- easy
+- pear
+-->
+

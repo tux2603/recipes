@@ -28,3 +28,10 @@
 - re-open the bag and add the beaten eggs, **1/2 cups** of half & half, and 1/2 cups of water to the mixture. Reseal and knead the bag to combine, refrigerate until ready to use.
 - add potatoes and carrots to the broth and simmer for 10 minutes, then take the bag of dough and cut one of the corners off. Squeeze the dough out through the hole, using scissors to snip apart dumplings sized chunks.
 - simmer until dumplings float to the surface, about 10-15 minutes. Remove soup from heat and stir in remaining **1/2 cups** of half & half.
+
+<!-- Tags:
+- chicken
+- vegetables
+- stew and soup
+- dumplings
+-->

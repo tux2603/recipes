@@ -21,3 +21,10 @@
 - spoon about two tablespoons of cheese mixture into each shell, lay shells in a large backing dish
 - cover shells with spaghetti sauce and sprinkle remaining Parmesan on top
 - cook at 350°F for 30 minutes
+
+<!-- Tags:
+- pasta
+- cheese
+- tomato sauce
+- vegetarian
+-->

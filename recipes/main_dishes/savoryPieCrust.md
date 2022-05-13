@@ -22,3 +22,10 @@
 
 - _note_: can use all butter if preferred over butter and Crisco
 - _note_: it's very important not to mix the dough any more than is necessary after the water is added
+
+<!-- Tags:
+- pie
+- crust
+- easy
+- vegetarian
+-->

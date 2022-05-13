@@ -26,3 +26,11 @@
 - divide the turkey mixture into small golf-ball sized balls, then flatten
 - grill the patties until a light char develops and the interiors reach 160°F
 - mix mayonnaise, ketchup, relish, and red wine vinegar in a small bowl and serve with the burgers
+
+<!-- Tags:
+- turkey
+- burger
+- ground turkey
+- sauce
+- hamburger
+-->

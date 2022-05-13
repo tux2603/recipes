@@ -27,3 +27,10 @@
 - _note_: Chicken broth works as a substitute for the wine
 - _note_: If you have especially fatty bacon, cut back on the olive oil
 - _note_: The residual heat from the noodles is what cooks the eggs, so add the eggs in ASAP after draining the noodles
+
+<!-- Tags:
+- pasta
+- easy
+- cheese
+- bacon
+-->

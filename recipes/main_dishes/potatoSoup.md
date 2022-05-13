@@ -27,3 +27,10 @@
 
 - _note_: can use a whole onion, minced, if preferred. chop and cook gently over medium heat in the bacon grease until softened before adding the potatoes. do not let onions brown.
 - _note_: original recipe calls for 1 teaspoon parsley added before serving. we quite often forget this, so it's a to taste type of ingredient.
+
+<!-- Tags:
+- stews and soups
+- potato
+- bacon
+- cheese
+-->

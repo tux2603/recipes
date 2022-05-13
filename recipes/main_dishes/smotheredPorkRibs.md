@@ -23,3 +23,7 @@
 - heat remaining oil in skillet. Add onion and cook until soft and caramelized. Add garlic and thyme and cook until fragrant
 - add broth and bring to boil, then add pork and reduce to simmer. Cover skillet and cook until tender, ~15 minutes
 - add vinegar to sauce and stir in. Serve
+
+<!-- Tags:
+- pork
+-->

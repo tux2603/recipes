@@ -18,3 +18,11 @@
 - add broth, tomatoes, pasta, and cream to the now-empty skillet and bring to a boil. Reduce heat to a simmer and cover, stirring occasionally, until noodles are done, about 15 minutes
 - stir sausage and mushrooms back into the noodle mixture with 1 cup of grated Parmesan cheese. Remove skillet from heat and cover until cheese is melted
 - serve with more Parmesan cheese
+
+<!-- Tags:
+- sausage
+- mushrooms
+- pasta
+- easy
+- cheese
+-->
