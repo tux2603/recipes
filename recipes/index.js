@@ -6,17 +6,13 @@ $(document).ready(function() {
             requiredClasses = [requiredClasses];
         }
 
-        console.log(requiredClasses);
-
         $(".recipe").each(function() {
             // If the recipe has all of the required classes, show it
             var hasAllClasses = true;
             var recipe = $(this);
 
             requiredClasses.forEach(function(requiredClass) {
-                console.log("Checking for class: \"" + requiredClass + "\"");
                 if (!recipe.hasClass(requiredClass)) {
-                    console.log("has class: " + requiredClass);
                     hasAllClasses = false;
                 }
             });
