@@ -12,7 +12,7 @@ class Recipe:
     with open('scripts/format.lark') as f:
         parser = Lark(f.read(), parser='lalr')
 
-    def __init__(self, path):
+    def __init__(self, path):  # sourcery skip: path-read
         self.path = path
         
         # Open up the files for the recipe and the grammer
@@ -24,6 +24,7 @@ class Recipe:
             self._tree = Recipe.parser.parse(data)
             self._syntax_valid = True
         except Exception as e:
+            self._tree = None
             self._syntax_valid = False
 
         # print(self._tree)
@@ -106,12 +107,15 @@ if __name__ == "__main__":
 
         link(rel='stylesheet', href='/assets/css/style.css?v=6f706bcd2c3d3c7c0c7cc57bb7b954adf9ad8ea2')
 
+        script(src='/jquery-3.6.0.slim.min.js')
+        script(src='/index.js')
+        
     with doc:
         with div(cls='wrapper'):
             with header():
                 h1().add(a('recipes', href='https://recipes.tux2603.me/'))
                 p('Food is good')
-                
+
                 with p(cls='view'):
                     with a('View the Project on GitHub', href='https://github.com/tux2603/recipes'):
                         small('tux2603/recipes')
@@ -154,10 +158,10 @@ if __name__ == "__main__":
                         with ul():
                             # sort the recipe list
                             recipe_list.sort(key=lambda i: i.get_name())
-                            
+
                             for recipe in recipe_list:
-                                classes = ['tag-' + to_tag(i) for i in recipe.get_tags()]
-                                classes.extend(['ing-' + to_tag(i) for i in recipe.get_ingredients()])
+                                classes = [f'tag-{to_tag(i)}' for i in recipe.get_tags()]
+                                classes.extend([f'ing-{to_tag(i)}' for i in recipe.get_ingredients()])
                                 with li(cls=' '.join(classes)) as dom:
                                     a(recipe.get_name(), href=recipe.get_path().replace('.md', '.html'))
                                     small().add(a('[PDF]', href='/pdf' + recipe.get_path().replace('.md', '.pdf')))
