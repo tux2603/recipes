@@ -136,7 +136,7 @@ if __name__ == "__main__":
                         tags = sorted(list(tags), key=lambda i: to_tag(i))
 
                         for tag in tags:
-                            option(tag, value=to_tag(tag))
+                            option(tag, value=f'tag-{to_tag(tag)}')
 
                     with select(id='ingredients', name='ingredients'):
                         option('All Ingredients')
@@ -148,7 +148,7 @@ if __name__ == "__main__":
                         ingredients = sorted(list(ingredients), key=lambda i: to_tag(i))
 
                         for ingredient in ingredients:
-                            option(ingredient, value=to_tag(ingredient))
+                            option(ingredient, value=f'ing-{to_tag(ingredient)}')
 
 
                 for category, recipe_list in recipes.items():
