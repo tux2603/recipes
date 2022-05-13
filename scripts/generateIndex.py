@@ -109,7 +109,7 @@ if __name__ == "__main__":
 
         script(src='/jquery-3.6.0.slim.min.js')
         script(src='/index.js')
-        
+
     with doc:
         with div(cls='wrapper'):
             with header():
@@ -136,7 +136,7 @@ if __name__ == "__main__":
                         tags = sorted(list(tags), key=lambda i: to_tag(i))
 
                         for tag in tags:
-                            option(tag)
+                            option(tag, value=to_tag(tag))
 
                     with select(id='ingredients', name='ingredients'):
                         option('All Ingredients')
@@ -148,11 +148,11 @@ if __name__ == "__main__":
                         ingredients = sorted(list(ingredients), key=lambda i: to_tag(i))
 
                         for ingredient in ingredients:
-                            option(ingredient)
+                            option(ingredient, value=to_tag(ingredient))
 
 
                 for category, recipe_list in recipes.items():
-                    with section(id=category.replace('_', '-').lower()):
+                    with section(cls='recipe-section', id=category.replace('_', '-').lower()):
                         h2(category.replace('_', ' ').title())
 
                         with ul():
@@ -160,7 +160,8 @@ if __name__ == "__main__":
                             recipe_list.sort(key=lambda i: i.get_name())
 
                             for recipe in recipe_list:
-                                classes = [f'tag-{to_tag(i)}' for i in recipe.get_tags()]
+                                classes = ['recipe']
+                                classes.extend([f'tag-{to_tag(i)}' for i in recipe.get_tags()])
                                 classes.extend([f'ing-{to_tag(i)}' for i in recipe.get_ingredients()])
                                 with li(cls=' '.join(classes)) as dom:
                                     a(recipe.get_name(), href=recipe.get_path().replace('.md', '.html'))
