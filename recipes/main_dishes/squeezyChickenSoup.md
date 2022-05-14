@@ -13,7 +13,7 @@
 |               | pepper          |                                                  |
 | 8 cups        | chicken broth   |                                                  |
 | 2.5 cups      | flour           |                                                  |
-| 1/4 teaspoons | backing powder  |                                                  |
+| 1/4 teaspoons | baking powder   |                                                  |
 | 3             | large eggs      | beaten                                           |
 | 1/2 cups      | half & half     |                                                  |
 | 1/2 cups      | half & half     |                                                  |
