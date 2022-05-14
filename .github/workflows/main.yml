@@ -45,6 +45,7 @@ jobs:
           pushd /tmp/pages-branch
           ls -la
           git checkout -b gh-pages origin/gh-pages
+          git checkout $(git rev-parse HEAD~1)
           popd
 
           for i in `find recipes -mindepth 2 -name '*.md'`; do 
@@ -54,6 +55,10 @@ jobs:
             [ -d "recipes/pdf/$category" ] || mkdir "recipes/pdf/$category"
 
             # Check to see if there are any changes between the recipe and the pages branch
+            echo "---"
+            echo "---"
+
+            cat /tmp/pages-branch
             if diff "/tmp/pages-branch/$category/$recipe.md" "recipes/$category/$recipe.md"; then
               echo "No changes to $category/$recipe.md, copying pdf from pages branch"
               cp "/tmp/pages-branch/pdf/$category/$recipe.pdf" "recipes/pdf/$category/$recipe.pdf"
@@ -65,6 +70,7 @@ jobs:
 
             git add "recipes/pdf/$category/$recipe.pdf"
           done
+
           git commit -m 'Generated pdf files'
           
       - name: Link to PDFs
