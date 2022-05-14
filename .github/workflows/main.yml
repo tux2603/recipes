@@ -38,8 +38,14 @@ jobs:
           [ -d recipes/pdf ] || mkdir recipes/pdf
 
           # Get another copy of the repo in the pages branch
-          git clone $(git config --get remote.origin.url) /tmp/pages-branch
-          git --git-dir /tmp/pages-branch/ checkout gh-pages
+
+          mkdir -p /tmp/pages-branch
+          pushd /tmp/
+          git clone $(git config --get remote.origin.url) pages-branch
+          pushd pages-branch
+          git checkout gh-pages
+          popd
+          popd
 
           for i in `find recipes -mindepth 2 -name '*.md'`; do 
             category=$(echo $i | awk -F/ '{print $2}')
