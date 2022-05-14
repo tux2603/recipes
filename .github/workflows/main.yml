@@ -41,7 +41,9 @@ jobs:
           repo_url=$(git config --get remote.origin.url)
           echo "Cloning $repo_url to /tmp/pages-branch"
           git clone $repo_url /tmp/pages-branch
+          echo "repo cloned"
           pushd /tmp/pages-branch
+          ls -la
           git checkout -b gh-pages origin/gh-pages
           popd
 
