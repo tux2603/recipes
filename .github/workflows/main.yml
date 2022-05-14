@@ -36,15 +36,27 @@ jobs:
         run: |
           docker pull pandoc/alpine-latex
           [ -d recipes/pdf ] || mkdir recipes/pdf
+
+          # Get another copy of the repo in the pages branch
+          git clone $(git config --get remote.origin.url) /tmp/pages-branch
+          git --git-dir /tmp/pages-branch/ checkout gh-pages
+
           for i in `find recipes -mindepth 2 -name '*.md'`; do 
             category=$(echo $i | awk -F/ '{print $2}')
             recipe=$(echo $i | awk -F/ '{print $3}' | awk -F. '{print $1}')
             
             [ -d "recipes/pdf/$category" ] || mkdir "recipes/pdf/$category"
 
-            (echo "---"; cat scripts/format.yml; echo -e "\n---\n"; cat "recipes/$category/$recipe.md") >/tmp/recipe.md
-            cat /tmp/recipe.md
-            docker run --rm -v /tmp:/tmp pandoc/alpine-latex /tmp/recipe.md -t pdf >"recipes/pdf/$category/$recipe.pdf"
+            # Check to see if there are any changes between the recipe and the pages branch
+            if diff "/tmp/pages-branch/$category/$recipe.md" "recipes/$category/$recipe.md"; then
+              echo "No changes to $category/$recipe.md, copying pdf from pages branch"
+              cp "/tmp/pages-branch/pdf/$category/$recipe.pdf" "recipes/pdf/$category/$recipe.pdf"
+            else
+              (echo "---"; cat scripts/format.yml; echo -e "\n---\n"; cat "recipes/$category/$recipe.md") >/tmp/recipe.md
+              cat /tmp/recipe.md
+              docker run --rm -v /tmp:/tmp pandoc/alpine-latex /tmp/recipe.md -t pdf >"recipes/pdf/$category/$recipe.pdf"
+            fi
+
             git add "recipes/pdf/$category/$recipe.pdf"
           done
           git commit -m 'Generated pdf files'
