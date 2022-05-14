@@ -11,8 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - run: |
-          echo "GIT_URL=$(git remote get-url origin)">>$GITHUB_ENV
 
       - name: Initialize git
         run: |
@@ -40,8 +38,9 @@ jobs:
           [ -d recipes/pdf ] || mkdir recipes/pdf
 
           # Get another copy of the repo in the pages branch
-
-          git clone $GIT_URL /tmp/pages-branch
+          repo_root=$(git rev-parse --show-toplevel)
+          echo "Cloning $repo_root to /tmp/pages-branch"
+          git clone $repo_root /tmp/pages-branch
           git --git-dir /tmp/pages-branch/ checkout gh-pages
 
           for i in `find recipes -mindepth 2 -name '*.md'`; do 
