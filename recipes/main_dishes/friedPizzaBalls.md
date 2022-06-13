@@ -29,6 +29,11 @@
 - place the dough balls in the oil until they are browned and start to float
 - place on a tray to cool, serve with spaghetti sauce
 
+---
+
+- _note_: leftover pizza balls can be frozen and reheated in a 400° oven for 12 minutes
+- _note_: panko bread crumbs make a nice crispy shell, it took a bit less than one box per recipe
+
 <!-- Tags:
 - pizza
 - pepperoni
