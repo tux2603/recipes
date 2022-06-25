@@ -26,4 +26,5 @@
 - vegetarian
 - vegan
 - easy
+- oven
 -->

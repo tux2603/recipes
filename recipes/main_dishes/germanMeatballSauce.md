@@ -25,4 +25,5 @@
 <!-- Tags:
 - meatball
 - sauce
+- stove
 -->

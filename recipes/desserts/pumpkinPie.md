@@ -39,4 +39,6 @@
 <!-- Tags:
 - pie
 - vegetarian
+- oven
+- stove
 -->

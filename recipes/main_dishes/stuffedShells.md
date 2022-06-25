@@ -27,4 +27,6 @@
 - cheese
 - tomato sauce
 - vegetarian
+- stove
+- oven
 -->

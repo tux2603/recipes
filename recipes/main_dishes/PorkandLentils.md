@@ -27,3 +27,12 @@
 - _note_: if making in the oven, cook at 325 for 2-3 hours
 - _note_: if making on the stove top, bring to a boil then reduce to simmer and cook 1-2 hours
 
+<!-- Tags:
+- stew and soup
+- vegetables
+- pork
+- pressure cooker
+- stove
+- oven
+- slow cooker
+-->

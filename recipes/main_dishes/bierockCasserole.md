@@ -46,5 +46,7 @@
 - hamburger
 - cheese
 - casserole
+- stove
+- oven
 -->
 

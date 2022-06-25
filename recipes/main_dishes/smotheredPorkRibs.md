@@ -26,4 +26,5 @@
 
 <!-- Tags:
 - pork
+- stove
 -->

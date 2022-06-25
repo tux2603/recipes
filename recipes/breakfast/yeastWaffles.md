@@ -39,4 +39,5 @@
 - dessert
 - vegetarian
 - plaid crepe
+- waffle maker
 -->

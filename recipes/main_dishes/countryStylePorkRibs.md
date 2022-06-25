@@ -40,4 +40,7 @@
 <!-- Tags:
 - pork
 - mild
+- stove
+- pressure cooker
+- slow cooker
 -->

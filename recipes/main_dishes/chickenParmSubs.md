@@ -26,9 +26,14 @@
 - cut rolls open and place on a baking sheet. Put the chicken in the center of the rolls, then top with the sauce and mozzarella cheese
 - place in the oven until mozzarella cheese is melted and bubbling, ~3-5 minutes
 
+---
+
+- _note_: can skip the parmesean, cheese, and spaghetti for just normal chicken sandwiches. Add other spices to the breading if doing this
+
 <!-- Tags:
 - chicken
 - sandwich
 - fried
 - freezable
+- stove
 -->

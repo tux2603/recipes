@@ -26,4 +26,5 @@
 - sauce
 - frosting and icing
 - vegetarian
+- stove
 -->

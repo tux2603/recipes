@@ -34,4 +34,7 @@
 - beef
 - stew and soup
 - potato
+- stove
+- pressure cooker
+- slow cooker
 -->

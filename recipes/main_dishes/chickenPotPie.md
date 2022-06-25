@@ -29,4 +29,6 @@
 <!-- Tags:
 - chicken
 - pie
+- stove
+- oven
 -->

@@ -31,5 +31,6 @@
 - peas
 - fiber
 - easy
+- stove
 -->
 

@@ -30,4 +30,5 @@
 - hamburger
 - tomato sauce
 - meatball
+- stove
 -->

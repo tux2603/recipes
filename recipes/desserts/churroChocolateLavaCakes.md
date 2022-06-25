@@ -33,4 +33,6 @@
 - cake
 - chocolate
 - vegetarian
+- oven
+- stove
 -->

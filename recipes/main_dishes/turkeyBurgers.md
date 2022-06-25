@@ -33,4 +33,7 @@
 - ground turkey
 - sauce
 - hamburger
+- stove
+- gridle
+- grill
 -->

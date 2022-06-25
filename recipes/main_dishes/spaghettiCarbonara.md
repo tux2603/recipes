@@ -33,4 +33,5 @@
 - easy
 - cheese
 - bacon
+- stove
 -->

@@ -27,4 +27,5 @@
 - cheese
 - pasta
 - kielbasa
+- stove
 -->

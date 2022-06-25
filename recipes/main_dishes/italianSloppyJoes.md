@@ -22,4 +22,5 @@
 - sandwich
 - tomato sauce
 - easy
+- stove
 -->

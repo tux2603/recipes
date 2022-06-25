@@ -25,4 +25,5 @@
 - pasta
 - easy
 - cheese
+- stove
 -->

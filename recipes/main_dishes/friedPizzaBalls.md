@@ -41,4 +41,6 @@
 - dough
 - fried
 - freezable
+- stove
+- deep fryer
 -->

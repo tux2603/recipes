@@ -36,4 +36,5 @@
 - easy
 - cheese
 - rice
+- stove
 -->

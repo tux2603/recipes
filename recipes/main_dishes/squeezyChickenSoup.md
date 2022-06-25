@@ -34,4 +34,5 @@
 - vegetables
 - stew and soup
 - dumplings
+- stove
 -->

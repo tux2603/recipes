@@ -32,4 +32,6 @@
 - beef
 - pie
 - potato
+- stove
+- oven
 -->

@@ -36,4 +36,5 @@
 - tomato sauce
 - pasta
 - sandwich
+- stove
 -->

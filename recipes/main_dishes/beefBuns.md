@@ -50,4 +50,6 @@
 - cheese
 - portable
 - freezable
+- stove
+- oven
 -->

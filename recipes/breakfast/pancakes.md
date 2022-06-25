@@ -33,4 +33,5 @@
 - vegetarian
 - snack
 - fat crepe
+- stove
 -->

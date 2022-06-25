@@ -23,5 +23,6 @@
 <!-- Tags:
 - cheese
 - vegetarian
+- stove
 -->
 

@@ -40,4 +40,5 @@
 <!-- Tags:
 - beef
 - hamburger
+- stove
 -->

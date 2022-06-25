@@ -34,4 +34,7 @@
 - stew and soup
 - pork
 - fiber
+- stove
+- pressure cooker
+- slow cooker
 -->

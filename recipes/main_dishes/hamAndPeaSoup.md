@@ -26,6 +26,7 @@
 <!-- Tags:
 - stew and soup
 - vegetables
+- easy
 - ham
 - pressure cooker
 -->
