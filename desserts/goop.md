@@ -35,3 +35,5 @@
 - vegetarian
 - oven
 -->
+
+[\[Download PDF\]](/pdf/desserts/goop.pdf)

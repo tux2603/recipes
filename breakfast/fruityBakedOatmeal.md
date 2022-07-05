@@ -35,3 +35,6 @@
 - vegetarian
 - oven
 -->
+
+
+[\[Download PDF\]](/pdf/breakfast/fruityBakedOatmeal.pdf)

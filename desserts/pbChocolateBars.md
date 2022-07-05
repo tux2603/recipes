@@ -30,3 +30,5 @@
 - vegetarian
 - easy
 -->
+
+[\[Download PDF\]](/pdf/desserts/pbChocolateBars.pdf)

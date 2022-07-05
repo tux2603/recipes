@@ -25,3 +25,5 @@
 - easy
 - oven
 -->
+
+[\[Download PDF\]](/pdf/sides/cheesyPotatoes.pdf)

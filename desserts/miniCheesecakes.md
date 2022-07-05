@@ -34,3 +34,6 @@
 - vegetarian
 - oven
 -->
+
+
+[\[Download PDF\]](/pdf/desserts/miniCheesecakes.pdf)

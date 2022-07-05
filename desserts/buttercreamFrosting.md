@@ -27,3 +27,5 @@
 - vegetarian
 - frosting and icing
 -->
+
+[\[Download PDF\]](/pdf/desserts/buttercreamFrosting.pdf)

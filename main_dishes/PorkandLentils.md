@@ -36,3 +36,6 @@
 - oven
 - slow cooker
 -->
+
+
+[\[Download PDF\]](/pdf/main_dishes/PorkandLentils.pdf)

@@ -30,3 +30,6 @@
 - easy
 - oven
 -->
+
+
+[\[Download PDF\]](/pdf/main_dishes/cornyDogs.pdf)
