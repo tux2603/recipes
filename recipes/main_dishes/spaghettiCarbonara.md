@@ -1,6 +1,6 @@
 # Spaghetti Carbonara
 
-<small>Recipe by: I forget... probably ATC, modified by the O'Connor clan</small>
+<small>Recipe by: I forget... probably ATK, modified by the O'Connor clan</small>
 
 <small>Servings: 5</small>
 
