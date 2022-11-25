@@ -24,7 +24,7 @@
 
 - _note_: a 16 oz jar of peanut butter is almost exactly the right amount for this recipe
 - _note_: dark chocolate chips provide a nice contrast to the sweetness of the peanut butter core, but any type of chocolate will work as long as it melts smoothly
-- _note_: crisco or food grade parrafin can also be melted in with the chocolate
+- _note_: crisco or food grade parrafin can also be melted in with the chocolate instead of the peanut butter, you just want something to give the chocolate a little more consistency once it's set
 
 <!-- Tags:
 - peanut butter
