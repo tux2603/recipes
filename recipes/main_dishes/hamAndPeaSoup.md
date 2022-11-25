@@ -21,8 +21,6 @@
 - add chicken broth, bay leaves, onion powder, salt and pepper, and stir to combine. Add ham and peas
 - seal pressure cooker and cook for 20 minutes at high pressure
 
----
-
 <!-- Tags:
 - stew and soup
 - vegetables
