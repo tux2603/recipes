@@ -1,6 +1,6 @@
 # Buckeyes
 
-<small>Recipe by: Margaret Burwell?</small>
+<small>Recipe by: Nancy Miller</small>
 
 <small>Servings: about 60 buckeyes</small>
 
