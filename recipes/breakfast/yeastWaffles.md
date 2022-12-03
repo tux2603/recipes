@@ -19,7 +19,7 @@
 - *the night before*...
 - warm milk to 110 degrees (if you don't have a thermometer, 110 should feel slighly warm but not at all hot when you stick your clean finger in it)
 - in large bowl, combine warm milk, flour, yeast, butter, sugar, and salt. Stir until no lumps remain.
-- cover and let sit at room temperature for 8-12 hours. Batter will rise and bubble.
+- cover and let sit at room temperature for 8-12 hours or in the refrigerator for longer. Batter will rise and bubble.
 - preheat waffle iron
 - add eggs, baking soda, and vanilla to batter, mixing well
 - spray waffle iron with nonstick spray if needed
@@ -31,6 +31,7 @@
 - _note_: extra batter can be stored covered in the fridge for up to 3 days. Cooled leftover waffles freeze well. Use the toaster to warm them back up straight from the freezer.
 - _note_: for the butter, you want to melt it then let it cool just enough to not kill your yeast - it should still be liquidy, but won't be as clear as freshly melted butter - this will take 5-10 minutes
 - _note_: makes about eight waffles in Ryan's waffle iron
+- _note_: if you rise the dough in the fridge, give it a few hours at room temperature before putting it in the fridge to get the process started
 
 <!-- Tags:
 - long
