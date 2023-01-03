@@ -1,0 +1,879 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Index | Recipes</title>
+    <meta charset="utf-8" />
+    <meta content="IE=edge" http-equiv="X-UA-Compatible" />
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <meta content="Recipes" property="og:title" />
+    <meta content="en_US" property="og:locale" />
+    <meta content="Food is good" name="description" />
+    <meta content="Food is good" property="og:description" />
+    <link href="https://recipes.tux2603.me/" rel="canonical" />
+    <meta content="https://recipes.tux2603.me/" property="og:url" />
+    <meta content="recipes" property="og:site_name" />
+    <meta content="website" property="og:type" />
+    <meta content="summary" name="twitter:card" />
+    <meta content="Recipes" property="twitter:title" />
+    <link href="/assets/css/style.css?v=6f706bcd2c3d3c7c0c7cc57bb7b954adf9ad8ea2" rel="stylesheet" />
+    <script src="/jquery-3.6.0.slim.min.js"></script>
+    <script src="/index.js"></script>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>
+          <a href="https://recipes.tux2603.me/">recipes</a>
+        </h1>
+        <p>Food is good</p>
+        <p class="view">
+          <a href="https://github.com/tux2603/recipes">View the Project on GitHub
+            <small>tux2603/recipes</small>
+          </a>
+        </p>
+      </header>
+      <section>
+        <h1 id="recipes">Recipes</h1>
+        <p>A collection of recipes. Food is good. More food coming soon</p>
+        <section class="filters">
+          <select id="tags" multiple="multiple" name="tags">
+            <option selected="selected" value="all">All Tags</option>
+            <option value="tag-bacon">Bacon</option>
+            <option value="tag-beans">Beans</option>
+            <option value="tag-beef">Beef</option>
+            <option value="tag-biscuit">Biscuit</option>
+            <option value="tag-bread">Bread</option>
+            <option value="tag-buns">Buns</option>
+            <option value="tag-burger">Burger</option>
+            <option value="tag-cake">Cake</option>
+            <option value="tag-casserole">Casserole</option>
+            <option value="tag-cheese">Cheese</option>
+            <option value="tag-cheesecake">Cheesecake</option>
+            <option value="tag-chicken">Chicken</option>
+            <option value="tag-chocolate">Chocolate</option>
+            <option value="tag-cookie">Cookie</option>
+            <option value="tag-crepe">Crepe</option>
+            <option value="tag-crust">Crust</option>
+            <option value="tag-deep-fryer">Deep Fryer</option>
+            <option value="tag-dessert">Dessert</option>
+            <option value="tag-dough">Dough</option>
+            <option value="tag-dumplings">Dumplings</option>
+            <option value="tag-easy">Easy</option>
+            <option value="tag-fat-crepe">Fat Crepe</option>
+            <option value="tag-fiber">Fiber</option>
+            <option value="tag-freezable">Freezable</option>
+            <option value="tag-fried">Fried</option>
+            <option value="tag-frosting-and-icing">Frosting And Icing</option>
+            <option value="tag-fruit">Fruit</option>
+            <option value="tag-gridle">Gridle</option>
+            <option value="tag-grill">Grill</option>
+            <option value="tag-ground-turkey">Ground Turkey</option>
+            <option value="tag-ham">Ham</option>
+            <option value="tag-hamburger">Hamburger</option>
+            <option value="tag-hot-dog">Hot Dog</option>
+            <option value="tag-hot-dogs">Hot Dogs</option>
+            <option value="tag-kielbasa">Kielbasa</option>
+            <option value="tag-lamb">Lamb</option>
+            <option value="tag-long">Long</option>
+            <option value="tag-meatball">Meatball</option>
+            <option value="tag-meatballs">Meatballs</option>
+            <option value="tag-meatloaf">Meatloaf</option>
+            <option value="tag-microwave">Microwave</option>
+            <option value="tag-mild">Mild</option>
+            <option value="tag-mint">Mint</option>
+            <option value="tag-muffin">Muffin</option>
+            <option value="tag-mushrooms">Mushrooms</option>
+            <option value="tag-not-enough">Not Enough</option>
+            <option value="tag-oven">Oven</option>
+            <option value="tag-pasta">Pasta</option>
+            <option value="tag-peanut-butter">Peanut Butter</option>
+            <option value="tag-pear">Pear</option>
+            <option value="tag-peas">Peas</option>
+            <option value="tag-pepperoni">Pepperoni</option>
+            <option value="tag-pie">Pie</option>
+            <option value="tag-pizza">Pizza</option>
+            <option value="tag-plaid-crepe">Plaid Crepe</option>
+            <option value="tag-pork">Pork</option>
+            <option value="tag-pork-chops">Pork Chops</option>
+            <option value="tag-portable">Portable</option>
+            <option value="tag-potato">Potato</option>
+            <option value="tag-potatoes">Potatoes</option>
+            <option value="tag-pressure-cooker">Pressure Cooker</option>
+            <option value="tag-pudding">Pudding</option>
+            <option value="tag-refrigerator">Refrigerator</option>
+            <option value="tag-rice">Rice</option>
+            <option value="tag-roll">Roll</option>
+            <option value="tag-sandwich">Sandwich</option>
+            <option value="tag-sauce">Sauce</option>
+            <option value="tag-sausage">Sausage</option>
+            <option value="tag-side">Side</option>
+            <option value="tag-skillet">Skillet</option>
+            <option value="tag-skinny-pancake">Skinny Pancake</option>
+            <option value="tag-slow-cooker">Slow Cooker</option>
+            <option value="tag-snack">Snack</option>
+            <option value="tag-stew-and-soup">Stew And Soup</option>
+            <option value="tag-stews-and-soups">Stews And Soups</option>
+            <option value="tag-stove">Stove</option>
+            <option value="tag-tomato-sauce">Tomato Sauce</option>
+            <option value="tag-turkey">Turkey</option>
+            <option value="tag-vegan">Vegan</option>
+            <option value="tag-vegetables">Vegetables</option>
+            <option value="tag-vegetarian">Vegetarian</option>
+            <option value="tag-waffle-maker">Waffle Maker</option>
+          </select>
+          <select id="ingredients" multiple="multiple" name="ingredients">
+            <option selected="selected" value="all">All Ingredients</option>
+            <option value="ing-andes-mints">Andes Mints</option>
+            <option value="ing-apple-cider-vinegar">Apple Cider Vinegar</option>
+            <option value="ing-baby-carrots">Baby Carrots</option>
+            <option value="ing-bacon">Bacon</option>
+            <option value="ing-baking-powder">Baking Powder</option>
+            <option value="ing-baking-soda">Baking Soda</option>
+            <option value="ing-balsamic-vinegar">Balsamic Vinegar</option>
+            <option value="ing-basil">Basil</option>
+            <option value="ing-bay-leaf">Bay Leaf</option>
+            <option value="ing-bay-leaves">Bay Leaves</option>
+            <option value="ing-beef-broth">Beef Broth</option>
+            <option value="ing-beef-stock">Beef Stock</option>
+            <option value="ing-black-beans">Black Beans</option>
+            <option value="ing-boiling-water">Boiling Water</option>
+            <option value="ing-boneless-pork-ribs">Boneless Pork Ribs</option>
+            <option value="ing-bread-crumbs">Bread Crumbs</option>
+            <option value="ing-bread-flour">Bread Flour</option>
+            <option value="ing-breadcrumbs">Breadcrumbs</option>
+            <option value="ing-brown-sugar">Brown Sugar</option>
+            <option value="ing-butter">Butter</option>
+            <option value="ing-buttermilk">Buttermilk</option>
+            <option value="ing-cabbage">Cabbage</option>
+            <option value="ing-cake-flour">Cake Flour</option>
+            <option value="ing-canned-black-beans">Canned Black Beans</option>
+            <option value="ing-carrots">Carrots</option>
+            <option value="ing-cheddar">Cheddar</option>
+            <option value="ing-cheddar-cheese">Cheddar Cheese</option>
+            <option value="ing-cheese">Cheese</option>
+            <option value="ing-chicken">Chicken</option>
+            <option value="ing-chicken-breast">Chicken Breast</option>
+            <option value="ing-chicken-broth">Chicken Broth</option>
+            <option value="ing-chicken-cutlets">Chicken Cutlets</option>
+            <option value="ing-chicken-powder">Chicken Powder</option>
+            <option value="ing-chicken-stock">Chicken Stock</option>
+            <option value="ing-chicken-thighs">Chicken Thighs</option>
+            <option value="ing-chili-powder">Chili Powder</option>
+            <option value="ing-chilled-water">Chilled Water</option>
+            <option value="ing-chocolate">Chocolate</option>
+            <option value="ing-chocolate-chips">Chocolate Chips</option>
+            <option value="ing-cider-vinegar">Cider Vinegar</option>
+            <option value="ing-cinnamon">Cinnamon</option>
+            <option value="ing-co-jack">Co Jack</option>
+            <option value="ing-cocoa-powder">Cocoa Powder</option>
+            <option value="ing-cooking-oil">Cooking Oil</option>
+            <option value="ing-corn-syrup">Corn Syrup</option>
+            <option value="ing-cornmeal">Cornmeal</option>
+            <option value="ing-cornstarch">Cornstarch</option>
+            <option value="ing-country-style-pork-ribs">Country Style Pork Ribs</option>
+            <option value="ing-cream">Cream</option>
+            <option value="ing-cream-cheese">Cream Cheese</option>
+            <option value="ing-cream-of-mushroom-soup">Cream Of Mushroom Soup</option>
+            <option value="ing-cream-of-tartar">Cream Of Tartar</option>
+            <option value="ing-crisco">Crisco</option>
+            <option value="ing-crushed-red-pepper-flakes">Crushed Red Pepper Flakes</option>
+            <option value="ing-cumin">Cumin</option>
+            <option value="ing-dark-brown-sugar">Dark Brown Sugar</option>
+            <option value="ing-dark-chocolate-chips">Dark Chocolate Chips</option>
+            <option value="ing-diced-tomatoes">Diced Tomatoes</option>
+            <option value="ing-dijon-mustard">Dijon Mustard</option>
+            <option value="ing-dried-basil">Dried Basil</option>
+            <option value="ing-dried-marjoram">Dried Marjoram</option>
+            <option value="ing-dried-minced-onion">Dried Minced Onion</option>
+            <option value="ing-dried-oregano">Dried Oregano</option>
+            <option value="ing-dried-peas">Dried Peas</option>
+            <option value="ing-dried-rosemary">Dried Rosemary</option>
+            <option value="ing-dried-thyme">Dried Thyme</option>
+            <option value="ing-dry-lentils">Dry Lentils</option>
+            <option value="ing-dry-minced-onion">Dry Minced Onion</option>
+            <option value="ing-dry-mustard">Dry Mustard</option>
+            <option value="ing-egg">Egg</option>
+            <option value="ing-egg-yolk">Egg Yolk</option>
+            <option value="ing-eggs">Eggs</option>
+            <option value="ing-flour">Flour</option>
+            <option value="ing-fresh-cilantro">Fresh Cilantro</option>
+            <option value="ing-fresh-parsley">Fresh Parsley</option>
+            <option value="ing-fresh-thyme">Fresh Thyme</option>
+            <option value="ing-frozen-corn">Frozen Corn</option>
+            <option value="ing-frozen-fruit">Frozen Fruit</option>
+            <option value="ing-frozen-hash-browns">Frozen Hash Browns</option>
+            <option value="ing-frozen-peas">Frozen Peas</option>
+            <option value="ing-frozen-veggies">Frozen Veggies</option>
+            <option value="ing-garlic">Garlic</option>
+            <option value="ing-garlic-powder">Garlic Powder</option>
+            <option value="ing-ginger">Ginger</option>
+            <option value="ing-gingersnaps">Gingersnaps</option>
+            <option value="ing-graham-cracker">Graham Cracker</option>
+            <option value="ing-grated-onion-drained">Grated Onion Drained</option>
+            <option value="ing-grated-parmesan">Grated Parmesan</option>
+            <option value="ing-ground-allspice">Ground Allspice</option>
+            <option value="ing-ground-beef">Ground Beef</option>
+            <option value="ing-ground-cardamom">Ground Cardamom</option>
+            <option value="ing-ground-cinnamon">Ground Cinnamon</option>
+            <option value="ing-ground-cloves">Ground Cloves</option>
+            <option value="ing-ground-coriander">Ground Coriander</option>
+            <option value="ing-ground-italian-sausage">Ground Italian Sausage</option>
+            <option value="ing-ground-lamb">Ground Lamb</option>
+            <option value="ing-ground-nutmeg">Ground Nutmeg</option>
+            <option value="ing-ground-pork">Ground Pork</option>
+            <option value="ing-ground-turkey">Ground Turkey</option>
+            <option value="ing-half-and-half">Half And Half</option>
+            <option value="ing-ham">Ham</option>
+            <option value="ing-hamburger">Hamburger</option>
+            <option value="ing-hawaiian-rolls">Hawaiian Rolls</option>
+            <option value="ing-heavy-cream">Heavy Cream</option>
+            <option value="ing-honey">Honey</option>
+            <option value="ing-hot-dogs">Hot Dogs</option>
+            <option value="ing-hot-sauce">Hot Sauce</option>
+            <option value="ing-hot-water">Hot Water</option>
+            <option value="ing-ice-water">Ice Water</option>
+            <option value="ing-instant-potato-flakes">Instant Potato Flakes</option>
+            <option value="ing-italian-bread">Italian Bread</option>
+            <option value="ing-italian-sausage">Italian Sausage</option>
+            <option value="ing-italian-seasoning">Italian Seasoning</option>
+            <option value="ing-jumbo-shells">Jumbo Shells</option>
+            <option value="ing-ketchup">Ketchup</option>
+            <option value="ing-kielbasa">Kielbasa</option>
+            <option value="ing-large-apple">Large Apple</option>
+            <option value="ing-large-carrots">Large Carrots</option>
+            <option value="ing-large-egg">Large Egg</option>
+            <option value="ing-large-eggs">Large Eggs</option>
+            <option value="ing-large-onion">Large Onion</option>
+            <option value="ing-large-potatoes">Large Potatoes</option>
+            <option value="ing-lean-ground-beef">Lean Ground Beef</option>
+            <option value="ing-lemon-juice">Lemon Juice</option>
+            <option value="ing-lime-juice">Lime Juice</option>
+            <option value="ing-long-grain-white-rice">Long Grain White Rice</option>
+            <option value="ing-marjoram">Marjoram</option>
+            <option value="ing-mayonnaise">Mayonnaise</option>
+            <option value="ing-meatballs">Meatballs</option>
+            <option value="ing-meatloaf-mix">Meatloaf Mix</option>
+            <option value="ing-milk">Milk</option>
+            <option value="ing-minced-garlic">Minced Garlic</option>
+            <option value="ing-minced-shallots">Minced Shallots</option>
+            <option value="ing-mini-pepperoni">Mini Pepperoni</option>
+            <option value="ing-mint">Mint</option>
+            <option value="ing-mirepoix">Mirepoix</option>
+            <option value="ing-molasses">Molasses</option>
+            <option value="ing-monterey-jack">Monterey Jack</option>
+            <option value="ing-mozzarella">Mozzarella</option>
+            <option value="ing-mozzarella-cheese">Mozzarella Cheese</option>
+            <option value="ing-mozzarella-cheese-sticks">Mozzarella Cheese Sticks</option>
+            <option value="ing-nilla-wafers">Nilla Wafers</option>
+            <option value="ing-noodles">Noodles</option>
+            <option value="ing-noodles-or-subs">Noodles Or Subs</option>
+            <option value="ing-nutmeg">Nutmeg</option>
+            <option value="ing-oil">Oil</option>
+            <option value="ing-olive-oil">Olive Oil</option>
+            <option value="ing-onion">Onion</option>
+            <option value="ing-onion-powder">Onion Powder</option>
+            <option value="ing-onions">Onions</option>
+            <option value="ing-orange-juice">Orange Juice</option>
+            <option value="ing-oregano">Oregano</option>
+            <option value="ing-orzo">Orzo</option>
+            <option value="ing-panko">Panko</option>
+            <option value="ing-paprika">Paprika</option>
+            <option value="ing-parmesan">Parmesan</option>
+            <option value="ing-parmesan-cheese">Parmesan Cheese</option>
+            <option value="ing-parsley">Parsley</option>
+            <option value="ing-peanut-butter">Peanut Butter</option>
+            <option value="ing-pear-halves">Pear Halves</option>
+            <option value="ing-pear-juice-from-can">Pear Juice From Can</option>
+            <option value="ing-penne">Penne</option>
+            <option value="ing-pepper">Pepper</option>
+            <option value="ing-pepperoni">Pepperoni</option>
+            <option value="ing-pepperoni-sticks">Pepperoni Sticks</option>
+            <option value="ing-petite-diced-tomatoes">Petite Diced Tomatoes</option>
+            <option value="ing-pie-crust"> Pie Crust </option>
+            <option value="ing-pine-nuts">Pine Nuts</option>
+            <option value="ing-pizza-dough"> Pizza Dough </option>
+            <option value="ing-plain-canned-pumpkin-puree">Plain Canned Pumpkin Puree</option>
+            <option value="ing-plain-whole-milk-yogurt">Plain Whole Milk Yogurt</option>
+            <option value="ing-plain-yogurt">Plain Yogurt</option>
+            <option value="ing-polenta">Polenta</option>
+            <option value="ing-polenta"> Polenta </option>
+            <option value="ing-poppy-seeds">Poppy Seeds</option>
+            <option value="ing-pork">Pork</option>
+            <option value="ing-pork-chops">Pork Chops</option>
+            <option value="ing-pork-tenderloin">Pork Tenderloin</option>
+            <option value="ing-potato-chips">Potato Chips</option>
+            <option value="ing-potatoes">Potatoes</option>
+            <option value="ing-powdered-garlic">Powdered Garlic</option>
+            <option value="ing-powdered-onion">Powdered Onion</option>
+            <option value="ing-powdered-sugar">Powdered Sugar</option>
+            <option value="ing-powdered-thyme">Powdered Thyme</option>
+            <option value="ing-prebaked-pie-crust"> Prebaked Pie Crust </option>
+            <option value="ing-quick-cooking-oats">Quick Cooking Oats</option>
+            <option value="ing-raisins">Raisins</option>
+            <option value="ing-red-wine">Red Wine</option>
+            <option value="ing-red-wine-vinegar">Red Wine Vinegar</option>
+            <option value="ing-relish">Relish</option>
+            <option value="ing-rice">Rice</option>
+            <option value="ing-ricotta">Ricotta</option>
+            <option value="ing-roast">Roast</option>
+            <option value="ing-rolls">Rolls</option>
+            <option value="ing-rosemary">Rosemary</option>
+            <option value="ing-salt">Salt</option>
+            <option value="ing-salt-pepper">Salt Pepper</option>
+            <option value="ing-salt-pork">Salt Pork</option>
+            <option value="ing-saltines">Saltines</option>
+            <option value="ing-seasoned-bread-crumbs">Seasoned Bread Crumbs</option>
+            <option value="ing-semi-sweet-chocolate-chips">Semi Sweet Chocolate Chips</option>
+            <option value="ing-semisweet-chocolate">Semisweet Chocolate</option>
+            <option value="ing-sesame-seeds">Sesame Seeds</option>
+            <option value="ing-seven-grain-or-five-grain-hot-cereal-mix">Seven Grain Or Five Grain Hot Cereal Mix</option>
+            <option value="ing-sharp-cheddar">Sharp Cheddar</option>
+            <option value="ing-shortening">Shortening</option>
+            <option value="ing-slider-buns">Slider Buns</option>
+            <option value="ing-sour-cream">Sour Cream</option>
+            <option value="ing-soy-sauce">Soy Sauce</option>
+            <option value="ing-spaghetti">Spaghetti</option>
+            <option value="ing-spaghetti-sauce">Spaghetti Sauce</option>
+            <option value="ing-stew-meat">Stew Meat</option>
+            <option value="ing-sugar">Sugar</option>
+            <option value="ing-tahini">Tahini</option>
+            <option value="ing-thyme">Thyme</option>
+            <option value="ing-tomato-paste">Tomato Paste</option>
+            <option value="ing-tomato-soup">Tomato Soup</option>
+            <option value="ing-tortillas">Tortillas</option>
+            <option value="ing-unflavored-gelatin">Unflavored Gelatin</option>
+            <option value="ing-unsalted-butter">Unsalted Butter</option>
+            <option value="ing-unsweetened-chocolate">Unsweetened Chocolate</option>
+            <option value="ing-vanilla">Vanilla</option>
+            <option value="ing-vanilla-extract">Vanilla Extract</option>
+            <option value="ing-vegetable-oil">Vegetable Oil</option>
+            <option value="ing-warm-water">Warm Water</option>
+            <option value="ing-water">Water</option>
+            <option value="ing-white-bread">White Bread</option>
+            <option value="ing-white-mushrooms">White Mushrooms</option>
+            <option value="ing-white-wine">White Wine</option>
+            <option value="ing-whole-milk">Whole Milk</option>
+            <option value="ing-worcestershire">Worcestershire</option>
+            <option value="ing-worcestershire-sauce">Worcestershire Sauce</option>
+            <option value="ing-yeast">Yeast</option>
+            <option value="ing-yellow-potatoes">Yellow Potatoes</option>
+          </select>
+        </section>
+        <section class="recipe-section" id="desserts">
+          <h2>Desserts</h2>
+          <ul>
+            <li class="recipe tag-cookie tag-chocolate tag-mint tag-vegetarian tag-oven ing-butter ing-brown-sugar ing-water ing-semi-sweet-chocolate-chips ing-flour ing-baking-soda ing-salt ing-eggs ing-andes-mints">
+              <a href="/desserts/andesMintCookies.html">Andes Mint Cookies</a>
+              <small>
+                <a href="/pdf/desserts/andesMintCookies.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-peanut-butter tag-chocolate tag-vegetarian tag-easy tag-stove ing-powdered-sugar ing-peanut-butter ing-vanilla ing-butter ing-dark-chocolate-chips ing-peanut-butter">
+              <a href="/desserts/buckeyes.html">Buckeyes</a>
+              <small>
+                <a href="/pdf/desserts/buckeyes.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-cake tag-vegetarian tag-frosting-and-icing ing-butter ing-powdered-sugar ing-vanilla-extract ing-milk ing-salt">
+              <a href="/desserts/buttercreamFrosting.html">Buttercream Frosting</a>
+              <small>
+                <a href="/pdf/desserts/buttercreamFrosting.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-cookie tag-biscuit tag-vegetarian tag-oven ing-flour ing-ground-cardamom ing-baking-powder ing-salt ing-butter ing-powdered-sugar ing-plain-whole-milk-yogurt ing-vanilla">
+              <a href="/desserts/cardamomCookies.html">Cardamom Cookies (Indian Tea Biscuits)</a>
+              <small>
+                <a href="/pdf/desserts/cardamomCookies.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-cake tag-chocolate tag-vegetarian tag-oven ing-butter ing-milk ing-brown-sugar ing-flour ing-baking-powder ing-salt ing-sugar ing-eggs ing-milk ing-vanilla ing-chocolate-chips">
+              <a href="/desserts/chocolateChipCake.html">Chocolate Chip Cake</a>
+              <small>
+                <a href="/pdf/desserts/chocolateChipCake.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-chocolate tag-vegetarian tag-snack tag-stove ing-brown-sugar ing-cocoa-powder ing-cornstarch ing-corn-syrup ing-salt ing-whole-milk ing-heavy-cream ing-chocolate ing-vanilla">
+              <a href="/desserts/chocolatePudding.html">Chocolate Pudding</a>
+              <small>
+                <a href="/pdf/desserts/chocolatePudding.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-chocolate tag-dessert tag-sauce tag-frosting-and-icing tag-vegetarian tag-stove ing-butter ing-unsweetened-chocolate ing-semisweet-chocolate ing-sugar ing-cream ing-salt ing-vanilla">
+              <a href="/desserts/chocolateSauce.html">Chocolate Sauce</a>
+              <small>
+                <a href="/pdf/desserts/chocolateSauce.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-chocolate tag-cookie tag-vegetarian tag-oven ing-butter ing-sugar ing-egg ing-vanilla ing-flour ing-cocoa-powder ing-salt">
+              <a href="/desserts/chocolateSpritz.html">Chocolate Spritz</a>
+              <small>
+                <a href="/pdf/desserts/chocolateSpritz.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-cake tag-chocolate tag-vegetarian tag-oven tag-stove ing-chocolate ing-heavy-cream ing-vanilla ing-flour ing-sugar ing-salt ing-baking-powder ing-butter ing-egg ing-vanilla ing-milk ing-sugar ing-cinnamon">
+              <a href="/desserts/churroChocolateLavaCakes.html">Churro Chocolate Lava Cakes</a>
+              <small>
+                <a href="/pdf/desserts/churroChocolateLavaCakes.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-chocolate tag-cake tag-vegetarian tag-oven ing-flour ing-baking-powder ing-salt ing-sugar ing-milk ing-unsweetened-chocolate ing-butter ing-vanilla ing-sugar ing-brown-sugar ing-unsweetened-chocolate ing-salt ing-vanilla ing-boiling-water">
+              <a href="/desserts/goop.html">Goop</a>
+              <small>
+                <a href="/pdf/desserts/goop.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-peanut-butter tag-cookie tag-vegetarian tag-easy tag-oven ing-peanut-butter ing-sugar ing-vanilla ing-egg">
+              <a href="/desserts/katesPBCookies.html">Kate’s Peanut Butter Cookies</a>
+              <small>
+                <a href="/pdf/desserts/katesPBCookies.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-cake tag-cheesecake tag-side tag-easy tag-vegetarian tag-oven ing-cream-cheese ing-eggs ing-vanilla-extract ing-sugar ing-nilla-wafers">
+              <a href="/desserts/miniCheesecakes.html">Mini Cheesecakes</a>
+              <small>
+                <a href="/pdf/desserts/miniCheesecakes.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-chocolate tag-peanut-butter tag-cookie tag-vegetarian tag-easy ing-butter ing-graham-cracker ing-powdered-sugar ing-peanut-butter ing-vanilla ing-chocolate-chips ing-peanut-butter">
+              <a href="/desserts/pbChocolateBars.html">Peanut Butter Chocolate Bars</a>
+              <small>
+                <a href="/pdf/desserts/pbChocolateBars.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-easy tag-crust tag-pie tag-vegetarian tag-oven ing-flour ing-salt ing-sugar ing-shortening ing-butter ing-ice-water">
+              <a href="/desserts/pieDoughPreBaked.html">Pie Dough for Prebaked Pie Shell</a>
+              <small>
+                <a href="/pdf/desserts/pieDoughPreBaked.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-pie tag-vegetarian tag-oven tag-stove ing--prebaked-pie-crust- ing-plain-canned-pumpkin-puree ing-dark-brown-sugar ing-ginger ing-cinnamon ing-nutmeg ing-ground-cloves ing-salt ing-heavy-cream ing-milk ing-eggs">
+              <a href="/desserts/pumpkinPie.html">Pumpkin Pie</a>
+              <small>
+                <a href="/pdf/desserts/pumpkinPie.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-stove tag-pudding tag-rice tag-easy tag-long tag-not-enough tag-refrigerator ing-whole-milk ing-sugar ing-salt ing-long-grain-white-rice ing-vanilla-extract">
+              <a href="/desserts/ricePudding.html">Rice Pudding</a>
+              <small>
+                <a href="/pdf/desserts/ricePudding.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-cake tag-vegetarian tag-oven ing-eggs ing-whole-milk ing-vanilla ing-cake-flour ing-sugar ing-baking-powder ing-salt ing-butter">
+              <a href="/desserts/yellowCake.html">Yellow Cake</a>
+              <small>
+                <a href="/pdf/desserts/yellowCake.pdf">[PDF]</a>
+              </small>
+            </li>
+          </ul>
+        </section>
+        <section class="recipe-section" id="breads">
+          <h2>Breads</h2>
+          <ul>
+            <li class="recipe tag-biscuit tag-side tag-vegetarian tag-easy tag-oven ing-flour ing-salt ing-baking-powder ing-cream-of-tartar ing-sugar ing-butter ing-milk">
+              <a href="/breads/bakingPowderBiscuits.html">Baking Powder Biscuits</a>
+              <small>
+                <a href="/pdf/breads/bakingPowderBiscuits.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-buns tag-side tag-hot-dog tag-hamburger tag-roll tag-snack tag-vegetarian tag-oven ing-milk ing-water ing-butter ing-flour ing-yeast ing-sugar ing-salt ing-egg">
+              <a href="/breads/buns.html">Burger or Hot Dog Buns</a>
+              <small>
+                <a href="/pdf/breads/buns.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-side tag-vegetarian tag-easy tag-oven ing-flour ing-cornmeal ing-sugar ing-salt ing-baking-powder ing-milk ing-eggs ing-butter">
+              <a href="/breads/cornbread.html">Cornbread</a>
+              <small>
+                <a href="/pdf/breads/cornbread.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-bread tag-vegetarian tag-vegan tag-easy tag-oven ing-flour ing-yeast ing-sugar ing-salt ing-hot-water">
+              <a href="/breads/cubanBread.html">Cuban Bread</a>
+              <small>
+                <a href="/pdf/breads/cubanBread.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-bread tag-vegetarian tag-fiber tag-oven ing-hot-water ing-seven-grain-or-five-grain-hot-cereal-mix ing-honey ing-vegetable-oil ing-bread-flour ing-salt ing-yeast">
+              <a href="/breads/dakotaBread.html">Dakota Bread</a>
+              <small>
+                <a href="/pdf/breads/dakotaBread.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-bread tag-vegetarian tag-oven ing-cornmeal ing-bread-flour ing-sugar ing-salt ing-baking-soda ing-whole-milk">
+              <a href="/breads/englishMuffinBread.html">English Muffin Bread</a>
+              <small>
+                <a href="/pdf/breads/englishMuffinBread.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-biscuit tag-side tag-easy tag-vegetarian tag-oven ing-flour ing-sugar ing-baking-powder ing-baking-soda ing-salt ing-whole-milk ing-mayonnaise">
+              <a href="/breads/mayonnaiseBiscuits.html">Mayonnaise Biscuits</a>
+              <small>
+                <a href="/pdf/breads/mayonnaiseBiscuits.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-pizza tag-crust tag-vegetarian tag-vegan tag-oven ing-flour ing-sugar ing-yeast ing-salt ing-warm-water ing-oil">
+              <a href="/breads/pizzaCrust.html">Pizza Crust</a>
+              <small>
+                <a href="/pdf/breads/pizzaCrust.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-side tag-vegetarian tag-oven ing-milk ing-eggs ing-flour ing-salt ing-butter">
+              <a href="/breads/popovers.html">Popovers</a>
+              <small>
+                <a href="/pdf/breads/popovers.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-bread tag-side tag-easy tag-snack tag-vegetarian tag-oven ing-flour ing-baking-soda ing-baking-powder ing-sugar ing-salt ing-butter ing-raisins ing-buttermilk">
+              <a href="/breads/sodaBread.html">Soda Bread</a>
+              <small>
+                <a href="/pdf/breads/sodaBread.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-roll tag-snack tag-vegetarian tag-side tag-oven ing-yeast ing-sugar ing-salt ing-water ing-egg ing-flour ing-butter">
+              <a href="/breads/theRolls.html">The Rolls</a>
+              <small>
+                <a href="/pdf/breads/theRolls.pdf">[PDF]</a>
+              </small>
+            </li>
+          </ul>
+        </section>
+        <section class="recipe-section" id="sides">
+          <h2>Sides</h2>
+          <ul>
+            <li class="recipe tag-cheese tag-vegetarian tag-stove ing-milk ing-half-and-half ing-butter ing-polenta ing-grated-parmesan">
+              <a href="/sides/polenta.html">Cheesy Polenta</a>
+              <small>
+                <a href="/pdf/sides/polenta.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-cheese tag-potato tag-vegetarian tag-easy tag-oven ing-frozen-hash-browns ing-cream-of-mushroom-soup ing-sour-cream ing-butter ing-cheddar ing-potato-chips">
+              <a href="/sides/cheesyPotatoes.html">Cheesy Potatoes</a>
+              <small>
+                <a href="/pdf/sides/cheesyPotatoes.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-bread tag-easy tag-vegetarian tag-oven ing-garlic ing-butter ing-parsley ing-thyme ing-marjoram ing-parmesan-cheese ing-oregano ing-italian-bread">
+              <a href="/sides/herbedgarlicbread.html">Herbed Garlic Bread</a>
+              <small>
+                <a href="/pdf/sides/herbedgarlicbread.pdf">[PDF]</a>
+              </small>
+            </li>
+          </ul>
+        </section>
+        <section class="recipe-section" id="main-dishes">
+          <h2>Main Dishes</h2>
+          <ul>
+            <li class="recipe tag-meatball tag-beef tag-hamburger tag-pork tag-freezable tag-oven ing-meatloaf-mix ing-heavy-cream ing-egg ing-white-bread ing-onion-powder ing-ground-allspice ing-ground-nutmeg ing-pepper ing-brown-sugar ing-baking-powder ing-salt">
+              <a href="/main_dishes/bakedMeatballs.html">Baked Meatballs</a>
+              <small>
+                <a href="/pdf/main_dishes/bakedMeatballs.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-beef tag-hamburger tag-cheese tag-portable tag-freezable tag-stove tag-oven ing-vegetable-oil ing-ground-beef ing-salt ing-pepper ing-onion ing-cabbage ing-chicken-broth ing-co-jack ing-whole-milk ing-water ing-unsalted-butter ing-sugar ing-flour ing-yeast ing-salt ing-large-egg">
+              <a href="/main_dishes/beefBuns.html">Beef Buns</a>
+              <small>
+                <a href="/pdf/main_dishes/beefBuns.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-beef tag-pie tag-potato tag-stove tag-oven ing-stew-meat ing-oil ing-onion ing-garlic ing-pepper ing-brown-sugar ing-soy-sauce ing-beef-stock ing-potatoes ing-carrots ing-petite-diced-tomatoes ing-cornstarch">
+              <a href="/main_dishes/beefPotPie.html">Beef Pot Pie</a>
+              <small>
+                <a href="/pdf/main_dishes/beefPotPie.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-beef tag-stew-and-soup tag-potato tag-stove tag-pressure-cooker tag-slow-cooker ing-stew-meat ing-oil ing-petite-diced-tomatoes ing-beef-broth ing-worcestershire-sauce ing-garlic ing-large-onion ing-pepper ing-dried-basil ing-dried-oregano ing-dried-rosemary ing-marjoram ing-large-carrots ing-large-potatoes ing-frozen-peas ing-frozen-corn ing-flour ing-water">
+              <a href="/main_dishes/beefStew.html">Beef Stew</a>
+              <small>
+                <a href="/pdf/main_dishes/beefStew.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-beef tag-hamburger tag-stove ing-chicken-broth ing-long-grain-white-rice ing-minced-garlic ing-salt ing-fresh-cilantro ing-chicken-broth ing-canned-black-beans ing-vegetable-oil ing-onion ing-tomato-paste ing-minced-garlic ing-cumin ing-oregano ing-chili-powder ing-ground-beef ing-lime-juice ing-salt ing-tortillas ing-cheese ing-sour-cream">
+              <a href="/main_dishes/beefAndBeanBurritos.html">Beef and Bean Burritos</a>
+              <small>
+                <a href="/pdf/main_dishes/beefAndBeanBurritos.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-beef tag-hamburger tag-cheese tag-casserole tag-stove tag-oven ing-vegetable-oil ing-onions ing-ground-beef ing-cabbage ing-chicken-powder ing-flour ing-dijon-mustard ing-co-jack ing-salt-pepper ing-whole-milk ing-yeast ing-sugar ing-flour ing-baking-powder ing-salt ing-butter">
+              <a href="/main_dishes/bierockCasserole.html">Bierock Casserole</a>
+              <small>
+                <a href="/pdf/main_dishes/bierockCasserole.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-beans tag-stew-and-soup tag-pork tag-fiber tag-stove tag-pressure-cooker tag-slow-cooker ing-salt-pork ing-black-beans ing-baby-carrots ing-mirepoix ing-worcestershire-sauce ing-bay-leaf ing-powdered-thyme ing-chicken-broth ing-water">
+              <a href="/main_dishes/blackBeanSoup.html">Black Bean Soup</a>
+              <small>
+                <a href="/pdf/main_dishes/blackBeanSoup.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-chicken tag-sandwich tag-fried tag-freezable tag-stove ing-flour ing-eggs ing-breadcrumbs ing-parmesan ing-salt ing-pepper ing-chicken-cutlets ing-vegetable-oil ing-spaghetti-sauce ing-rolls ing-mozzarella-cheese">
+              <a href="/main_dishes/chickenParmSubs.html">Chicken Parmesan Subs</a>
+              <small>
+                <a href="/pdf/main_dishes/chickenParmSubs.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-chicken tag-pie tag-stove tag-oven ing--pie-crust- ing-chicken ing-butter ing-flour ing-thyme ing-rosemary ing-chicken-broth ing-frozen-veggies ing-onion ing-cooking-oil">
+              <a href="/main_dishes/chickenPotPie.html">Chicken Pot Pie</a>
+              <small>
+                <a href="/pdf/main_dishes/chickenPotPie.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-chicken tag-bacon tag-casserole tag-easy tag-oven ing-chicken-breast ing-bacon ing-cream-of-mushroom-soup ing-sour-cream ing-noodles">
+              <a href="/main_dishes/chickenWithATwist.html">Chicken with a Twist</a>
+              <small>
+                <a href="/pdf/main_dishes/chickenWithATwist.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-hot-dogs tag-muffin tag-easy tag-oven ing-hot-dogs ing-flour ing-cornmeal ing-sugar ing-baking-powder ing-salt ing-eggs ing-milk ing-butter">
+              <a href="/main_dishes/cornyDogs.html">Corny Dogs</a>
+              <small>
+                <a href="/pdf/main_dishes/cornyDogs.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-pork tag-mild tag-stove tag-pressure-cooker tag-slow-cooker ing-country-style-pork-ribs ing-oil ing-onions ing-carrots ing-garlic ing-tomato-paste ing-apple-cider-vinegar ing-crushed-red-pepper-flakes ing-bay-leaves ing-chicken-stock ing--polenta-">
+              <a href="/main_dishes/countryStylePorkRibs.html">Country Style Pork Ribs</a>
+              <small>
+                <a href="/pdf/main_dishes/countryStylePorkRibs.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-ham tag-cheese tag-sandwich tag-freezable tag-oven ing-hawaiian-rolls ing-dijon-mustard ing-ham ing-cheese ing-butter ing-poppy-seeds ing-worcestershire-sauce ing-garlic-powder ing-onion-powder">
+              <a href="/main_dishes/footballSandwiches.html">Football Sandwiches</a>
+              <small>
+                <a href="/pdf/main_dishes/footballSandwiches.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-pizza tag-pepperoni tag-cheese tag-dough tag-fried tag-freezable tag-stove tag-deep-fryer ing-flour ing-water ing-olive-oil ing-salt ing-mozzarella ing-mini-pepperoni ing-eggs ing-bread-crumbs ing-oil ing-spaghetti-sauce">
+              <a href="/main_dishes/friedPizzaBalls.html">Fried Pizza Balls</a>
+              <small>
+                <a href="/pdf/main_dishes/friedPizzaBalls.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-stove tag-oven tag-hamburger tag-pork tag-potatoes tag-meatloaf tag-long ing-ketchup ing-brown-sugar ing-apple-cider-vinegar ing-hot-sauce ing-butter ing-onion ing-garlic ing-saltines ing-milk ing-ground-pork ing-ground-beef ing-eggs ing-egg-yolk ing-fresh-parsley ing-dijon-mustard ing-worcestershire ing-thyme ing-salt ing-pepper ing-potatoes">
+              <a href="/main_dishes/frostedMeatloaf.html">Frosted Meatloaf</a>
+              <small>
+                <a href="/pdf/main_dishes/frostedMeatloaf.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-stew-and-soup tag-peas tag-fiber tag-easy tag-stove ing-butter ing-minced-shallots ing-flour ing-chicken-broth ing-frozen-peas ing-heavy-cream">
+              <a href="/main_dishes/FrozenPeaSoup.html">Frozen Pea Soup</a>
+              <small>
+                <a href="/pdf/main_dishes/FrozenPeaSoup.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-meatball tag-sauce tag-stove ing-beef-broth ing-brown-sugar ing-gingersnaps ing-lemon-juice ing-raisins ing-meatballs">
+              <a href="/main_dishes/germanMeatballSauce.html">German Meatball Sauce</a>
+              <small>
+                <a href="/pdf/main_dishes/germanMeatballSauce.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-stew-and-soup tag-vegetables tag-easy tag-ham tag-pressure-cooker ing-butter ing-mirepoix ing-garlic ing-chicken-broth ing-bay-leaves ing-onion-powder ing-salt ing-pepper ing-ham ing-dried-peas">
+              <a href="/main_dishes/hamAndPeaSoup.html">Ham and Pea Soup</a>
+              <small>
+                <a href="/pdf/main_dishes/hamAndPeaSoup.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-hamburger tag-beef tag-pasta tag-bacon tag-easy tag-stove ing-hamburger ing-bacon ing-dried-minced-onion ing-garlic-powder ing-worcestershire-sauce ing-pepper ing-basil ing-cream-of-mushroom-soup ing-sour-cream">
+              <a href="/main_dishes/HamburgerStroganoff.html">Hamburger Stroganoff</a>
+              <small>
+                <a href="/pdf/main_dishes/HamburgerStroganoff.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-sausage tag-sandwich tag-tomato-sauce tag-easy tag-stove ing-ground-italian-sausage ing-powdered-garlic ing-powdered-onion ing-oregano ing-chili-powder ing-spaghetti-sauce">
+              <a href="/main_dishes/italianSloppyJoes.html">Italian Sloppy Joes</a>
+              <small>
+                <a href="/pdf/main_dishes/italianSloppyJoes.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-hamburger tag-beef tag-lamb tag-sauce tag-oven tag-grill ing-pine-nuts ing-minced-garlic ing-paprika ing-salt ing-cumin ing-pepper ing-ground-coriander ing-ground-cloves ing-ground-nutmeg ing-ground-cinnamon ing-grated-onion-drained ing-parsley ing-mint ing-ground-lamb ing-unflavored-gelatin ing-plain-yogurt ing-lemon-juice ing-tahini ing-minced-garlic ing-salt">
+              <a href="/main_dishes/kebabs.html">Kebabs</a>
+              <small>
+                <a href="/pdf/main_dishes/kebabs.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-cheese tag-pasta tag-kielbasa tag-stove ing-kielbasa ing-noodles ing-sharp-cheddar ing-monterey-jack ing-butter ing-flour ing-dry-mustard ing-powdered-onion ing-milk ing-dijon-mustard">
+              <a href="/main_dishes/macAndCheese.html">Mac and Cheese</a>
+              <small>
+                <a href="/pdf/main_dishes/macAndCheese.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-beef tag-hamburger tag-easy tag-tomato-sauce tag-microwave ing-ground-beef ing-powdered-onion ing-powdered-garlic ing-bread-crumbs ing-basil ing-parmesan ing-pepper ing-worcestershire-sauce ing-spaghetti-sauce">
+              <a href="/main_dishes/microwaveMeatballs.html">Microwave Meatballs</a>
+              <small>
+                <a href="/pdf/main_dishes/microwaveMeatballs.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-hamburger tag-beef tag-meatloaf tag-easy tag-freezable tag-oven ing-hamburger ing-onion-powder ing-garlic-powder ing-italian-seasoning ing-pepper ing-panko ing-parmesan ing-egg ing-ketchup">
+              <a href="/main_dishes/MiniMeatloaves.html">Mini Meatloaves</a>
+              <small>
+                <a href="/pdf/main_dishes/MiniMeatloaves.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-pepperoni tag-roll tag-bread tag-freezable tag-portable tag-oven ing-pepperoni-sticks ing-water ing-whole-milk ing-sugar ing-flour ing-yeast ing-salt ing-egg ing-sesame-seeds">
+              <a href="/main_dishes/pepperoniRolls.html">Pepperoni Rolls</a>
+              <small>
+                <a href="/pdf/main_dishes/pepperoniRolls.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-beef tag-hamburger tag-cheese tag-tomato-sauce tag-pasta tag-sandwich tag-stove ing-lean-ground-beef ing-seasoned-bread-crumbs ing-milk ing-dry-minced-onion ing-garlic-powder ing-pepper ing-mozzarella-cheese-sticks ing-flour ing-oil ing-spaghetti-sauce ing-noodles-or-subs">
+              <a href="/main_dishes/pizzaMeatballs.html">Pizza Meatballs</a>
+              <small>
+                <a href="/pdf/main_dishes/pizzaMeatballs.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-pepperoni tag-cheese tag-roll tag-bread tag-freezable tag-portable tag-oven ing--pizza-dough- ing-pepperoni ing-olive-oil ing-parmesan-cheese ing-dried-oregano ing-mozzarella-cheese-sticks">
+              <a href="/main_dishes/pizzaMonkeyBread.html">Pizza Monkey Bread</a>
+              <small>
+                <a href="/pdf/main_dishes/pizzaMonkeyBread.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-beef tag-hamburger tag-tomato-sauce tag-meatball tag-stove ing-ground-beef ing-rice ing-dried-minced-onion ing-powdered-garlic ing-basil ing-pepper ing-tomato-soup ing-water ing-rice">
+              <a href="/main_dishes/porcupineMeatballs.html">Porcupine Meatballs</a>
+              <small>
+                <a href="/pdf/main_dishes/porcupineMeatballs.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-pork tag-pork-chops tag-easy tag-pear tag-oven ing-pork-chops ing-oil ing-pepper ing-pear-halves ing-orange-juice ing-brown-sugar ing-cinnamon ing-pear-juice-from-can ing-butter ing-cornstarch ing-water">
+              <a href="/main_dishes/PorkChopsandPears.html">Pork Chops and Pears</a>
+              <small>
+                <a href="/pdf/main_dishes/PorkChopsandPears.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-stew-and-soup tag-vegetables tag-pork tag-pressure-cooker tag-stove tag-oven tag-slow-cooker ing-pork ing-oil ing-onion ing-garlic ing-beef-broth ing-water ing-petite-diced-tomatoes ing-carrots ing-dry-lentils ing-italian-seasoning ing-pepper">
+              <a href="/main_dishes/PorkandLentils.html">Pork and Lentils</a>
+              <small>
+                <a href="/pdf/main_dishes/PorkandLentils.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-beef tag-pork tag-vegetables tag-oven ing-roast ing-flour ing-large-potatoes ing-carrots ing-onions ing-beef-broth ing-dried-marjoram ing-dried-basil ing-dried-rosemary ing-dried-thyme ing-garlic-powder ing-pepper ing-worcestershire-sauce">
+              <a href="/main_dishes/potRoast.html">Pot Roast</a>
+              <small>
+                <a href="/pdf/main_dishes/potRoast.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-stews-and-soups tag-potato tag-bacon tag-cheese tag-stove ing-bacon ing-potatoes ing-pepper ing-dry-minced-onion ing-milk ing-chicken-broth ing-cheddar-cheese">
+              <a href="/main_dishes/potatoSoup.html">Potato Soup</a>
+              <small>
+                <a href="/pdf/main_dishes/potatoSoup.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-pressure-cooker tag-pork tag-easy tag-sandwich ing-pork-tenderloin ing-olive-oil ing-salt ing-pepper ing-garlic-powder ing-thyme ing-basil ing-rosemary ing-soy-sauce ing-balsamic-vinegar ing-water ing-cornstarch">
+              <a href="/main_dishes/balsamicPork.html">Pressure Cooker Balsamic Pork Tenderloin</a>
+              <small>
+                <a href="/pdf/main_dishes/balsamicPork.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-pasta tag-kielbasa tag-easy tag-cheese tag-rice tag-stove ing-long-grain-white-rice ing-butter ing-orzo ing-onion ing-garlic ing-chicken-broth ing-salt ing-fresh-parsley ing-kielbasa">
+              <a href="/main_dishes/riceAndPastaPilaf.html">Rice and Pasta Pilaf</a>
+              <small>
+                <a href="/pdf/main_dishes/riceAndPastaPilaf.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-stove tag-skillet tag-easy tag-hamburger tag-mushrooms tag-sandwich tag-freezable ing-milk ing-instant-potato-flakes ing-salt ing-pepper ing-ground-beef ing-butter ing-onion ing-white-mushrooms ing-flour ing-tomato-paste ing-beef-broth ing-red-wine">
+              <a href="/main_dishes/salisburySteak.html">Salisbury Steak</a>
+              <small>
+                <a href="/pdf/main_dishes/salisburySteak.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-sausage tag-mushrooms tag-pasta tag-easy tag-cheese tag-stove ing-italian-sausage ing-white-mushrooms ing-chicken-broth ing-diced-tomatoes ing-penne ing-heavy-cream ing-parmesan">
+              <a href="/main_dishes/sausageAndMushroomPenne.html">Sausage and Mushroom Penne</a>
+              <small>
+                <a href="/pdf/main_dishes/sausageAndMushroomPenne.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-pie tag-crust tag-easy tag-vegetarian tag-oven ing-flour ing-salt ing-crisco ing-butter ing-chilled-water">
+              <a href="/main_dishes/savoryPieCrust.html">Savory Pie Crust</a>
+              <small>
+                <a href="/pdf/main_dishes/savoryPieCrust.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-pork tag-stove ing-onion-powder ing-paprika ing-salt ing-pepper ing-boneless-pork-ribs ing-vegetable-oil ing-onion ing-garlic ing-fresh-thyme ing-beef-broth ing-cider-vinegar">
+              <a href="/main_dishes/smotheredPorkRibs.html">Smothered Pork Ribs</a>
+              <small>
+                <a href="/pdf/main_dishes/smotheredPorkRibs.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-pasta tag-easy tag-cheese tag-bacon tag-stove ing-spaghetti ing-bacon ing-olive-oil ing-eggs ing-parmesan ing-garlic ing-white-wine ing-salt ing-pepper">
+              <a href="/main_dishes/spaghettiCarbonara.html">Spaghetti Carbonara</a>
+              <small>
+                <a href="/pdf/main_dishes/spaghettiCarbonara.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-chicken tag-vegetables tag-stew-and-soup tag-dumplings tag-stove ing-chicken-thighs ing-vegetable-oil ing-onion ing-salt ing-pepper ing-chicken-broth ing-flour ing-baking-powder ing-large-eggs ing-half-and-half ing-half-and-half ing-water ing-yellow-potatoes ing-carrots">
+              <a href="/main_dishes/squeezyChickenSoup.html">Squeezy Chicken Soup</a>
+              <small>
+                <a href="/pdf/main_dishes/squeezyChickenSoup.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-pasta tag-cheese tag-tomato-sauce tag-vegetarian tag-stove tag-oven ing-eggs ing-ricotta ing-mozzarella ing-parmesan ing-fresh-parsley ing-salt ing-pepper ing-jumbo-shells ing-spaghetti-sauce">
+              <a href="/main_dishes/stuffedShells.html">Stuffed Shells</a>
+              <small>
+                <a href="/pdf/main_dishes/stuffedShells.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-meatballs tag-sauce tag-easy tag-stove ing-butter ing-flour ing-chicken-broth ing-brown-sugar ing-heavy-cream ing-lemon-juice">
+              <a href="/main_dishes/sweedishMeatballSauce.html">Swedish Meatball Sauce</a>
+              <small>
+                <a href="/pdf/main_dishes/sweedishMeatballSauce.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-turkey tag-burger tag-ground-turkey tag-sauce tag-hamburger tag-stove tag-gridle tag-grill ing-ground-turkey ing-bread-crumbs ing-molasses ing-worcestershire-sauce ing-onion-powder ing-salt ing-pepper ing-milk ing-mayonnaise ing-ketchup ing-relish ing-red-wine-vinegar ing-slider-buns">
+              <a href="/main_dishes/turkeyBurgers.html">Turkey Burgers</a>
+              <small>
+                <a href="/pdf/main_dishes/turkeyBurgers.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-beef tag-hamburger tag-cheese tag-pasta tag-tomato-sauce tag-easy tag-oven ing-ground-beef ing-garlic ing-dried-minced-onion ing-oregano ing-pepper ing-worcestershire-sauce ing-spaghetti-sauce ing-noodles ing-sour-cream ing-cream-cheese ing-parmesan-cheese">
+              <a href="/main_dishes/yankeeNoodleDandy.html">Yankee Noodle Dandy</a>
+              <small>
+                <a href="/pdf/main_dishes/yankeeNoodleDandy.pdf">[PDF]</a>
+              </small>
+            </li>
+          </ul>
+        </section>
+        <section class="recipe-section" id="breakfast">
+          <h2>Breakfast</h2>
+          <ul>
+            <li class="recipe tag-crepe tag-snack tag-vegetarian tag-side tag-dessert tag-easy tag-skinny-pancake tag-stove ing-milk ing-eggs ing-flour ing-sugar ing-vanilla ing-salt">
+              <a href="/breakfast/crepes.html">Crepes</a>
+              <small>
+                <a href="/pdf/breakfast/crepes.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-fiber tag-fruit tag-vegetarian tag-oven ing-quick-cooking-oats ing-brown-sugar ing-baking-powder ing-salt ing-ground-cinnamon ing-eggs ing-milk ing-butter ing-large-apple ing-frozen-fruit">
+              <a href="/breakfast/fruityBakedOatmeal.html">Fruity Baked Oatmeal</a>
+              <small>
+                <a href="/pdf/breakfast/fruityBakedOatmeal.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-easy tag-side tag-dessert tag-vegetarian tag-snack tag-fat-crepe tag-stove ing-milk ing-eggs ing-butter ing-vanilla ing-flour ing-sugar ing-baking-powder ing-salt">
+              <a href="/breakfast/pancakes.html">Pancakes</a>
+              <small>
+                <a href="/pdf/breakfast/pancakes.pdf">[PDF]</a>
+              </small>
+            </li>
+            <li class="recipe tag-long tag-side tag-snack tag-dessert tag-vegetarian tag-plaid-crepe tag-waffle-maker ing-milk ing-flour ing-yeast ing-butter ing-sugar ing-salt ing-eggs ing-baking-soda ing-vanilla">
+              <a href="/breakfast/yeastWaffles.html">Yeast Waffles</a>
+              <small>
+                <a href="/pdf/breakfast/yeastWaffles.pdf">[PDF]</a>
+              </small>
+            </li>
+          </ul>
+        </section>
+        <p>
+          <small>Auto-generated from 
+            <a href="https://github.com/tux2603/recipes">the source</a> at 2023-01-03 00:56:10.629207
+          </small>
+        </p>
+      </section>
+      <footer>
+        <p>This project is maintained by 
+          <a href="https://github.com/tux2603">tux2603</a>
+        </p>
+        <p>
+          <small>Hosted on GitHub Pages - Theme by
+            <a href="https://github.com/orderedlist">orderedlist</a>
+          </small>
+        </p>
+      </footer>
+    </div>
+  </body>
+</html>
