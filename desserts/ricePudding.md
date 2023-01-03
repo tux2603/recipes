@@ -26,3 +26,5 @@
 - not enough
 - refrigerator
 -->
+
+[\[Download PDF\]](/pdf/desserts/ricePudding.pdf)

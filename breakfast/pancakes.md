@@ -35,3 +35,6 @@
 - fat crepe
 - stove
 -->
+
+
+[\[Download PDF\]](/pdf/breakfast/pancakes.pdf)

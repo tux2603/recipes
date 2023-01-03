@@ -29,3 +29,6 @@
 - vegetarian
 - oven
 -->
+
+
+[\[Download PDF\]](/pdf/desserts/chocolateSpritz.pdf)

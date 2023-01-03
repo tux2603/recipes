@@ -33,3 +33,5 @@
 - skinny pancake
 - stove
 -->
+
+[\[Download PDF\]](/pdf/breakfast/crepes.pdf)

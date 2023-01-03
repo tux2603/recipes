@@ -42,3 +42,6 @@
 - plaid crepe
 - waffle maker
 -->
+
+
+[\[Download PDF\]](/pdf/breakfast/yeastWaffles.pdf)

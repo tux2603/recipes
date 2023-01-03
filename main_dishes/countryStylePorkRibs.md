@@ -44,3 +44,5 @@
 - pressure cooker
 - slow cooker
 -->
+
+[\[Download PDF\]](/pdf/main_dishes/countryStylePorkRibs.pdf)

@@ -29,3 +29,5 @@
 - fiber
 - oven
 -->
+
+[\[Download PDF\]](/pdf/breads/dakotaBread.pdf)

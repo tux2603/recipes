@@ -31,3 +31,6 @@
 - vegetarian
 - oven
 -->
+
+
+[\[Download PDF\]](/pdf/sides/herbedgarlicbread.pdf)

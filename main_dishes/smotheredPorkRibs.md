@@ -28,3 +28,5 @@
 - pork
 - stove
 -->
+
+[\[Download PDF\]](/pdf/main_dishes/smotheredPorkRibs.pdf)

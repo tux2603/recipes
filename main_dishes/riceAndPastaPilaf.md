@@ -38,3 +38,5 @@
 - rice
 - stove
 -->
+
+[\[Download PDF\]](/pdf/main_dishes/riceAndPastaPilaf.pdf)
